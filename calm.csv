@@ -1,0 +1,743 @@
+"n"|"id"|"artist_name"|"name"|"duration_ms"|"album_name"|"track_number"|"release_date"|"total_tracks"|"danceability"|"energy"|"key"|"loudness"|"mode"|"speechiness"|"acousticness"|"instrumentalness"|"liveness"|"valence"|"tempo"|"time_signature"
+0|"1KZyVnyptQcPzkx7ELCnZC"|"James Bay"|"Hold Back The River"|238746|"Chaos And The Calm"|2|"2015-03-20"|12|0.715|0.715|5|-7.364|1|0.0902|0.0526|0|0.0936|0.507|134.922|4
+1|"3nnG7AM9QopHVPEuLX3Khk"|"James Bay"|"Let It Go"|260533|"Chaos And The Calm"|3|"2015-03-20"|12|0.536|0.311|1|-10.396|1|0.0288|0.82|1.65e-05|0.107|0.246|147.486|4
+2|"5mGChT2miDApqXTNlejoZY"|"Louis Baker"|"Rainbow"|231748|"Rainbow"|1|"2016-08-26"|1|0.448|0.263|2|-10.362|1|0.0459|0.708|1.87e-06|0.119|0.423|88.109|4
+3|"47UDiZQHAkVtMNhx6EjyOn"|"Passenger"|"Let Her Go"|252733|"All The Little Lights"|2|"2012-02-24"|11|0.479|0.545|7|-7.346|1|0.0688|0.365|0|0.0963|0.244|74.897|4
+4|"1brwdYwjltrJo7WHpIvbYt"|"Alan Walker"|"Faded"|212626|"Faded"|1|"2015-12-04"|2|0.589|0.651|6|-5.097|1|0.0306|0.0291|3.2e-06|0.111|0.166|90.011|4
+5|"7yq4Qj7cqayVTp3FF9CWbm"|"Vance Joy"|"Riptide"|204280|"Dream Your Life Away"|4|"2014-09-08"|13|0.484|0.731|1|-6.694|1|0.0379|0.431|0|0.151|0.51|101.654|4
+6|"44yLjz5SIFMWAMsCCQ1kv8"|"Taylor Swift"|"Safe & Sound - The Hunger Games/Soundtrack Version"|240066|"The Hunger Games: Songs From District 12 And Beyond"|4|"2012-01-01"|16|0.465|0.306|7|-10.785|1|0.0283|0.893|8.89e-06|0.0827|0.285|144.195|4
+7|"36uVyuO8B0bc5SonH2bovp"|"Paces"|"Desert"|204140|"Vacation"|13|"2016-03-02"|13|0.677|0.407|4|-8.985|0|0.053|0.0305|8.43e-05|0.143|0.342|96.874|4
+8|"4KlL5Bwlm4yHYxr0B2rHci"|"Tom Odell"|"Heal"|193080|"Long Way Down (Deluxe)"|13|"2013-06-24"|15|0.445|0.179|1|-12.938|1|0.0396|0.952|0.00056|0.107|0.119|72.246|4
+9|"6kkwzB6hXLIONkEk9JciA6"|"Marconi Union"|"Weightless"|480106|"The Ambient Zone Just Music Cafe Vol 4"|1|"2012-10-29"|12|0.139|0.22|2|-19.974|0|0.0324|0.856|0.831|0.17|0.0789|71.432|5
+10|"3030YT1OMJa4bxthLLHuVM"|"P!nk"|"Beam Me Up"|267293|"The Truth About Love"|9|"2012-09-18"|17|0.487|0.339|0|-7.039|1|0.0309|0.52|0|0.151|0.25|118.017|4
+11|"1MHXTAtfqlRNkGv5g6Ca6q"|"Vance Joy"|"Georgia"|230506|"Dream Your Life Away"|8|"2014-09-05"|13|0.388|0.66|11|-7.372|1|0.0308|0.312|0.000307|0.0943|0.401|143.554|4
+12|"1lyNFzcCl9kXCof6GV32fV"|"Ed Sheeran"|"How Would You Feel (Paean)"|280533|"How Would You Feel (Paean)"|1|"2017-02-16"|1|0.617|0.439|9|-5.63|1|0.0269|0.424|0|0.127|0.242|139.979|4
+13|"2Bo0hh0yoQReC4reJav5DT"|"Sia"|"Breathe Me"|272066|"Colour The Small One (Deluxe Edition)"|3|"2004-01-01"|19|0.553|0.621|0|-7.356|1|0.0333|0.0428|0.596|0.115|0.19|120.051|4
+14|"6HIElrRO0GdlFZB54iVyiI"|"Angus & Julia Stone"|"And The Boys"|249893|"Down The Way"|7|"2010-03-12"|13|0.791|0.42|5|-8.905|0|0.0285|0.558|0.0173|0.129|0.507|99.882|4
+15|"6cDfjpzbfreA0Tv97t2Xll"|"Billie Marten"|"Heavy Weather"|254173|"Heavy Weather"|1|"2015-04-07"|1|0.42|0.386|4|-10.152|0|0.0354|0.796|0.0018|0.355|0.119|77.219|4
+16|"207qh0NdViBam3cvekExEK"|"Vance Joy"|"Emmylou"|280653|"God Loves You When You're Dancing"|1|"2013-03-22"|5|0.542|0.41|9|-8.765|0|0.0233|0.594|0.000346|0.169|0.313|95.923|4
+17|"52UMriNHNZ0bJVEqzXpnfq"|"American Authors"|"Oh, What A Life"|219493|"Oh, What A Life"|11|"2014-01-01"|14|0.559|0.612|2|-5.714|1|0.0304|0.0327|5.47e-06|0.143|0.407|117.91|3
+18|"5oV8bZaShr2d01FFMHBUPq"|"Kina Grannis"|"Iris"|181136|"Iris"|1|"2017-03-10"|1|0.497|0.13|6|-15.571|1|0.0436|0.841|0|0.111|0.179|130.769|3
+19|"4UhDz2HQkEntyK5hPk4ZnO"|"Passenger"|"Anywhere"|216200|"Anywhere"|1|"2016-08-19"|1|0.594|0.635|7|-6.192|1|0.0295|0.0953|7.05e-05|0.0917|0.807|104.507|4
+20|"5Ewz5ms8XpjtkihWFLnJJs"|"The Paper Kites"|"Paint"|191773|"Young North"|4|"2012-09-07"|5|0.554|0.303|4|-13.05|1|0.0366|0.893|0.00207|0.119|0.396|77.295|4
+21|"6tqzOYuE3lrNVPDgtF3MjM"|"Daughter"|"Youth"|253013|"If You Leave"|3|"2013-03-18"|10|0.401|0.535|0|-11.09|1|0.0407|0.889|0.00667|0.116|0.436|146.515|4
+22|"6cSsWi1c3ewIEmbqdUWsUM"|"X Ambassadors"|"Unsteady"|193546|"VHS"|4|"2015-06-30"|20|0.376|0.662|0|-6.124|1|0.057|0.175|0.000691|0.203|0.236|107.209|4
+23|"3FmC4TjVyv6BPBQ68F3CVV"|"Sam Smith"|"Not In That Way"|172452|"In The Lonely Hour"|9|"2014-01-01"|10|0.386|0.157|2|-12.471|1|0.0477|0.932|0|0.129|0.272|74.904|4
+24|"4RL77hMWUq35NYnPLXBpih"|"Birdy"|"Skinny Love"|201080|"Birdy"|2|"2011-11-04"|11|0.379|0.29|4|-8.485|1|0.051|0.952|0.00106|0.118|0.169|166.467|4
+25|"7HQCXYyaBmhugyRDvy4V7m"|"Sleeping At Last"|"North"|259375|"Atlas: I"|22|"2014-07-08"|30|0.367|0.139|7|-12.903|1|0.0465|0.866|0|0.111|0.323|85.695|4
+26|"0IGUZLfbNPrR5TFht2zBY6"|"Angus & Julia Stone"|"Mango Tree"|225106|"Memories Of An Old Friend"|11|"2010-01-01"|13|0.586|0.43|0|-15.097|1|0.0305|0.814|0.099|0.115|0.277|107.788|4
+27|"6klpXs2uAjagnZMFkt4qkl"|"Mandy Moore"|"I See the Light - From ""Tangled"" / Soundtrack Version"|224240|"Tangled"|7|"2010-01-01"|20|0.281|0.139|5|-14.392|1|0.0305|0.829|0|0.0725|0.169|92.64|4
+28|"3uSqIJlJ2iBvZ6tGhkbuGX"|"OneRepublic"|"Ordinary Human"|291613|"The Giver: Music Collection"|1|"2014-01-01"|10|0.282|0.719|5|-7.633|1|0.0335|0.196|0.000358|0.107|0.276|99.992|4
+29|"3B7udSGy2PfgoCniMSb523"|"Ed Sheeran"|"I See Fire - From ""The Hobbit - The Desolation Of Smaug"""|300840|"The Hobbit - The Desolation Of Smaug (Original Motion Picture Soundtrack / Special Edition)"|28|"2013-01-01"|29|0.581|0.0549|10|-20.514|0|0.0397|0.559|0|0.0718|0.234|152.037|4
+30|"2PwXOevGUSkU8qaYZjgLq2"|"Kodaline"|"All I Want"|305746|"In A Perfect World"|2|"2013-10-08"|11|0.209|0.412|0|-9.733|1|0.0443|0.172|0.15|0.0843|0.162|86.26|3
+31|"02WacdrRpm4zlP8H7X6bnQ"|"Calum Scott"|"Dancing On My Own"|260004|"Dancing On My Own"|1|"2016-06-03"|1|0.608|0.174|1|-8.796|1|0.0332|0.851|1.92e-05|0.0855|0.193|112.175|4
+32|"5sF7hdYvhrcgNq8NZjfK8L"|"Birdy"|"Not About Angels"|189475|"Not About Angels"|1|"2014-04-13"|1|0.405|0.111|0|-11.879|1|0.0369|0.964|4.37e-05|0.0872|0.219|116.86|4
+33|"12WNQYCDBQpusqMMY2BsEy"|"The Cinematic Orchestra"|"To Build A Home"|371320|"Ma Fleur"|1|"2007-05-07"|11|0.266|0.127|9|-15.417|1|0.0339|0.884|0.391|0.0957|0.0754|147.809|4
+34|"0YywjDvFudcaHG74NuWISy"|"Birdy"|"People Help the People"|256236|"Birdy"|3|"2011-11-04"|11|0.407|0.308|10|-9.001|0|0.0296|0.778|1.46e-05|0.092|0.153|73.254|3
+35|"5iyqqccidB1SEpOXXctyTR"|"Bastille"|"Oblivion"|196346|"All This Bad Blood"|8|"2013-01-01"|25|0.397|0.331|5|-9.027|1|0.0297|0.708|1.37e-06|0.424|0.247|78.702|4
+36|"56QpLVAeDbJrKoYznl132c"|"Oh Wonder"|"White Blood"|257426|"Oh Wonder"|7|"2015-09-04"|15|0.477|0.229|0|-14.402|1|0.0555|0.845|0.000446|0.196|0.0819|131.28|4
+37|"7fkXzzIVo98CgjOkpd9H0V"|"Sleeping At Last"|"Already Gone"|240790|"Already Gone"|1|"2015-10-06"|1|0.447|0.206|3|-11.75|1|0.0519|0.956|4.56e-06|0.107|0.327|66.734|4
+38|"2EDYchd8hhwAOWKGQxJoro"|"Sleeping At Last"|"Chasing Cars"|240426|"Chasing Cars"|1|"2015-04-23"|1|0.478|0.181|11|-8.731|1|0.0327|0.975|3.37e-06|0.0795|0.279|108.346|4
+39|"67jTooF4NM8NkbmzDoVbKY"|"Gavin Mikhail"|"It's Time"|243892|"Im Not The Only One"|8|"2015-01-21"|18|0.39|0.504|2|-5.506|1|0.0312|0.913|0.00294|0.132|0.174|103.396|4
+40|"2mirluHnTLWWnoZCf6RQde"|"Ron Pope"|"Snow Song"|178460|"Ron Pope: Live and Unplugged In New York"|6|"2010-09-07"|13|0.481|0.257|1|-10.683|1|0.0529|0.84|0|0.701|0.228|141.36|4
+41|"0cyJis7BmYj3Z1LRvz3Kp9"|"Dean Lewis"|"Let Go"|174429|"Same Kind Of Different"|3|"2017-05-12"|6|0.598|0.509|10|-7.918|1|0.0272|0.291|0|0.139|0.433|102.983|4
+42|"0GVuLQtPXFaL18ijEOqoAa"|"Michelle Williams"|"Tightrope"|234360|"The Greatest Showman (Original Motion Picture Soundtrack)"|9|"2017-12-08"|11|0.351|0.331|9|-10.316|1|0.0382|0.3|9.14e-06|0.0919|0.191|161.564|3
+43|"6yVeStGqhwoZkhkLPgmmRB"|"Canyon City"|"Firework"|182744|"Midnight Waves"|3|"2016-09-09"|10|0.536|0.32|1|-10.371|1|0.0393|0.823|0.000193|0.124|0.427|92.45|4
+44|"2cFWt6kXHjqVAvVnGgS8ET"|"James Bay"|"Incomplete"|224266|"Chaos And The Calm"|12|"2015-03-20"|12|0.524|0.401|2|-9.159|1|0.0369|0.664|0|0.118|0.225|144.849|4
+45|"70TgwSyOOThWXgrBFvKB4t"|"Lewis Watson"|"castle street"|471086|"the morning (all of the songs)"|11|"2014-07-04"|37|0.334|0.123|0|-9.554|1|0.0668|0.75|0|0.101|0.256|78.608|1
+46|"6Dvn0oPsC37JXQxENPZROI"|"Stanton Lanier"|"Dawn and Dusk Take Turns Calling"|291085|"Climb to the Sky"|3|"2016-10-18"|12|0.143|0.0274|9|-27.557|1|0.0452|0.993|0.941|0.0724|0.0979|69.729|3
+47|"0dHF8t7OIhgPele5WRUfWG"|"Sleeping At Last"|"I'm Gonna Be (500 Miles)"|211787|"Covers, Vol. 1"|1|"2014-05-16"|8|0.394|0.228|4|-12.584|1|0.0431|0.966|3.81e-05|0.113|0.258|104.625|4
+48|"1NjrOiC3KlEovbhGkyRLMT"|"Julie Fowlis"|"Into The Open Air - From ""Brave"" / Soundtrack Version"|160586|"Disney-Pixar All Time Favorites"|7|"2012-09-04"|15|0.493|0.491|2|-7.468|1|0.0291|0.726|0|0.12|0.268|138.946|4
+49|"3ALOLLBTNINpyRbBJ7riUk"|"Jon D"|"All of the Stars"|234400|"All of the Stars"|1|"2014-06-16"|1|0.509|0.218|7|-16.281|0|0.0313|0.386|0.000233|0.116|0.387|149.676|4
+50|"7GJClzimvMSghjcrKxuf1M"|"George Ezra"|"Budapest"|200720|"Wanted on Voyage"|2|"2014-06-27"|19|0.714|0.451|5|-8.268|1|0.0276|0.0883|0|0.108|0.406|127.787|4
+51|"3hRZsdTF5uyGA2uhNqEuhm"|"Niall Horan"|"Too Much To Ask"|223043|"Too Much To Ask"|1|"2017-09-14"|1|0.517|0.552|0|-6.401|1|0.039|0.375|0|0.106|0.196|153.747|4
+52|"43YlKd8hlnzUv71m2Ly9Nr"|"Cavetown"|"Pigeon"|158742|"Lemon Boy"|12|"2018-01-01"|13|0.656|0.392|7|-11.227|1|0.0365|0.738|0|0.0924|0.0585|110.013|4
+53|"3DjjbSZk16kPEpgjF0OCYN"|"Cavetown"|"888"|215429|"Lemon Boy"|8|"2018-01-01"|13|0.403|0.324|3|-12.249|1|0.0425|0.845|3.23e-06|0.0688|0.25|176.147|3
+54|"6FCtVFA2m7j60qnlN1Sxko"|"Cavetown"|"Green"|270429|"Lemon Boy"|2|"2018-01-01"|13|0.425|0.34|2|-11.208|1|0.035|0.257|0|0.117|0.117|134.977|3
+55|"4ODSk37kEDXRFzOGnXxvAH"|"Cavetown"|"Hazel"|222888|"Cavetown"|4|"2015-11-09"|8|0.641|0.281|7|-10.824|1|0.0291|0.513|0|0.111|0.117|129.927|4
+56|"4tFkgfdi8b3aNcKNthPqIF"|"Gotye"|"Hearts a Mess"|366093|"Like Drawing Blood"|3|"2006-05-21"|11|0.77|0.501|5|-9.582|0|0.037|0.0794|0.18|0.166|0.525|125.081|4
+57|"0iI87VdRHdzSzX2OPKOUGg"|"Conan Gray"|"Idle Town"|236199|"Idle Town"|1|"2017-03-30"|1|0.625|0.239|7|-14.651|1|0.0309|0.846|6.88e-06|0.13|0.246|77.01|4
+58|"2vqmpOXimiT8mSXeQrFZnB"|"mxmtoon"|"feelings are fatal"|124853|"feelings are fatal"|1|"2017-10-06"|1|0.545|0.169|0|-16.249|1|0.132|0.908|0|0.0942|0.482|98.225|4
+59|"69vToJ9BMbbLlFZo7k7A7B"|"Calum Scott"|"You Are The Reason"|204326|"Only Human (Deluxe)"|4|"2018-03-09"|14|0.329|0.235|10|-7.699|1|0.0303|0.918|0|0.137|0.22|171.006|3
+60|"14nWsmzymZ6MV9TDhaH2SV"|"Billie Marten"|"Bird"|219960|"Bird"|1|"2015-09-24"|1|0.315|0.192|6|-12.779|1|0.0348|0.987|0.000899|0.103|0.135|125.58|3
+61|"4F3EPEh1hFAiu1iG1jfB5h"|"Sofia Karlberg"|"A Bible Of Mermaid Pictures - Acoustic"|168030|"A Bible Of Mermaid Pictures (Acoustic)"|1|"2017-03-17"|1|0.456|0.379|2|-8.669|0|0.0364|0.902|3.89e-06|0.132|0.338|125.685|4
+62|"6SYYoox70AQe8YTQ2YEQhA"|"Oliver Riot"|"Omen"|215586|"Neurosis"|3|"2017-02-28"|4|0.551|0.418|8|-12.752|1|0.0318|0.798|0.16|0.646|0.23|124.945|4
+63|"0niAnSAbmZDyYFCY5P7ja3"|"David Baloche"|"Green Pastures"|276388|"Labyrinth"|4|"2017-03-24"|10|0.366|0.446|0|-11.981|1|0.0356|0.736|0.00237|0.0748|0.248|80.076|4
+64|"4MVk79dmYqi7HQs0bMgboy"|"Louie Zong"|"Ghost Duet"|60004|"Ghost Duet"|1|"2017-10-31"|1|0.707|0.234|7|-16.523|1|0.0864|0.96|0.861|0.124|0.611|78.036|3
+65|"14JzyD6FlBD5z0wV5P07YI"|"Billie Eilish"|"when the party's over"|199931|"when the party's over"|1|"2018-10-17"|1|0.498|0.104|1|-14.08|0|0.0621|0.979|7.86e-05|0.0895|0.205|124.001|3
+66|"6obYifaGXlgvnDFyoyuoYM"|"Passenger"|"To Be Free"|287808|"Runaway"|9|"2018-08-31"|20|0.362|0.214|2|-10.427|1|0.0379|0.957|0.000131|0.178|0.258|180.094|3
+67|"3KJ93VZJvSvIdlMa4eyKdX"|"Imaginary Future"|"Let It Be"|148900|"Let It Be"|1|"2018-11-23"|1|0.52|0.124|5|-18.502|1|0.0383|0.9|0|0.114|0.524|149.251|4
+68|"68ViVsxqymVrKMnAbVsEhU"|"Dylan Jordan"|"Talking Slow"|259640|"Talking Slow"|1|"2018-12-12"|1|0.501|0.533|2|-10.11|1|0.0379|0.202|0.00206|0.113|0.151|138.92|4
+69|"5MyAoOmaMSOEDZR6kX2R0b"|"Lewis Watson"|"Slumber"|306477|"Midnight"|10|"2017-03-24"|11|0.541|0.285|0|-11.687|1|0.03|0.83|9.99e-05|0.171|0.237|131.838|4
+70|"42H6GeQfrBkT3vTUTdpB1M"|"Ollie MN"|"Please Never Fall in Love Again"|154000|"Songs from the Swamp"|1|"2017-09-24"|6|0.646|0.0828|10|-16.205|1|0.0435|0.838|1.2e-05|0.0934|0.293|108.826|4
+71|"4hjbxjZpJ8H6qRCzDOGI0M"|"dodie"|"Sick of Losing Soulmates"|267377|"Sick of Losing Soulmates"|1|"2016-10-14"|1|0.492|0.236|2|-17.224|1|0.0359|0.723|0.159|0.351|0.151|75.102|4
+72|"2TI2fw9FWPeah6N4k1b4NU"|"Cavetown"|"This Is Home"|226073|"This Is Home"|1|"2015-08-03"|1|0.81|0.266|7|-12.478|1|0.0407|0.56|1.05e-06|0.0962|0.212|130.041|4
+73|"0fBSs3fRoh1yJcne77fdu9"|"Lana Del Rey"|"Video Games"|281960|"Born To Die - The Paradise Edition"|4|"2012-01-01"|23|0.236|0.249|6|-9.595|0|0.0348|0.811|1e-06|0.087|0.181|72.847|5
+74|"53QF56cjZA9RTuuMZDrSA6"|"Jason Mraz"|"I Won't Give Up"|240165|"Love Is a Four Letter Word (Deluxe Edition)"|4|"2012-04-13"|18|0.483|0.303|4|-10.058|1|0.0429|0.694|0|0.115|0.139|133.406|3
+75|"2N8F9mupXs9oyCLeerRfCw"|"A Great Big World"|"Say Something"|227173|"NOW That's What I Call Music Vol. 49"|6|"2014-01-01"|21|0.331|0.145|2|-8.956|1|0.0379|0.842|2.17e-06|0.108|0.0754|33.259|4
+76|"1tnusyVNhzamoCgTG0RLf1"|"Gavin James"|"Nervous - Acoustic"|250573|"Nervous (Acoustic)"|1|"2016-09-23"|1|0.427|0.127|7|-12.731|1|0.0419|0.964|1.92e-06|0.109|0.259|76.357|4
+77|"3NqoZnyv3qLAM0y3CjB8l2"|"BENEE"|"Evil Spider"|153146|"Evil Spider"|1|"2019-05-09"|1|0.826|0.635|6|-5.844|0|0.106|0.309|0|0.139|0.538|105.971|4
+78|"6CcJMwBtXByIz4zQLzFkKc"|"Billie Eilish"|"i love you"|291796|"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"|13|"2019-03-29"|14|0.421|0.131|0|-18.435|1|0.0382|0.952|0.00453|0.109|0.12|137.446|4
+79|"77MHOLfTVDlhcX0yDr23Uu"|"Patience & Prudence"|"Tonight You Belong To Me"|115226|"The Best Of Patience & Prudence"|1|"2004-03-09"|18|0.68|0.32|10|-7.544|0|0.0289|0.954|0|0.0948|0.769|108.07|4
+80|"6oK27xUYzHIfWWh23AXP6J"|"Jasmine Thompson"|"Cherry Wine"|227091|"Cherry Wine"|1|"2016-05-20"|1|0.388|0.179|0|-10.438|1|0.0387|0.945|3.34e-06|0.121|0.454|84.392|4
+81|"1ezFtClxTMcS2AotqjTZX5"|"Jaymes Young"|"Stone"|216573|"Feel Something"|4|"2017-06-23"|12|0.565|0.255|7|-12.151|1|0.0322|0.792|2.07e-06|0.0986|0.121|110.015|4
+82|"5bt5mhA34P1Dncbik5EGeJ"|"Lara Anderson"|"Build Me Up Buttercup"|175560|"Build Me Up Buttercup"|1|"2018-10-31"|1|0.607|0.167|0|-13.007|1|0.0902|0.885|0|0.165|0.469|122.627|4
+83|"6JT098POzHmS3dlfzwhIIm"|"Ben Kyle"|"Simple Life"|234306|"BEN KYLE"|4|"2017-11-14"|11|0.651|0.22|1|-16.259|1|0.0311|0.441|2.77e-05|0.112|0.235|112.066|4
+84|"4K3gM7kzX4POAfrs71HomN"|"Conan Gray"|"Lookalike"|220866|"Sunset Season"|5|"2018-11-16"|5|0.434|0.302|10|-10.117|1|0.0378|0.766|7.63e-06|0.149|0.173|121.645|4
+85|"6Ooc7sMvXWpuGMc0MSGS3K"|"Stanton Lanier"|"Quiet Place"|210640|"The Voice"|8|"2005-01-01"|13|0.326|0.0289|0|-24.67|1|0.0695|0.989|0.941|0.103|0.268|181.658|1
+86|"38LBTI9FzS5hSNNbcsHsc0"|"chloe moriondo"|"Luv Note"|210742|"Rabbit Hearted."|5|"2018-07-31"|10|0.428|0.0866|5|-19.2|1|0.0514|0.957|0.00049|0.176|0.0788|82.82|3
+87|"7AsNmfkushtMiH0R9JVBk0"|"Imaginary Future"|"Hey Jude"|211734|"Yesterday"|3|"2017-03-16"|6|0.501|0.104|4|-17.002|1|0.0388|0.941|1.05e-06|0.121|0.316|146.58|4
+88|"2Uk0aFqYCtecHL5MCq2we0"|"dodie"|"Secret For The Mad"|197278|"You - EP"|5|"2017-08-11"|6|0.491|0.0861|4|-14.991|1|0.0565|0.992|0.0124|0.0932|0.391|86.038|4
+89|"2I9zHCCeKJRKMgJ6UJFN9W"|"Sofia Mills"|"Coffee Breath"|163902|"Coffee Breath"|1|"2018-03-08"|1|0.866|0.211|11|-12.676|0|0.0404|0.974|0|0.0987|0.198|101.295|4
+90|"0YBNpbrmpZdFRT0NFqii5C"|"The Macarons Project"|"Fly Me to the Moon"|155402|"Fly Me to the Moon"|1|"2018-02-13"|1|0.456|0.113|2|-15.763|0|0.0334|0.915|0.0011|0.0959|0.327|108.536|4
+91|"7wC5eZcFS1Q1BsQ35DU6H4"|"Billie Eilish"|"come out and play"|210375|"come out and play"|1|"2018-11-20"|1|0.64|0.321|0|-14.604|1|0.0931|0.693|0.0307|0.114|0.177|145.045|4
+92|"77enz5hl8RicxrbPB56VXQ"|"Imaginary Future"|"I Will Spend My Whole Life Loving You"|227619|"I Will Spend My Whole Life Loving You"|1|"2017-06-16"|1|0.637|0.129|11|-17.082|1|0.0346|0.887|0|0.0719|0.298|125.802|4
+93|"5NORWMFC27ywGSZxi8uquP"|"The Lumineers"|"Ophelia"|160097|"Cleopatra"|2|"2016-04-08"|11|0.664|0.573|5|-6.519|1|0.0277|0.613|0.000363|0.0857|0.566|76.023|4
+94|"2PIlBukQ6limukVR8Ubb5o"|"Gabrielle Aplin"|"Please Don't Say You Love Me"|181400|"English Rain"|3|"2013-05-13"|19|0.479|0.541|0|-9.862|1|0.0545|0.737|0|0.108|0.321|85.994|4
+95|"73SpzrcaHk0RQPFP73vqVR"|"Billie Eilish"|"No Time To Die"|242265|"No Time To Die"|1|"2020-02-13"|1|0.38|0.219|4|-13.273|0|0.0358|0.917|0.0104|0.0827|0.0517|73.537|4
+96|"4CxFN5zON70B3VOPBYbd6P"|"Jeremy Zucker"|"you were good to me"|219146|"brent"|1|"2019-05-03"|5|0.561|0.0848|2|-15.099|1|0.0404|0.913|2.62e-05|0.112|0.206|102.128|4
+97|"4IhKLu7Vk3j2TLmnFPl6To"|"Alec Benjamin"|"Water Fountain"|218893|"Narrated For You"|2|"2018-11-16"|12|0.723|0.504|8|-5.572|1|0.0392|0.388|7.4e-05|0.087|0.551|133.975|4
+98|"36c2NifUp0GDnoOQT5unhR"|"Zabawa"|"Butterfly's Repose"|309079|"Butterfly's Repose"|1|"2020-03-14"|1|0.3|0.0177|0|-27.293|1|0.0422|0.974|0.00764|0.106|0.0896|120.492|3
+99|"68RI4I6SKm57SxjG06OYvN"|"Winter Aid"|"The Wisp Sings"|313252|"The Wisp Sings"|1|"2013-11-11"|3|0.521|0.0889|4|-19.457|1|0.0507|0.988|0.182|0.0965|0.0479|115.43|4
+100|"6J1CT3gK5eBobPgw8jkb9r"|"Addison Grace"|"Sugar Rush"|246341|"Sugar Rush"|1|"2020-08-25"|1|0.741|0.517|5|-10.05|1|0.0539|0.546|0.000659|0.0781|0.638|122.972|4
+101|"3E6iea9uEmB7gRru4lyP6h"|"John Mayer"|"Stop This Train"|285053|"Continuum"|7|"2006-09-11"|12|0.619|0.437|7|-11.756|1|0.0314|0.465|0.00619|0.0971|0.408|89.508|4
+102|"3hRV0jL3vUpRrcy398teAU"|"Lord Huron"|"The Night We Met"|208211|"Strange Trails"|14|"2015-04-06"|14|0.544|0.369|2|-9.514|1|0.038|0.969|0.279|0.639|0.102|87.01|3
+103|"6dDxgfvM8pJm7AzmLZB1nN"|"Iron & Wine"|"Such Great Heights"|251280|"Around the Well"|11|"2009-05-19"|23|0.611|0.275|6|-10.644|1|0.028|0.808|0.911|0.403|0.552|94.116|4
+104|"5HkQwwo2r0unzqEdRtHI1u"|"Vibes"|"Rainy Days X Animal Crossing"|130004|"Rainy Days X Animal Crossing"|1|"2020-04-22"|1|0.438|0.829|7|-26.105|0|0.044|0.542|0.696|0.369|0.038|148.047|4
+105|"4AmcmraFjVzFb9SQDNTRyl"|"Daughter"|"Youth"|253013|"If You Leave"|3|"2013-01-01"|10|0.4|0.525|0|-11.294|1|0.0435|0.887|0.00543|0.117|0.408|146.977|4
+106|"654bpQLFU931tUdT7HHqu0"|"Zendaya"|"Neverland"|224760|"Neverland"|1|"2015-05-26"|1|0.484|0.457|2|-9.087|1|0.034|0.143|0|0.379|0.223|123.941|4
+107|"3aBOGGAjllxDqGRgewnYIu"|"James Bay"|"Stealing Cars"|223320|"Chaos And The Calm (Deluxe Edition)"|4|"2014-12-15"|22|0.423|0.228|3|-10.947|0|0.0302|0.845|3.64e-06|0.102|0.352|88.288|4
+108|"25qfFpoGhk9Njgu5nl36sS"|"Christina Aguilera"|"Fall In Line (feat. Demi Lovato)"|248544|"Fall In Line (feat. Demi Lovato)"|1|"2018-05-16"|1|0.39|0.631|9|-4.701|0|0.0769|0.209|0|0.277|0.197|123.042|3
+109|"751y2Sk2hyrzcztQpVDBgy"|"Noah Wu"|"Set Me Free"|196387|"Set Me Free"|1|"2021-11-05"|1|0.614|0.663|2|-9.421|0|0.0262|0.0443|1.81e-05|0.106|0.123|114.065|4
+110|"7LVHVU3tWfcxj5aiPFEW4Q"|"Coldplay"|"Fix You"|295533|"X&Y"|4|"2005-06-07"|13|0.209|0.417|3|-8.74|1|0.0338|0.164|0.00196|0.113|0.124|138.178|4
+111|"7HQCXYyaBmhugyRDvy4V7m"|"Sleeping At Last"|"North"|259375|"Atlas: I"|22|"2014-07-08"|30|0.367|0.139|7|-12.903|1|0.0465|0.866|0|0.111|0.323|85.695|4
+112|"1JCCdiru7fhstOIF4N7WJC"|"5 Seconds of Summer"|"Amnesia"|237247|"5 Seconds Of Summer"|12|"2014-06-27"|16|0.572|0.499|2|-5.237|1|0.0311|0.0283|0|0.213|0.108|101.593|4
+113|"6GmUVqe73u5YRfUUynZK6I"|"Passenger"|"Let Her Go"|252733|"All the Little Lights"|2|"2012-06-29"|16|0.479|0.545|7|-7.346|1|0.0688|0.365|0|0.0963|0.244|74.897|4
+114|"0y60itmpH0aPKsFiGxmtnh"|"WILLOW"|"Wait a Minute!"|196520|"ARDIPITHECUS"|13|"2015-01-11"|15|0.764|0.705|3|-5.279|0|0.0278|0.0371|1.94e-05|0.0943|0.672|101.003|4
+115|"64BbK9SFKH2jk86U3dGj2P"|"Red Hot Chili Peppers"|"Otherside"|255373|"Californication (Deluxe Edition)"|4|"1999-06-08"|18|0.458|0.795|0|-3.265|1|0.0574|0.00316|0.000202|0.0756|0.513|123.229|4
+116|"6OtCIsQZ64Vs1EbzztvAv4"|"OneRepublic"|"Good Life"|253306|"Waking Up"|6|"2009-01-01"|11|0.634|0.69|6|-7.804|1|0.052|0.0771|0|0.132|0.645|94.988|4
+117|"1OXfWI3FQMdsKKC6lkvzSx"|"The Wanted"|"Glad You Came"|198466|"Glad You Came"|1|"2011-01-01"|1|0.698|0.844|7|-4.549|0|0.067|0.0577|1.69e-05|0.105|0.446|126.937|4
+118|"4qEoqyPbLYnLOii6mKlIjI"|"Adam Hicks"|"Determinate - From ""Lemonade Mouth"""|198106|"Lemonade Mouth"|4|"2011-01-01"|10|0.562|0.768|1|-5.006|0|0.0488|0.00361|0|0.0742|0.218|139.968|4
+119|"6eFahAdQgABBj1XOM99cBG"|"Hot Chelle Rae"|"I Like It Like That (feat. New Boyz)"|188200|"Whatever"|1|"2011-11-25"|11|0.742|0.784|1|-5.458|1|0.0552|0.0308|0|0.354|0.65|101.002|4
+120|"60a0Rd6pjrkxjPbaKzXjfq"|"Linkin Park"|"In the End"|216880|"Hybrid Theory (Bonus Edition)"|8|"2000-10-24"|15|0.556|0.864|3|-5.87|0|0.0584|0.00958|0|0.209|0.4|105.143|4
+121|"5EYi2rH4LYs6M21ZLOyQTx"|"Rex Orange County"|"Loving Is Easy"|155720|"Loving Is Easy"|1|"2017-10-11"|1|0.756|0.609|3|-7.927|1|0.0544|0.217|0.00474|0.096|0.537|117.023|4
+122|"1y4jsQt7MjnZhiD1L6qFBC"|"Sub Urban"|"Cradles"|209829|"Cradles"|1|"2019-01-04"|1|0.534|0.589|1|-1.865|1|0.325|0.256|6.02e-05|0.176|0.632|78.616|4
+123|"5rYvoJOJ0y8AYodTdf3Wxi"|"Daniel Powter"|"Bad Day"|233640|"Bad Day"|1|"2005-04-25"|1|0.599|0.785|3|-4.013|1|0.0309|0.448|0.00336|0.151|0.52|140.046|4
+124|"7w87IxuO7BDcJ3YUqCyMTT"|"Foster The People"|"Pumped Up Kicks"|239600|"Torches"|2|"2011-05-23"|10|0.733|0.71|5|-5.849|0|0.0292|0.145|0.115|0.0956|0.965|127.975|4
+125|"2hKdd3qO7cWr2Jo0Bcs0MA"|"Train"|"Drops of Jupiter (Tell Me)"|259933|"Drops Of Jupiter"|3|"2001-03-27"|11|0.481|0.638|0|-5.862|1|0.0276|0.153|0|0.154|0.497|79.064|4
+126|"4u26EevCNXMhlvE1xFBJwX"|"The Band Perry"|"If I Die Young"|222773|"The Band Perry"|3|"2010-01-01"|11|0.606|0.497|4|-6.611|1|0.0277|0.348|0|0.275|0.362|130.739|4
+127|"7GVUmCP00eSsqc4tzj1sDD"|"Redbone"|"Come and Get Your Love - Single Version"|205933|"Come and Get Your Love"|1|"1973-11-01"|1|0.731|0.804|11|-7.621|0|0.0473|0.172|0.00028|0.0685|0.957|107.383|4
+128|"1G391cbiT3v3Cywg8T7DM1"|"Red Hot Chili Peppers"|"Scar Tissue"|215906|"Californication (Deluxe Edition)"|3|"1999-06-08"|18|0.595|0.717|0|-4.803|1|0.0295|0.0779|0.00274|0.108|0.547|88.969|4
+129|"52okn5MNA47tk87PeZJLEL"|"NF"|"Let You Down"|212120|"Perception"|6|"2017-10-06"|16|0.662|0.714|5|-5.68|0|0.121|0.312|0|0.179|0.464|147.997|4
+130|"6cJqlSO19vsfCsH1FeFI35"|"Sublime"|"Santeria"|183200|"Sublime (Explicit Version)"|6|"1996-07-30"|17|0.673|0.772|1|-5.246|0|0.0427|0.0223|1.23e-06|0.141|0.585|90.356|4
+131|"7BqBn9nzAq8spo5e7cZ0dJ"|"Bruno Mars"|"Just the Way You Are"|220734|"Doo-Wops & Hooligans"|2|"2010-10-05"|10|0.635|0.841|5|-5.379|1|0.0422|0.0134|0|0.0622|0.424|109.021|4
+132|"6lanRgr6wXibZr8KgzXxBl"|"Christina Perri"|"A Thousand Years"|285120|"A Thousand Years"|1|"2011-10-18"|1|0.421|0.407|10|-7.445|1|0.0267|0.309|0.000961|0.11|0.161|139.028|3
+133|"2FbuKbyrOnDRRKDYGbwVcx"|"Jason Mraz"|"I Won’t Give Up"|240413|"Your Songs 2014"|7|"2014-01-01"|40|0.566|0.264|4|-12.165|1|0.0445|0.686|0|0.117|0.137|136.547|3
+134|"3U4isOIWM3VvDubwSI3y7a"|"John Legend"|"All of Me"|269560|"Love In The Future (Expanded Edition)"|6|"2013-08-30"|20|0.422|0.264|8|-7.064|1|0.0322|0.922|0|0.132|0.331|119.93|4
+135|"12OLyHDxt6dqlAybSPFBK3"|"Lewis Capaldi"|"Forever"|210863|"Divinely Uninspired To A Hellish Extent"|6|"2019-05-17"|12|0.646|0.355|1|-7.119|1|0.0263|0.873|0|0.115|0.364|84.988|4
+136|"5C1TucCRf4Vjjree1OItyv"|"Lewis Capaldi"|"One"|179907|"Divinely Uninspired To A Hellish Extent"|7|"2019-05-17"|12|0.708|0.339|9|-7.085|1|0.0409|0.834|0|0.128|0.512|117.995|4
+137|"6glNKSv2aUtfQhe1SJBZZt"|"Lewis Capaldi"|"Lost On You"|197178|"Divinely Uninspired To A Hellish Extent"|10|"2019-05-17"|12|0.555|0.282|10|-8.228|1|0.0612|0.889|0|0.0927|0.382|125.522|4
+138|"2ze1pq1OdIIfjDWyQMQloK"|"Lewis Capaldi"|"Tough"|228813|"Breach"|1|"2018-11-08"|4|0.625|0.696|1|-5.617|1|0.0337|0.129|0|0.0839|0.509|115.006|4
+139|"5hVghJ4KaYES3BFUATCYn0"|"Tyler, The Creator"|"EARFQUAKE"|190066|"IGOR"|2|"2019-05-17"|12|0.554|0.498|9|-8.866|1|0.0685|0.23|5.98e-06|0.795|0.413|79.635|4
+140|"60iSKGrGazRzICtMjADNSM"|"Lewis Capaldi"|"Hold Me While You Wait"|205686|"Divinely Uninspired To A Hellish Extent"|3|"2019-05-17"|12|0.688|0.53|11|-5.507|1|0.0333|0.443|0|0.0995|0.162|106.958|4
+141|"69vToJ9BMbbLlFZo7k7A7B"|"Calum Scott"|"You Are The Reason"|204326|"Only Human (Deluxe)"|4|"2018-03-09"|14|0.329|0.235|10|-7.699|1|0.0303|0.918|0|0.137|0.22|171.006|3
+142|"7Ewz6bJ97vUqk5HdkvguFQ"|"Bryan Adams"|"Heaven"|243360|"Reckless (30th Anniversary / Deluxe Edition)"|4|"1984-11-05"|32|0.382|0.589|9|-7.315|0|0.0267|0.0465|0|0.122|0.335|140.059|4
+143|"7qEHsqek33rTcFNT9PFqLf"|"Lewis Capaldi"|"Someone You Loved"|182160|"Divinely Uninspired To A Hellish Extent"|4|"2019-05-17"|12|0.501|0.405|1|-5.679|1|0.0319|0.751|0|0.105|0.446|109.891|4
+144|"15xWRPHQMeqgdkGzInx3PY"|"James Arthur"|"Falling Like The Stars"|212720|"Falling Like The Stars"|1|"2019-05-10"|1|0.296|0.351|6|-9.538|1|0.0352|0.823|1.45e-06|0.11|0.19|177.06|3
+145|"5HU2B0yEnvg5EUB8FWeoda"|"Lewis Capaldi"|"Maybe"|210116|"Divinely Uninspired To A Hellish Extent"|5|"2019-05-17"|12|0.681|0.636|4|-5.485|1|0.0409|0.65|0|0.258|0.341|96.966|4
+146|"6moU77g9RQyMzHNuKEaQKq"|"Ali Gatie"|"It's You"|212606|"It's You"|1|"2019-06-14"|1|0.732|0.463|11|-6.972|0|0.0287|0.374|0|0.194|0.397|95.971|4
+147|"3EJaUuGn4gtGa7u0vswTGv"|"Overcoats"|"Cherry Wine"|246093|"Cherry Wine"|1|"2016-12-02"|1|0.479|0.177|10|-11.266|1|0.036|0.963|0|0.116|0.136|124.033|3
+148|"5HQVUIKwCEXpe7JIHyY734"|"Snoop Dogg"|"Young, Wild & Free (feat. Bruno Mars)"|207333|"Young, Wild & Free (feat. Bruno Mars)"|1|"2011-10-11"|1|0.715|0.655|0|-6.425|1|0.137|0.0525|0|0.115|0.531|95.078|4
+149|"5MMZJtHOiH1RmQSSe3DJdg"|"The Lumineers"|"Sleep On The Floor"|211851|"Cleopatra"|1|"2016-04-08"|11|0.389|0.431|7|-8.061|1|0.0344|0.249|0|0.13|0.275|142.14|4
+150|"3528IXKpbb7OMjdjWYlbfD"|"Neon Trees"|"Everybody Talks"|177280|"Picture Show (Deluxe Edition)"|3|"2012-01-01"|14|0.471|0.924|8|-3.906|1|0.0586|0.00301|0|0.313|0.725|154.961|4
+151|"7njKgVl3AnLflRad38o7AG"|"Bazzi"|"Paradise"|169038|"Paradise"|1|"2019-04-04"|2|0.844|0.644|11|-6.273|0|0.0479|0.0828|0|0.113|0.591|122.061|4
+152|"4XNrMwGx1SqP01sqkGTDmo"|"Maroon 5"|"One More Night"|219466|"Overexposed (Deluxe)"|1|"2012-01-01"|15|0.718|0.82|5|-3.453|0|0.0323|0.0444|0|0.0846|0.613|92.998|4
+153|"6qn9YLKt13AGvpq9jfO8py"|"Rihanna"|"We Found Love"|215226|"Talk That Talk"|3|"2011-11-18"|11|0.734|0.766|1|-4.485|1|0.0383|0.025|0.00138|0.108|0.6|127.986|4
+154|"0hkR93a0LriV2CQUhSXw3h"|"Maejor"|"Lights Down Low (feat. Waka Flocka Flame)"|186120|"Lights Down Low (feat. Waka Flocka Flame)"|1|"2012-03-23"|1|0.717|0.858|7|-3.469|0|0.0422|0.0694|2.8e-06|0.0801|0.67|155.41|4
+155|"4Tid4MwqgR1CfKCun3tFon"|"ayokay"|"Kings of Summer - Single Version"|207880|"Kings of Summer (feat. Quinn XCII)"|1|"2016-07-20"|2|0.734|0.661|11|-6.705|1|0.0356|0.222|2.18e-06|0.201|0.253|134.93|4
+156|"0RUGuh2uSNFJpGMSsD1F5C"|"Bruno Mars"|"It Will Rain"|257720|"The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)"|3|"2011-11-04"|19|0.576|0.835|2|-6.826|1|0.0486|0.337|0|0.082|0.476|150.017|4
+157|"5RdhBLmB4DyFHLglRrfx63"|"The Jackson 5"|"I'll Be There"|237760|"Third Album"|1|"1970-09-08"|11|0.51|0.515|5|-7.247|1|0.0253|0.593|1.24e-06|0.654|0.331|93.212|4
+158|"2ZA4uMlSZjaoWGFqP1tsLI"|"John Legend"|"Ordinary People"|281466|"Get Lifted"|8|"2005-12-06"|15|0.469|0.132|10|-14.001|1|0.0798|0.928|0|0.0873|0.36|66.989|3
+159|"3nFJbZCHP4d9vduKjJLdBL"|"Luther Vandross"|"Never Too Much"|230466|"Never Too Much"|1|"1981-07-23"|7|0.734|0.586|2|-11.866|1|0.129|0.125|0|0.0367|0.762|109.933|4
+160|"6Vc5wAMmXdKIAM7WUoEb7N"|"A Great Big World"|"Say Something"|229400|"Is There Anybody Out There?"|13|"2014-01-20"|13|0.407|0.147|2|-8.822|1|0.0355|0.857|2.89e-06|0.0913|0.0765|141.284|3
+161|"6CcJMwBtXByIz4zQLzFkKc"|"Billie Eilish"|"i love you"|291796|"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"|13|"2019-03-29"|14|0.421|0.131|0|-18.435|1|0.0382|0.952|0.00453|0.109|0.12|137.446|4
+162|"4OBZT9EnhYIV17t4pGw7ig"|"H.E.R."|"Best Part (feat. Daniel Caesar)"|209400|"H.E.R."|10|"2017-10-20"|21|0.473|0.371|4|-10.219|0|0.0405|0.795|0|0.109|0.413|75.208|4
+163|"0JXNaI6LobVGmm98XWUjVq"|"Brendan Maclean"|"Stupid"|197833|"Stupid"|1|"2013-02-11"|1|0.754|0.749|7|-5.539|1|0.0302|0.132|0|0.264|0.819|125.978|4
+164|"5rFj8OzffT0iggSjcBaeND"|"Sam Smith"|"Fire On Fire - From ""Watership Down"""|246735|"Fire On Fire (From ""Watership Down"")"|1|"2018-12-21"|1|0.584|0.407|1|-7.356|0|0.046|0.476|0|0.18|0.341|115.124|4
+165|"2RAH3AVr3KteyBeHixiPQZ"|"Sam Smith"|"Latch - Acoustic"|223429|"In The Lonely Hour (Drowning Shadows Edition)"|12|"2015-11-06"|23|0.349|0.256|8|-8.773|1|0.0278|0.979|0.000329|0.109|0.208|96.354|4
+166|"3xRcQ04b0l5RiU2w7lJhCD"|"James Bay"|"Bad"|225920|"Oh My Messy Mind"|2|"2019-05-10"|4|0.549|0.413|4|-5.587|1|0.0362|0.756|0|0.0939|0.29|139.981|4
+167|"4JehYebiI9JE8sR8MisGVb"|"Beyoncé"|"Halo"|261640|"I AM...SASHA FIERCE"|2|"2008-11-17"|11|0.508|0.72|11|-5.908|0|0.0628|0.272|0|0.0563|0.472|79.983|4
+168|"22UDw8rSfLbUsaAGTXQ4Z8"|"Estelle"|"American Boy"|284733|"Shine"|3|"2008-03-28"|12|0.727|0.729|0|-2.99|1|0.326|0.171|0|0.07|0.512|117.932|4
+169|"6jAsmDJI8iPhGWtS27kZ67"|"Rihanna"|"Only Girl (In The World)"|235520|"Loud"|5|"2010-11-15"|11|0.786|0.716|11|-4.253|0|0.0409|0.102|1.72e-05|0.0557|0.595|125.921|4
+170|"7kF3x1XJXGcgQWFemulw4q"|"Sam Fischer"|"This City"|194853|"This City"|1|"2018-01-17"|1|0.602|0.377|11|-6.213|1|0.0446|0.731|0|0.0808|0.518|73.877|4
+171|"6J0xeqjdpsUH0W1YBCmD1L"|"You Me At Six"|"Take on the World"|271306|"Night People"|4|"2017-01-06"|10|0.557|0.532|2|-6.467|1|0.0307|0.16|4.42e-06|0.0999|0.122|103.992|4
+172|"3TpXajg1nKzG3ngc9tBwrD"|"Bruno Major"|"Easily"|210240|"Easily"|1|"2016-11-25"|1|0.772|0.256|7|-8.545|0|0.0481|0.491|0.00612|0.144|0.357|118.902|3
+173|"7c5h27Ju8JE5xWKTQ88KhL"|"P!nk"|"Hurts 2B Human (feat. Khalid)"|202640|"Hurts 2B Human (feat. Khalid)"|1|"2019-04-22"|1|0.463|0.62|7|-5.647|1|0.167|0.131|0|0.0619|0.158|83.031|1
+174|"0zor3Hre5d5bgHGpbZHNw4"|"Chrishan"|"Sin City"|212000|"TieDye, Pt. 1"|1|"2015-08-04"|7|0.886|0.225|4|-11.437|1|0.457|0.676|0|0.0938|0.387|120.1|4
+175|"4evmHXcjt3bTUHD1cvny97"|"Ed Sheeran"|"Beautiful People (feat. Khalid)"|197866|"Beautiful People (feat. Khalid)"|1|"2019-06-28"|1|0.64|0.648|5|-8.113|0|0.187|0.124|0|0.0802|0.548|92.977|4
+176|"2u2udGmop1z67EPpr91km7"|"Michael Jackson"|"Man in the Mirror"|319306|"HIStory - PAST, PRESENT AND FUTURE - BOOK I"|8|"1995-06-16"|30|0.794|0.798|8|-5.639|1|0.0366|0.429|1.16e-05|0.118|0.265|100.338|4
+177|"1xVF9wZZ87uAz0bw6jT4sH"|"Tom Odell"|"Heal"|195240|"Long Way Down"|13|"2013-09-17"|13|0.455|0.179|1|-12.938|1|0.0389|0.952|0.00056|0.106|0.12|73.698|4
+178|"7gG2urq4CeTzLJJZ2Ygnoy"|"Novo Amor"|"Cold"|263045|"Woodgate, NY"|3|"2014-03-31"|4|0.411|0.304|3|-11.311|1|0.0345|0.791|0.402|0.0896|0.0392|67.553|4
+179|"7qH9Z4dJEN0l9bidizW7fq"|"Novo Amor"|"Anchor"|257533|"Bathing Beach"|3|"2017-05-26"|4|0.457|0.407|9|-11.475|1|0.0308|0.805|0.884|0.126|0.126|117.053|4
+180|"2DePNQmfS4t6iUETRU72uH"|"Alessia Cara"|"I Don't Want To"|162493|"The Pains Of Growing"|3|"2018-11-30"|15|0.531|0.291|8|-10.172|0|0.379|0.842|0|0.321|0.634|82.44|4
+181|"4E3U39bAmc61R0hZu2xciI"|"Ryan Leahan"|"My Little"|122978|"Platinum Green"|4|"2019-01-17"|11|0.329|0.713|11|-6.484|0|0.0397|0.17|0|0.508|0.45|138.563|4
+182|"6ECxq5Sh1ogq6oHDRUVmV2"|"Sleeping At Last"|"Three"|247463|"Atlas: Enneagram"|3|"2019-07-11"|9|0.389|0.181|0|-11.148|1|0.0431|0.94|0|0.0644|0.259|127.965|4
+183|"76nlq5gomu49Yn5dfmtv0C"|"Sleeping At Last"|"One"|203032|"Atlas: Enneagram"|1|"2019-07-11"|9|0.393|0.34|0|-9.59|1|0.032|0.89|4.36e-06|0.101|0.417|119.134|4
+184|"6XvzSF3NDwOKP6RF0YmXEU"|"Sleeping At Last"|"Four"|291688|"Atlas: Enneagram"|4|"2019-07-11"|9|0.349|0.106|5|-13.263|1|0.037|0.966|1.55e-05|0.106|0.138|125.386|3
+185|"0Di5p4ItolIUZB8c2P0pvs"|"Demi Lovato"|"Wouldn't Change a Thing - From ""Camp Rock 2: The Final Jam"""|203840|"Camp Rock 2: The Final Jam"|5|"2010-01-01"|15|0.359|0.883|1|-3.535|1|0.0907|0.0753|0|0.112|0.481|171.725|4
+186|"161DnLWsx1i3u1JT05lzqU"|"Bruno Mars"|"Talking to the Moon"|217866|"Doo-Wops & Hooligans"|7|"2010-10-05"|10|0.498|0.59|1|-4.721|0|0.032|0.511|0|0.107|0.0784|145.867|4
+187|"5Apvsk0suoivI1H8CmBglv"|"Hozier"|"Almost (Sweet Music)"|217480|"Wasteland, Baby!"|2|"2019-03-01"|14|0.523|0.687|7|-5.601|1|0.105|0.0215|2.86e-06|0.203|0.711|90.036|4
+188|"1djzKW3eYLyzjjHXazEWWh"|"Hozier"|"Movement"|237800|"Wasteland, Baby!"|3|"2019-03-01"|14|0.381|0.502|1|-5.505|0|0.0368|0.16|6.98e-05|0.0842|0.147|144.3|4
+189|"2AaF78iCWISMWYog5RnSi5"|"John Legend"|"Preach"|236880|"Preach"|1|"2019-02-15"|1|0.508|0.729|11|-5.712|0|0.0443|0.0681|0|0.1|0.412|91.906|4
+190|"0tMSssfxAL2oV8Vri0mFHE"|"Billie Eilish"|"listen before i go"|242652|"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"|12|"2019-03-29"|14|0.319|0.0561|0|-23.023|1|0.045|0.935|0.00384|0.388|0.082|79.764|3
+191|"5tAa8Uaqr4VvA3693mbIhU"|"Zara Larsson"|"Ruin My Life"|190931|"Ruin My Life"|1|"2018-10-18"|1|0.665|0.699|11|-5.265|1|0.0578|0.423|0|0.0969|0.585|124.896|4
+192|"7vS3Y0IKjde7Xg85LWIEdP"|"Ariana Grande"|"Problem"|193920|"My Everything (Deluxe)"|2|"2014-08-25"|15|0.66|0.805|1|-5.352|0|0.153|0.0192|8.83e-06|0.159|0.625|103.008|4
+193|"0TXNKTzawI6VgLoA9UauRp"|"James TW"|"When You Love Someone"|216560|"Chapters"|2|"2019-04-26"|12|0.681|0.453|7|-6.09|1|0.0278|0.263|0|0.0543|0.348|125.772|4
+194|"4h0zU3O9R5xzuTmNO7dNDU"|"Ruth B."|"Lost Boy"|275280|"Lost Boy"|1|"2015-08-21"|1|0.71|0.0565|7|-15.099|1|0.0534|0.965|0|0.0889|0.348|123.994|4
+195|"4WzhjxvLP95y7AMDy0Atwb"|"Alessia Cara"|"Out Of Love"|227693|"The Pains Of Growing"|11|"2018-11-30"|15|0.481|0.267|7|-9.249|1|0.0339|0.8|0|0.249|0.137|117.64|3
+196|"7oOOI85fVQvVnK5ynNMdW7"|"Michael Jackson"|"Rock with You - Single Version"|220626|"Off the Wall"|2|"1979-08-10"|10|0.808|0.535|1|-12.521|1|0.0353|0.179|9.91e-05|0.158|0.848|114.031|4
+197|"4Y5gx8VuShNmakYGlnrUzD"|"Natalie Taylor"|"Surrender"|183103|"Surrender"|1|"2015-10-29"|1|0.39|0.448|5|-8.57|0|0.0276|0.8|0.182|0.107|0.077|144.89|5
+198|"5A3fPy30SN2wuzrahpcxvV"|"Andy Grammer"|"Don't Give Up On Me - (From ""Five Feet Apart"")"|196187|"Naive"|5|"2019-07-26"|13|0.641|0.537|0|-5.452|0|0.0282|0.0875|9.05e-06|0.115|0.0681|112.864|4
+199|"2rbDhOo9Fh61Bbu23T2qCk"|"Lady Gaga"|"Always Remember Us This Way"|210200|"A Star Is Born Soundtrack (Without Dialogue)"|9|"2018-10-05"|19|0.553|0.502|0|-5.972|1|0.0409|0.299|0|0.764|0.296|129.976|4
+200|"1Nme6K1PYAh7p7uygyuRdf"|"Jordin Sparks"|"Battlefield"|241920|"Battlefield"|2|"2009-07-20"|12|0.613|0.634|2|-3.472|1|0.0339|0.0178|0|0.0719|0.37|144.953|4
+201|"0u2P5u6lvoDfwTYjAADbn4"|"Billie Eilish"|"lovely (with Khalid)"|200185|"lovely (with Khalid)"|1|"2018-04-19"|1|0.351|0.296|4|-10.109|0|0.0333|0.934|0|0.095|0.12|115.284|4
+202|"040R5ASe6x4tgHF9NnpWTW"|"Meredith Brackbill"|"If You Leave"|202446|"If You Leave"|1|"2017-04-26"|1|0.605|0.0145|0|-19.451|0|0.0514|0.897|0|0.354|0.137|140.762|3
+203|"5zCunX8URvLoBHlg1Fnjv6"|"Sleeping At Last"|"Already Gone"|243007|"Covers, Vol. 2"|8|"2016-11-04"|10|0.418|0.248|3|-9.997|1|0.0451|0.954|4.21e-06|0.108|0.298|130.953|4
+204|"1dLe0Sq6ugOTEpvRnSaWWY"|"Sleeping At Last"|"Faith"|212766|"Covers, Vol. 2"|6|"2016-11-04"|10|0.355|0.217|0|-10.163|1|0.0367|0.929|1.16e-05|0.0787|0.222|104.672|5
+205|"7FjKU2mfpEpvKIbx8naZRk"|"AJ Mitchell"|"Used to Be"|174793|"Used to Be"|1|"2018-05-25"|1|0.471|0.474|5|-6.355|1|0.0382|0.723|0|0.0964|0.262|120.656|4
+206|"5a6pdCHlWS2ekOOQ70QnAr"|"Noah Cyrus"|"July"|156106|"July"|1|"2019-07-31"|1|0.708|0.186|9|-8.953|0|0.0422|0.868|0|0.0779|0.321|72.541|4
+207|"6w8pFOKn42O418qwcQElZ3"|"Dean Lewis"|"Waves"|240013|"A Place We Knew"|5|"2019-03-22"|12|0.518|0.729|11|-7.193|0|0.0452|0.183|0|0.0643|0.343|156.879|4
+208|"4Of7rzpRpV1mWRbhp5rAqG"|"Lewis Capaldi"|"Bruises"|220492|"Divinely Uninspired To A Hellish Extent"|2|"2019-05-17"|12|0.736|0.308|4|-7.83|1|0.0677|0.946|0|0.186|0.361|111.202|4
+209|"3cpOqFZ30z5cUJUC9MYaar"|"BANNERS"|"Start A Riot"|215960|"BANNERS"|1|"2016-01-15"|5|0.535|0.728|10|-4.008|0|0.033|0.0135|0|0.133|0.376|144.022|4
+210|"7aubFeeD5wIRpysoAxzBd5"|"Alex & Sierra"|"You Will Find Me"|206005|"As Seen On TV"|7|"2016-09-30"|8|0.581|0.521|0|-7.575|1|0.0321|0.475|6.1e-06|0.0785|0.242|143.855|4
+211|"6VObnIkLVruX4UVyxWhlqm"|"Adele"|"Skyfall"|286480|"Skyfall"|1|"2012-10-04"|1|0.346|0.552|0|-6.864|0|0.0282|0.417|0|0.114|0.0789|75.881|4
+212|"43zdsphuZLzwA9k4DJhU0I"|"Billie Eilish"|"when the party's over"|196077|"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"|7|"2019-03-29"|14|0.367|0.111|4|-14.084|1|0.0972|0.978|3.97e-05|0.0897|0.198|82.642|4
+213|"10QJkBWQJXPr3TYaPuH6gR"|"Sean Kingston"|"Dumb Love"|186773|"Dumb Love"|1|"2010-09-07"|1|0.758|0.646|0|-3.662|1|0.0724|0.356|0|0.473|0.876|128.031|4
+214|"4lwavw59UjXUPJZtKNdFYp"|"Lady Gaga"|"Alejandro"|274213|"The Fame Monster (Deluxe Edition)"|2|"2009-08-05"|22|0.626|0.799|11|-6.612|0|0.046|0.000358|0.00155|0.36|0.369|98.992|4
+215|"1KGi9sZVMeszgZOWivFpxs"|"TLC"|"No Scrubs"|214400|"Fanmail"|5|"1999-02-23"|17|0.743|0.675|8|-4.267|0|0.0953|0.0251|0.000717|0.0685|0.59|92.909|4
+216|"3BJe4B8zGnqEdQPMvfVjuS"|"Lana Del Rey"|"Summertime Sadness"|265427|"Born To Die - The Paradise Edition"|11|"2012-01-01"|23|0.565|0.654|1|-6.826|0|0.0335|0.0542|1.8e-06|0.122|0.235|111.968|4
+217|"2nMeu6UenVvwUktBCpLMK9"|"Lana Del Rey"|"Young And Beautiful"|236053|"Young And Beautiful"|1|"2013-01-01"|1|0.324|0.416|11|-8.92|0|0.0368|0.262|3.69e-05|0.11|0.151|113.986|4
+218|"7vHmfnKJMWYWzS1H3dC5VF"|"Lana Del Rey"|"In My Feelings"|238718|"Lust For Life"|8|"2017-07-21"|16|0.551|0.677|2|-6.347|1|0.0893|0.0589|0.0566|0.112|0.293|89.961|4
+219|"4mq14Qa6OehdiyZFtHcdCH"|"Lana Del Rey"|"13 Beaches"|295569|"Lust For Life"|3|"2017-07-21"|16|0.415|0.402|7|-9.063|1|0.0354|0.556|0.0677|0.198|0.237|144.033|4
+220|"7vRfxLcDDwgYW2WTrtEgUV"|"Lana Del Rey"|"The Next Best American Record"|349347|"Norman Fucking Rockwell!"|10|"2019-08-30"|14|0.569|0.354|2|-9.862|1|0.0315|0.616|2.75e-05|0.112|0.118|108.083|4
+221|"77TT8Xvx637TpzV8kKGkUw"|"David Guetta"|"Titanium (feat. Sia)"|245040|"Nothing but the Beat"|13|"2011-08-31"|13|0.604|0.788|0|-3.673|0|0.103|0.0678|0.153|0.127|0.301|126.06|4
+222|"6b2RcmUt1g9N9mQ3CbjX2Y"|"Sam Smith"|"How Do You Sleep?"|202204|"How Do You Sleep?"|1|"2019-07-19"|1|0.477|0.682|1|-4.931|0|0.0925|0.153|0|0.0763|0.345|110.567|5
+223|"0L1IszgjzIZRBENyHJTQms"|"Madison Beer"|"Dear Society"|179576|"Dear Society"|1|"2019-05-17"|1|0.65|0.594|7|-6.374|0|0.0492|0.161|0|0.133|0.416|145.944|4
+224|"4oa14QBfWRDfJy2agySy0L"|"Sara Bareilles"|"Gravity"|232760|"Little Voice"|12|"2007-07-03"|12|0.27|0.275|0|-10.357|1|0.0356|0.834|0|0.146|0.231|168.964|4
+225|"7H6ev70Weq6DdpZyyTmUXk"|"Destiny's Child"|"Say My Name"|271333|"The Writing's On The Wall"|12|"1999-07-27"|16|0.713|0.678|5|-3.525|0|0.102|0.273|0|0.149|0.734|138.009|4
+226|"0lsRatBUs9HNIZAmoGABzk"|"SHAED"|"Trampoline"|184060|"MELT"|2|"2018-09-21"|7|0.689|0.412|7|-7.523|0|0.0301|0.488|0.00016|0.0659|0.537|126.754|4
+227|"1tYOB844iD7HxHvPtwDPNu"|"BANNERS"|"Half Light"|185946|"Half Light"|1|"2016-05-27"|1|0.532|0.392|10|-7.502|1|0.0289|0.816|0|0.122|0.352|151.879|4
+228|"3Ui2jdyxbZQrZohfM0NOgG"|"Jordin Sparks"|"Tattoo"|233466|"Jordin Sparks"|1|"2007-11-20"|16|0.566|0.766|2|-5.036|1|0.0399|0.431|0|0.101|0.547|168.005|4
+229|"4m8QRApdIvxMERrlgigXj4"|"Sleeping At Last"|"All Through the Night"|197804|"All Through the Night"|1|"2014-03-04"|1|0.309|0.204|3|-10.867|1|0.0397|0.949|0|0.127|0.289|185.309|4
+230|"2WyRfGeHo97VC5mP1BBSzr"|"Miley Cyrus"|"Mother's Daughter"|219080|"SHE IS COMING"|1|"2019-05-31"|6|0.681|0.865|1|-4.132|0|0.0594|0.00464|0.00169|0.149|0.528|91.017|4
+231|"5g3TKEDNVOviIisycRgo4H"|"Selena Gomez & The Scene"|"My Dilemma"|189853|"When The Sun Goes Down"|8|"2011-01-01"|12|0.615|0.866|6|-3.777|0|0.0621|0.0695|0|0.185|0.655|136.051|4
+232|"1SuznrYulmD8HMZrenI0VU"|"Lund"|"Broken"|200627|"Broken"|1|"2016-10-26"|1|0.828|0.581|0|-2.659|1|0.0429|0.0423|0.000903|0.109|0.145|133.999|4
+233|"5Mw9bXG1dLNhbjofkVS2oR"|"Hillsong UNITED"|"Oceans (Where Feet May Fail)"|535962|"Zion (Deluxe Edition)"|4|"2013-02-26"|18|0.262|0.361|2|-10.187|1|0.0333|0.508|0.00268|0.108|0.056|126.786|4
+234|"4PMdq7Q7xOFrY424ZelZEb"|"Lana Del Rey"|"Radio"|214573|"Born To Die - The Paradise Edition"|8|"2012-11-12"|23|0.423|0.857|2|-5.173|1|0.0687|0.188|2.63e-05|0.105|0.196|75.024|4
+235|"3DamFFqW32WihKkTVlwTYQ"|"Owl City"|"Fireflies"|228346|"Ocean Eyes"|9|"2009-01-01"|12|0.512|0.662|3|-6.797|1|0.0439|0.0275|0|0.118|0.472|180.114|4
+236|"2oENJa1T33GJ0w8dC167G4"|"Sean Kingston"|"Fire Burning"|239986|"Tomorrow"|3|"2009-09-07"|14|0.839|0.804|1|-2.513|1|0.0329|0.0192|0|0.331|0.888|122.973|4
+237|"5yZvaUVyuXfSVUaMumFi6l"|"Naughty Boy"|"Runnin' (Lose It All)"|213019|"Runnin' (Lose It All)"|1|"2015-09-17"|1|0.319|0.846|6|-6.109|1|0.0796|0.0103|4.11e-05|0.475|0.0784|139.163|4
+238|"50lP2u9FBdxwP2mHdaQ3DR"|"H.E.R."|"Gone Away"|249520|"H.E.R."|20|"2017-10-20"|21|0.39|0.335|6|-12.717|0|0.141|0.669|0|0.0958|0.295|77.975|4
+239|"5xEM5hIgJ1jjgcEBfpkt2F"|"Avril Lavigne"|"Complicated"|244506|"Let Go"|2|"2002-06-04"|13|0.585|0.776|5|-5.898|1|0.0459|0.0572|7.74e-06|0.3|0.427|77.987|4
+240|"7y6c07pgjZvtHI9kuMVqk1"|"Drake"|"Get It Together"|250337|"More Life"|5|"2017-03-18"|22|0.781|0.721|5|-9.133|0|0.0514|0.0945|0.391|0.104|0.849|123.011|4
+241|"6b2oQwSGFkzsMtQruIWm2p"|"Radiohead"|"Creep"|238640|"Pablo Honey"|2|"1993-02-22"|12|0.515|0.43|7|-9.935|1|0.0369|0.0102|0.000141|0.129|0.104|91.841|4
+242|"6XHVuErjQ4XNm6nDPVCxVX"|"Chris Brown"|"No Guidance (feat. Drake)"|260640|"Indigo"|11|"2019-06-28"|32|0.696|0.454|1|-6.756|0|0.153|0.123|0|0.155|0.136|92.928|4
+243|"6j7hih15xG2cdYwIJnQXsq"|"Gavin DeGraw"|"Not Over You"|218520|"Sweeter"|2|"2011-09-16"|10|0.63|0.894|10|-4.592|1|0.0544|0.255|0|0.181|0.364|142.051|4
+244|"4z8ssgZfs5TzKiO8HaGWXO"|"Katy Perry"|"E.T."|206373|"Teenage Dream: The Complete Confection"|8|"2012-03-12"|19|0.603|0.872|5|-5.404|0|0.0792|0.0213|0|0.366|0.691|150.104|4
+245|"1ExfPZEiahqhLyajhybFeS"|"Bruno Mars"|"The Lazy Song"|189109|"Doo-Wops & Hooligans"|5|"2010-10-05"|10|0.794|0.711|8|-5.124|0|0.0699|0.3|0|0.0955|0.955|174.915|4
+246|"2zhk0kypGeOPsaaZcjyc14"|"Cam"|"Burning House"|231333|"Untamed"|4|"2015-12-11"|11|0.728|0.253|0|-8.427|1|0.0304|0.887|1.11e-05|0.133|0.457|140.923|4
+247|"0vFMQi8ZnOM2y8cuReZTZ2"|"Carrie Underwood"|"Blown Away"|240133|"Blown Away"|2|"2012-05-01"|14|0.531|0.843|9|-2.569|0|0.0429|0.0909|0|0.0283|0.392|136.991|4
+248|"0KAiuUOrLTIkzkpfpn9jb9"|"Train"|"Drive By"|195973|"California 37"|2|"2012-04-17"|11|0.765|0.837|1|-3.113|0|0.032|0.00107|1.06e-05|0.0801|0.721|122.028|4
+249|"0D2xguFRqCF0OUqXCkqrpU"|"Ruel"|"Hard Sometimes"|269493|"Free Time"|4|"2019-09-13"|7|0.407|0.317|10|-7.895|1|0.0429|0.845|2.66e-06|0.139|0.216|81.899|4
+250|"3lec3CzDPAxsZokPph5w87"|"Carrie Underwood"|"Jesus, Take the Wheel"|226493|"Some Hearts"|4|"2005-11-14"|14|0.359|0.518|2|-3.537|1|0.0302|0.665|0|0.106|0.135|76.572|4
+251|"3hsmbFKT5Cujb5GQjqEU39"|"Chris Brown"|"Look At Me Now (feat. Lil' Wayne & Busta Rhymes)"|222586|"F.A.M.E. (Expanded Edition)"|4|"2011-03-22"|18|0.767|0.677|11|-6.128|0|0.184|0.0339|5.51e-06|0.144|0.538|146.155|4
+252|"5hwh37sTi84MVhCBMWzhGE"|"Ruth B."|"Superficial Love"|207973|"The Intro"|4|"2015-11-27"|4|0.477|0.242|8|-9.162|1|0.0529|0.928|0|0.0818|0.488|43.509|4
+253|"0Ryd8975WihbObpp5cPW1t"|"Ariana Grande"|"boyfriend (with Social House)"|186106|"boyfriend"|1|"2019-08-02"|1|0.4|0.795|10|-3.731|0|0.461|0.119|0|0.159|0.702|190.097|4
+254|"3NkJNL3WqO1Lqc3uNDxvCN"|"Ariana Grande"|"Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey)"|190106|"Don’t Call Me Angel (Charlie’s Angels)"|1|"2019-09-13"|1|0.643|0.721|1|-5.248|1|0.0449|0.00268|6.51e-06|0.0898|0.317|102.914|4
+255|"1NhPKVLsHhFUHIOZ32QnS2"|"OneRepublic"|"Secrets"|224693|"Waking Up"|3|"2009-01-01"|11|0.516|0.764|2|-6.223|1|0.0366|0.0717|0|0.115|0.376|148.021|4
+256|"6Up545NUflOiXo8cEraH49"|"Lauren Daigle"|"You Say"|274693|"Look Up Child"|5|"2018-09-07"|13|0.494|0.632|5|-6.89|1|0.0342|0.682|0|0.0869|0.0797|147.873|4
+257|"2VOomzT6VavJOGBeySqaMc"|"Rihanna"|"Disturbia"|238626|"Good Girl Gone Bad: Reloaded"|13|"2008-06-02"|15|0.707|0.813|11|-4.515|0|0.0571|0.0863|0|0.168|0.722|124.921|4
+258|"0GO8y8jQk1PkHzS31d699N"|"Grouplove"|"Tongue Tied"|218013|"Never Trust a Happy Song"|2|"2011-09-02"|12|0.56|0.936|3|-5.835|1|0.0439|0.00847|0|0.161|0.371|112.96|4
+259|"1YaVmBh7EAeR54FIjuFcb5"|"Selena Gomez & The Scene"|"Naturally"|202586|"Kiss & Tell"|6|"2009-01-01"|13|0.605|0.902|10|-5.406|0|0.0511|0.0185|1.01e-06|0.0534|0.875|132.612|4
+260|"543bCW2ruMPmxUBWirQ3MR"|"Ed Sheeran"|"Cross Me (feat. Chance the Rapper & PnB Rock)"|206186|"Cross Me (feat. Chance the Rapper & PnB Rock)"|1|"2019-05-24"|1|0.746|0.787|4|-6.373|1|0.12|0.214|0|0.0669|0.607|95.005|4
+261|"5tz69p7tJuGPeMGwNTxYuV"|"Logic"|"1-800-273-8255"|250173|"Everybody"|10|"2017-05-05"|13|0.62|0.574|5|-7.788|0|0.0479|0.569|0|0.19|0.357|100.023|4
+262|"0K3yTrwwypORX4m8tuWrwJ"|"GIRLI"|"Not That Girl"|173423|"Not That Girl"|1|"2017-03-03"|1|0.827|0.546|0|-6.287|1|0.0642|0.0564|6.28e-06|0.107|0.463|93.062|4
+263|"6gU9OKjOE7ghfEd55oRO57"|"SZA"|"The Weekend"|272186|"Ctrl"|6|"2017-06-09"|14|0.4|0.366|8|-9.405|0|0.0597|0.242|0|0.126|0.161|73.313|3
+264|"1VJwtWR6z7SpZRwipI12be"|"Doja Cat"|"Candy"|190920|"Amala"|8|"2018-03-30"|13|0.689|0.516|8|-5.857|1|0.0444|0.513|0|0.163|0.209|124.876|4
+265|"7qvsl2pYzrsYgPeFBN5jxp"|"Doja Cat"|"Juicy"|202333|"Juicy"|1|"2019-08-15"|1|0.786|0.658|0|-2.61|1|0.0661|0.0856|0|0.0689|0.458|170.037|4
+266|"6ABrDJwa6iVFuT1O1F9ZUm"|"Kaash Paige"|"Love Songs"|148629|"Love Songs"|1|"2018-11-19"|1|0.654|0.367|5|-10.203|1|0.0938|0.825|0.000505|0.106|0.489|119.986|4
+267|"20JtELGPfOAMq7FpUt8eSM"|"Ant Saunders"|"Yellow Hearts"|223255|"Yellow Hearts"|1|"2019-06-18"|1|0.866|0.399|7|-10.938|1|0.0745|0.117|0|0.0689|0.713|129.047|4
+268|"6Nle9hKrkL1wQpwNfEkxjh"|"Frank Ocean"|"Chanel"|210285|"Chanel"|1|"2017-03-10"|1|0.776|0.503|0|-5.732|0|0.237|0.874|0|0.112|0.473|110.134|4
+269|"2VxeLyX666F8uXCJ0dZF8B"|"Lady Gaga"|"Shallow"|215733|"A Star Is Born Soundtrack"|12|"2018-10-05"|34|0.572|0.385|7|-6.362|1|0.0308|0.371|0|0.231|0.323|95.799|4
+270|"0rIAC4PXANcKmitJfoqmVm"|"Normani"|"Motivation"|193837|"Motivation"|1|"2019-08-16"|1|0.599|0.887|4|-3.967|1|0.0984|0.0192|1.21e-06|0.3|0.881|170.918|4
+271|"5iUQMwxUPdJBFeGkePtM66"|"Mac Miller"|"Dang! (feat. Anderson .Paak)"|305350|"The Divine Feminine"|2|"2016-09-16"|10|0.836|0.67|5|-6.907|0|0.23|0.00826|0.000355|0.0837|0.556|107.018|4
+272|"4T652DlATVHe0jdLKaN3Bw"|"Ariana Grande"|"in my head"|222946|"thank u, next"|9|"2019-02-08"|12|0.662|0.6|0|-6.402|1|0.0703|0.173|0.000137|0.109|0.331|134.979|4
+273|"3wFLWP0FcIqHK1wb1CPthQ"|"Ariana Grande"|"fake smile"|208880|"thank u, next"|5|"2019-02-08"|12|0.45|0.619|9|-7.412|1|0.372|0.329|0|0.319|0.427|83.3|4
+274|"5Il6Oe7lr5XM7A0cWbVQtr"|"Ariana Grande"|"bad idea"|267106|"thank u, next"|6|"2019-02-08"|12|0.847|0.579|1|-5.314|1|0.0719|0.0268|0.0545|0.102|0.569|137.998|4
+275|"4uTvPEr01pjTbZgl7jcKBD"|"Ariana Grande"|"NASA"|182000|"thank u, next"|3|"2019-02-08"|12|0.747|0.458|6|-6.891|1|0.303|0.451|0|0.252|0.47|75.029|4
+276|"4jzzeMDQM73zElFLLoevPs"|"Chance Peña"|"Up, Up & Away"|120000|"Up, Up & Away"|1|"2019-03-15"|1|0.656|0.0888|9|-12.33|0|0.0428|0.943|0.000129|0.117|0.576|131.611|3
+277|"3rTnGUeDrnZV22DvRuUuXr"|"M83"|"Wait"|343253|"Hurry Up, We're Dreaming"|5|"2011"|22|0.437|0.229|2|-10.514|1|0.0308|0.221|0.0599|0.0935|0.0754|147.911|4
+278|"4TxJQDtvYHJcOBH6ONi6q2"|"Daughter"|"Medicine"|258973|"Wild Youth"|2|"2012-01-01"|4|0.166|0.298|3|-12.439|1|0.032|0.106|0.206|0.572|0.207|78.437|5
+279|"3InxJ55D8l1e4ZER6DRqvP"|"Peter Manos"|"In My Head"|214533|"In My Head"|1|"2018-05-15"|1|0.499|0.181|9|-15.359|0|0.0429|0.745|0.00123|0.106|0.0747|111.956|4
+280|"6r2JV75tE0vNgNCv4HKsBC"|"Jeremy Zucker"|"scared"|207520|"brent"|5|"2019-05-03"|5|0.583|0.075|5|-15.843|1|0.0726|0.933|1.4e-06|0.111|0.347|108.418|4
+281|"27r2uANqwK7XbsiAZnzf9e"|"Tate McRae"|"One Day"|202496|"One Day"|1|"2017-12-24"|1|0.52|0.119|0|-12.148|1|0.0407|0.922|0|0.0883|0.355|69.217|4
+282|"0rKtyWc8bvkriBthvHKY8d"|"Joji"|"SLOW DANCING IN THE DARK"|209273|"BALLADS 1"|2|"2018-10-26"|12|0.515|0.479|3|-7.458|1|0.0261|0.544|0.00598|0.191|0.284|88.964|4
+283|"1ArLnG0bHaHPXqf08sEKM0"|"Camila Cabello"|"Consequences - orchestra"|181913|"Consequences (orchestra)"|1|"2018-10-09"|1|0.547|0.289|0|-8.131|1|0.0348|0.645|0|0.148|0.213|104.851|3
+284|"1HfMVBKM75vxSfsQ5VefZ5"|"Selena Gomez"|"Lose You To Love Me"|206458|"Lose You To Love Me"|1|"2019-10-23"|1|0.505|0.34|4|-9.005|1|0.0438|0.576|0|0.21|0.0916|101.993|4
+285|"5o4W6yWSJD9e9Ea8YC9WjF"|"Jordin Sparks"|"One Step At a Time"|205160|"Jordin Sparks"|2|"2007-11-20"|16|0.766|0.692|1|-4.672|1|0.0289|0.0825|0|0.0384|0.691|102.028|4
+286|"3ZCTVFBt2Brf31RLEnCkWJ"|"Billie Eilish"|"everything i wanted"|245425|"everything i wanted"|1|"2019-11-13"|1|0.704|0.225|6|-14.454|0|0.0994|0.902|0.657|0.106|0.243|120.006|4
+287|"4TnjEaWOeW0eKTKIEvJyCa"|"Trevor Daniel"|"Falling"|159381|"Falling"|1|"2018-10-05"|1|0.785|0.431|10|-8.756|0|0.0364|0.123|0|0.0887|0.236|127.085|4
+288|"5rWIO1uP0GwAoU45RTBJ2F"|"Zac Efron"|"Gotta Go My Own Way"|222360|"High School Musical 2 (Original Soundtrack)"|7|"2007-01-01"|11|0.555|0.692|9|-4.767|1|0.0277|0.0864|3.25e-05|0.232|0.313|88.995|4
+289|"57RA3JGafJm5zRtKJiKPIm"|"Wallows"|"Are You Bored Yet? (feat. Clairo)"|178000|"Nothing Happens"|4|"2019-03-22"|11|0.682|0.683|8|-6.444|0|0.0287|0.156|2.32e-05|0.273|0.64|120.023|4
+290|"3VyjsVV24RmBIbWJAeUJNu"|"Don Toliver"|"No Idea"|154424|"No Idea"|1|"2019-05-29"|1|0.651|0.631|6|-5.717|0|0.0896|0.519|0.000579|0.165|0.35|127.994|4
+291|"4Q5yMlwAfAoitqg4r9oZHN"|"Cashmere Cat"|"Quit (feat. Ariana Grande)"|258188|"9"|5|"2017-04-28"|10|0.365|0.413|0|-7.369|0|0.0507|0.103|3.13e-05|0.103|0.125|84.746|3
+292|"3Ui2jdyxbZQrZohfM0NOgG"|"Jordin Sparks"|"Tattoo"|233466|"Jordin Sparks"|1|"2007-11-20"|16|0.566|0.766|2|-5.036|1|0.0399|0.431|0|0.101|0.547|168.005|4
+293|"26NX1wPt1TRCH536yocd6i"|"Beyoncé"|"If I Were a Boy"|249146|"I AM...SASHA FIERCE"|1|"2008-11-14"|16|0.632|0.518|6|-6.126|1|0.0313|0.107|0|0.354|0.427|90.007|4
+294|"6N22FZs2ZhPBYi3b9XPajV"|"Labrinth"|"Still Don't Know My Name"|153294|"Euphoria (Original Score from the HBO Series)"|12|"2019-10-04"|26|0.316|0.63|5|-5.963|1|0.117|0.471|0.262|0.205|0.313|89.643|1
+295|"2rxQMGVafnNaRaXlRMWPde"|"Luke Combs"|"Beautiful Crazy"|193200|"This One's for You Too (Deluxe Edition)"|15|"2018-06-01"|17|0.551|0.402|11|-7.431|1|0.0262|0.676|0|0.0928|0.382|103.313|4
+296|"4g2WiijzSKzH8PApKDbadN"|"Sleeping At Last"|"Touch"|256299|"Atlas: II"|5|"2019-11-01"|25|0.415|0.104|0|-11.83|1|0.0426|0.955|3.79e-06|0.104|0.18|82.006|3
+297|"7D0RhFcb3CrfPuTJ0obrod"|"Coldplay"|"Sparks"|227093|"Parachutes"|4|"2000-07-10"|10|0.371|0.268|1|-10.506|1|0.0281|0.748|0.0517|0.104|0.165|102.617|3
+298|"7CoMBpPTwQi2wPT0U0Nr9b"|"Novo Amor"|"State Lines"|208653|"Birthplace"|7|"2018-10-19"|10|0.509|0.31|9|-10.623|1|0.0313|0.959|0.229|0.0963|0.151|137.474|3
+299|"2wrJq5XKLnmhRXHIAf9xBa"|"Dan + Shay"|"10,000 Hours (with Justin Bieber)"|167693|"10,000 Hours (with Justin Bieber)"|1|"2019-10-04"|1|0.654|0.63|10|-4.644|1|0.0259|0.153|0|0.111|0.43|89.991|4
+300|"4CxFN5zON70B3VOPBYbd6P"|"Jeremy Zucker"|"you were good to me"|219146|"brent"|1|"2019-05-03"|5|0.561|0.0848|2|-15.099|1|0.0404|0.913|2.62e-05|0.112|0.206|102.128|4
+301|"1jUA4rb6ZCv4gby4YU53xq"|"Jordin Sparks"|"No Air (feat. Chris Brown)"|264373|"Jordin Sparks"|3|"2007-11-20"|16|0.466|0.759|8|-4.978|0|0.199|0.0521|0|0.0587|0.328|160.033|4
+302|"5sF7hdYvhrcgNq8NZjfK8L"|"Birdy"|"Not About Angels"|189475|"Not About Angels"|1|"2014-04-13"|1|0.405|0.111|0|-11.879|1|0.0369|0.964|4.37e-05|0.0872|0.219|116.86|4
+303|"4RL77hMWUq35NYnPLXBpih"|"Birdy"|"Skinny Love"|201080|"Birdy"|2|"2011-11-04"|11|0.379|0.29|4|-8.485|1|0.051|0.952|0.00106|0.118|0.169|166.467|4
+304|"6L4F4btXioJPhEwz6T7YYt"|"Ali Gatie"|"Moonlight"|228853|"YOU"|2|"2019-11-08"|9|0.804|0.48|11|-6.662|1|0.0321|0.495|0|0.105|0.461|120.002|4
+305|"3j8FPquKEOygdUMLLs1Pxr"|"Zhavia"|"Candlelight"|189733|"Candlelight"|1|"2018-07-26"|1|0.511|0.542|2|-7.398|1|0.336|0.387|0|0.181|0.439|134.907|4
+306|"7pT6WSg4PCt4mr5ZFyUfsF"|"Alec Benjamin"|"If We Have Each Other"|181522|"Narrated For You"|1|"2018-11-16"|12|0.656|0.577|10|-5.566|0|0.0802|0.698|0|0.296|0.861|173.094|4
+307|"7a86XRg84qjasly9f6bPSD"|"fun."|"We Are Young (feat. Janelle Monáe)"|250626|"Some Nights"|3|"2012-02-21"|12|0.378|0.638|10|-5.576|1|0.075|0.02|7.66e-05|0.0849|0.735|184.086|4
+308|"7rv0UuxMX7CpUUwEE1jVrd"|"Akon"|"Beautiful"|312986|"Freedom"|2|"2008-01-01"|13|0.743|0.948|0|-4.445|0|0.0893|0.122|0|0.112|0.614|130.024|4
+309|"5kfNriitmkNE8mUbZ7gbq8"|"Khalid"|"Saturday Nights"|210666|"Suncity"|3|"2018-10-18"|7|0.551|0.44|10|-8.559|1|0.0985|0.606|3.02e-05|0.11|0.341|167.923|4
+310|"0sf12qNH5qcw8qpgymFOqD"|"The Weeknd"|"Blinding Lights"|201573|"Blinding Lights"|1|"2019-11-29"|1|0.513|0.796|1|-4.075|1|0.0629|0.00147|0.000209|0.0938|0.345|171.017|4
+311|"0pCTr2E9CtulIwNprituKi"|"alt-J"|"Ms"|238746|"An Awesome Wave"|9|"2012-09-18"|14|0.611|0.413|5|-11.408|1|0.0352|0.876|0.0226|0.0799|0.0698|130.972|4
+312|"3Z0oQ8r78OUaHvGPiDBR3W"|"Idina Menzel"|"Into the Unknown"|194848|"Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)"|3|"2019-11-15"|46|0.323|0.405|10|-8.533|0|0.0413|0.849|0.000544|0.138|0.274|145.104|5
+313|"7oK9VyNzrYvRFo7nQEYkWN"|"The Killers"|"Mr. Brightside"|222586|"Hot Fuss"|2|"2004-06-15"|11|0.356|0.924|1|-3.74|1|0.0808|0.00101|0|0.0953|0.232|148.017|4
+314|"6U0FIYXCQ3TGrk4tFpLrEA"|"BROCKHAMPTON"|"SUGAR"|204533|"GINGER"|2|"2019-08-23"|12|0.453|0.538|1|-8.212|1|0.0638|0.449|0|0.19|0.516|122.973|4
+315|"4Yxc55NX3tAXC2mHRAhtcW"|"Olivia Rodrigo"|"All I Want - From ""High School Musical: The Musical: The Series"""|177322|"All I Want (From ""High School Musical: The Musical: The Series"")"|1|"2019-11-27"|2|0.376|0.43|0|-6.585|0|0.0328|0.0902|0|0.0912|0.129|77.599|3
+316|"5fsQSDifYpjfbCqvZKPVBj"|"5 Seconds of Summer"|"She's Kinda Hot"|216454|"Sounds Good Feels Good (Deluxe)"|2|"2015-10-23"|17|0.664|0.908|4|-4.806|1|0.0317|0.00182|0|0.109|0.889|118.031|4
+317|"4a6q8CR2hzLk2plDkSxkfD"|"Bazzi"|"I.F.L.Y."|165714|"Soul Searching"|9|"2019-08-09"|11|0.812|0.519|2|-4.823|1|0.0385|0.379|0|0.13|0.554|104.954|4
+318|"3PzsbWSQdLCKDLxn7YZfkM"|"Bruce Springsteen"|"I'm On Fire"|155880|"Born In The U.S.A."|6|"1984-06-04"|12|0.62|0.446|1|-14.451|0|0.0347|0.589|0.0299|0.0727|0.868|88.591|4
+319|"5zT5cMnMKoyruPj13TQXGx"|"Amber Run"|"I Found"|273000|"5AM (Expanded Edition)"|1|"2015-04-20"|17|0.567|0.303|7|-12.481|0|0.0351|0.862|0.00563|0.104|0.252|124.949|4
+320|"57vxBYXtHMk6H1aD29V7PU"|"The Weeknd"|"Heartless"|200080|"Heartless"|1|"2019-11-27"|1|0.531|0.75|10|-5.831|0|0.111|0.00632|7.6e-05|0.117|0.198|169.954|4
+321|"2kJwzbxV2ppxnQoYw4GLBZ"|"JP Saxe"|"If the World Was Ending (feat. Julia Michaels)"|208687|"If the World Was Ending (feat. Julia Michaels)"|1|"2019-10-17"|1|0.464|0.473|1|-10.086|1|0.129|0.866|0|0.109|0.604|75.801|4
+322|"6IwKcFdiRQZOWeYNhUiWIv"|"Alicia Keys"|"No One"|253813|"As I Am (Expanded Edition)"|4|"2007-11-09"|17|0.644|0.549|1|-5.415|0|0.0285|0.0209|8.85e-06|0.134|0.167|90.04|4
+323|"0ifooM33X1iBxVYyOkSbXW"|"The Weeknd"|"A Lonely Night"|220173|"Starboy"|12|"2016-11-25"|18|0.853|0.663|7|-6.955|0|0.0755|0.0431|8.71e-06|0.0891|0.864|113.998|4
+324|"6LOZws7T3jqZz78unPgFF9"|"Kali Uchis"|"Dead To Me"|199505|"Isolation"|7|"2018-04-06"|15|0.675|0.761|4|-4.469|0|0.0466|0.432|0|0.102|0.428|119.001|4
+325|"7klL6qvAu4ZzthaUzLvtIN"|"P!nk"|"U + Ur Hand"|214386|"I'm Not Dead"|9|"2006-04-04"|15|0.709|0.891|0|-3.688|1|0.0528|0.00144|0|0.034|0.886|141.04|4
+326|"1mea3bSkSGXuIRvnydlB5b"|"Coldplay"|"Viva La Vida"|242373|"Viva La Vida or Death and All His Friends"|7|"2008-05-26"|10|0.486|0.617|5|-7.115|0|0.0287|0.0954|3.23e-06|0.109|0.417|138.015|4
+327|"0ZUo4YjG4saFnEJhdWp9Bt"|"Carrie Underwood"|"Before He Cheats"|199946|"Some Hearts"|7|"2005-11-14"|14|0.519|0.749|6|-3.318|0|0.0405|0.271|0|0.119|0.29|147.905|4
+328|"07KXEDMj78x68D884wgVEm"|"Roddy Ricch"|"High Fashion (feat. Mustard)"|220486|"Please Excuse Me for Being Antisocial"|11|"2019-12-06"|16|0.831|0.499|11|-8.442|0|0.114|0.269|0|0.3|0.511|97.956|4
+329|"7kJMylD25AGVBgvoJoSkjW"|"Isak Danielson"|"Ending"|248807|"Volume One"|6|"2015-03-26"|6|0.436|0.291|9|-9.334|0|0.0361|0.876|1.07e-06|0.0767|0.127|91.655|3
+330|"0CZ8lquoTX2Dkg7Ak2inwA"|"King Princess"|"1950"|225133|"1950"|1|"2018-02-23"|1|0.6|0.535|4|-7.043|1|0.107|0.648|4.7e-06|0.162|0.269|71.912|4
+331|"2Z8WuEywRWYTKe1NybPQEW"|"Twenty One Pilots"|"Ride"|214506|"Blurryface"|3|"2015-05-15"|14|0.645|0.713|6|-5.355|1|0.0393|0.00835|0|0.113|0.566|74.989|4
+332|"6WrI0LAC5M1Rw2MnX2ZvEg"|"Dua Lipa"|"Don't Start Now"|183290|"Don't Start Now"|1|"2019-10-31"|1|0.794|0.793|11|-4.521|0|0.0842|0.0125|0|0.0952|0.677|123.941|4
+333|"2qXicQG06oT0ijKBznpgQv"|"Ruel"|"Younger"|222320|"Younger"|1|"2018-06-05"|1|0.745|0.477|11|-7.706|0|0.088|0.202|0|0.12|0.454|136.055|4
+334|"1Cv1YLb4q0RzL6pybtaMLo"|"Surfaces"|"Sunday Best"|158571|"Where the Light Is"|7|"2019-01-06"|10|0.878|0.525|5|-6.832|1|0.0578|0.183|0|0.0714|0.694|112.022|4
+335|"55Am8neGJkdj2ADaM3aw5H"|"James Arthur"|"Train Wreck"|208826|"Back from the Edge"|6|"2016-10-28"|17|0.311|0.485|6|-5.726|0|0.0365|0.701|0|0.0726|0.225|77.355|4
+336|"6vzLbfskWigBsCzNdB0kfE"|"SAYGRACE"|"Boys Ain't Shit"|175883|"Boys Ain't Shit"|1|"2019-10-18"|1|0.826|0.615|1|-4.729|0|0.137|0.435|0.00631|0.334|0.841|102.999|4
+337|"7ce20yLkzuXXLUhzIDoZih"|"Lewis Capaldi"|"Before You Go"|215106|"Before You Go"|1|"2019-11-19"|2|0.459|0.575|3|-4.858|1|0.0573|0.604|0|0.0885|0.183|111.881|4
+338|"4EivmOT13NMpNSfTKn9p4s"|"Doja Cat"|"Like That (feat. Gucci Mane)"|163173|"Hot Pink"|6|"2019-11-07"|12|0.879|0.498|4|-6.027|0|0.18|0.239|0|0.0967|0.405|106.044|4
+339|"2HWWNoWEEEECwZhAiLg7ib"|"Beyoncé"|"Beautiful Liar"|199853|"B'Day Deluxe Edition"|1|"2007-05-29"|23|0.764|0.751|8|-3.74|1|0.0703|0.00554|0.000237|0.164|0.418|91.977|4
+340|"7hpJ9tATWb2vztlq99hERP"|"Conan Gray"|"Maniac"|185786|"Maniac"|1|"2019-10-25"|1|0.623|0.647|8|-5.438|1|0.04|0.00122|0|0.354|0.522|107.987|4
+341|"3d8y0t70g7hw2FOWl9Z4Fm"|"The Lumineers"|"Ophelia"|160097|"Cleopatra"|2|"2016-04-08"|11|0.664|0.573|5|-6.519|1|0.0277|0.613|0.000363|0.0857|0.566|76.023|4
+342|"0g21KZ1XJuhwexWPLpuEt1"|"bülow"|"You & Jennifer"|159453|"Damaged Vol. 2"|3|"2018-06-08"|3|0.752|0.698|11|-6.53|1|0.306|0.52|0|0.211|0.347|132.058|4
+343|"3Uu6pcfL9xsdfsKRx3DXRf"|"Garrett Nash"|"the broken hearts club"|184694|"we"|9|"2019-01-11"|13|0.62|0.288|4|-9.431|1|0.123|0.801|0|0.37|0.691|100.385|4
+344|"3Lp8Xd2K7TwlY32SPvXkvF"|"Noah Cyrus"|"Lonely"|144386|"Lonely"|1|"2019-09-27"|1|0.594|0.26|5|-9.062|1|0.0601|0.779|0|0.0924|0.303|84.648|3
+345|"5QTdOvIF2ehBMZpSIIGzIo"|"Kehlani"|"Honey"|199209|"Honey"|1|"2017-10-06"|1|0.606|0.24|3|-7.102|1|0.0369|0.772|0|0.0819|0.526|96.792|4
+346|"4c9UU12Z3KZiC0K7696rup"|"Birdy"|"Deep End"|208840|"Beautiful Lies"|4|"2016-03-25"|14|0.455|0.296|2|-8.513|1|0.0399|0.761|0|0.0783|0.31|171.744|4
+347|"2jQiSYrwJehQAcuaaQrXnS"|"Chase Atlantic"|"Friends"|230010|"Nostalgia"|5|"2015-02-21"|5|0.422|0.609|11|-6.361|0|0.0335|0.0114|4.76e-06|0.108|0.0911|107.34|3
+348|"78cIbVjU1xn7mbQ9i35avl"|"guardin"|"i think you're really cool"|160660|"i think you're really cool"|1|"2018-05-08"|1|0.503|0.446|5|-6.279|1|0.0547|0.904|0|0.303|0.476|174.062|4
+349|"1TEL6MlSSVLSdhOSddidlJ"|"Ariana Grande"|"needy"|171573|"thank u, next"|2|"2019-02-08"|12|0.647|0.309|7|-7.948|0|0.0366|0.78|7.41e-06|0.202|0.195|87.045|4
+350|"47Bg6IrMed1GPbxRgwH2aC"|"Rex Orange County"|"Best Friend"|262231|"Best Friend"|1|"2017-01-25"|1|0.575|0.714|6|-5.247|1|0.0596|0.395|0|0.115|0.32|144.982|4
+351|"5Yc2A0YtK6PaXT8J1MQ0Rd"|"Olivia Rodrigo"|"Just for a Moment - From ""High School Musical: The Musical: The Series"""|197320|"Just for a Moment (From ""High School Musical: The Musical: The Series"")"|1|"2020-01-01"|3|0.519|0.503|2|-6.239|1|0.0442|0.215|0|0.148|0.364|89.174|4
+352|"0spaxhg6lGn0rOGCH5I0LS"|"Bazzi"|"Somebody"|170400|"COSMIC"|16|"2018-04-12"|16|0.49|0.743|0|-4.201|0|0.0915|0.345|0|0.183|0.137|99.158|4
+353|"23TPP1eeElFfvYVznskwCY"|"BENEE"|"Glitter"|180146|"FIRE ON MARZZ"|2|"2019-06-28"|6|0.801|0.589|7|-5.157|1|0.0485|0.0863|0|0.162|0.58|116.934|4
+354|"18ssFhD04lWo1RzpcohnrG"|"Demi Lovato"|"Anyone"|227813|"Anyone"|1|"2020-01-27"|1|0.557|0.387|11|-6.338|1|0.0374|0.876|0|0.111|0.317|129.98|4
+355|"4sSu9BtWSCWRNjGD2AvqbG"|"MASN"|"Psycho!"|197217|"Psycho!"|1|"2019-01-17"|1|0.868|0.365|7|-9.51|1|0.0383|0.433|0|0.207|0.471|114.979|4
+356|"5qEn8c0MBzyRKgQq91Vevi"|"Fitz and The Tantrums"|"Out of My League"|209386|"Out of My League"|1|"2013-02-08"|1|0.545|0.968|9|-3.553|0|0.0853|0.0387|0.00325|0.331|0.527|169.965|4
+357|"26ZX2JrAb8AFbr8FFfAsO7"|"EDEN"|"sex"|218808|"i think you think too much of me"|1|"2016-08-19"|7|0.413|0.521|9|-4.469|1|0.0466|0.162|0|0.323|0.532|103.391|4
+358|"1BYZxKSf0aTxp8ZFoeyM3d"|"girl in red"|"we fell in love in october"|184153|"we fell in love in october / forget her"|1|"2018-11-21"|2|0.566|0.366|7|-12.808|1|0.028|0.113|0.181|0.155|0.237|129.959|4
+359|"79e2GU4RLPjAqnijfvsXYr"|"Conan Gray"|"Generation Why"|219680|"Sunset Season"|2|"2018-11-16"|5|0.561|0.684|9|-8.235|1|0.0669|0.347|2.93e-06|0.122|0.528|81.977|4
+360|"2eAvDnpXP5W0cVtiI0PUxV"|"Ruth B."|"Dandelions"|233720|"Safe Haven"|2|"2017-05-05"|12|0.609|0.692|1|-2.958|1|0.0259|0.0157|0|0.0864|0.454|116.959|3
+361|"3afkJSKX0EAMsJXTZnDXXJ"|"Troye Sivan"|"Strawberries & Cigarettes"|201538|"Strawberries & Cigarettes"|1|"2018-03-16"|1|0.578|0.537|9|-8.676|1|0.0832|0.162|0|0.076|0.25|83.909|4
+362|"3i5qVV8azKqGFK4Gzdt5YS"|"NF"|"If You Want Love"|199386|"Perception"|10|"2017-10-06"|16|0.551|0.386|0|-10.22|1|0.132|0.659|0|0.125|0.245|116.409|1
+363|"0sHFw13WH3LtSB3yP8UMYJ"|"Peachy!"|"Falling for U"|124000|"Falling for U"|1|"2017-08-14"|1|0.516|0.358|8|-12.018|0|0.424|0.743|1.3e-06|0.0813|0.397|79.509|4
+364|"39bs2V8huzcmWoeSlHKZeP"|"blackbear"|"1 SIDED LOVE"|170666|"ANONYMOUS"|12|"2019-04-26"|18|0.584|0.42|8|-7.827|1|0.0322|0.236|0|0.119|0.283|90.051|4
+365|"75ls0gurX68lUmMjE7QcsE"|"Jeremy Zucker"|"all the kids are depressed"|169973|"glisten"|1|"2018-05-04"|4|0.773|0.437|9|-8.281|1|0.0963|0.836|2.42e-05|0.544|0.707|103.861|4
+366|"2vLWF4yFhTHQZVwrPTjH1s"|"Alina Baraz"|"Floating (feat. Khalid)"|174489|"The Color Of You"|2|"2018-04-06"|9|0.66|0.447|1|-9.026|0|0.0482|0.81|2.15e-06|0.11|0.578|84.95|4
+367|"7po7c8LzxTZ0ybU41qT5gD"|"Melanie Martinez"|"Show & Tell"|215972|"K-12"|4|"2019-09-06"|13|0.535|0.746|4|-5.644|0|0.275|0.304|0|0.359|0.648|109.994|4
+368|"7btQ8AOjr6zXoGHEmxL5u5"|"Cookiee Kawaii"|"Vibe"|84008|"Vibe"|1|"2019-03-29"|1|0.759|0.561|10|-8.74|1|0.384|0.0676|0.00951|0.117|0.169|159.995|4
+369|"4gV5aLQyFVwfdQnVltgQ0I"|"mishlawi"|"All Night"|174554|"Mishlawi EP"|1|"2018-05-18"|6|0.753|0.756|9|-5.822|1|0.0821|0.141|0|0.332|0.77|141.955|4
+370|"3Nhfs2Cx7z2JWHetYkzSfO"|"Tiagz"|"My Heart Went Oops"|128925|"My Heart Went Oops"|1|"2020-01-29"|1|0.962|0.412|1|-11.288|1|0.608|0.12|0|0.0904|0.506|121.037|4
+371|"0oufSLnKQDoBFX5mgkDCgR"|"Brent Faiyaz"|"Trust"|158420|"Lost"|3|"2018-10-19"|6|0.764|0.394|8|-8.559|1|0.154|0.224|8.71e-05|0.119|0.471|92.011|4
+372|"5zViOYAEOrfNn8wd0sN4MH"|"blackbear"|"n y l a"|300130|"n y l a"|1|"2013-08-23"|1|0.268|0.336|9|-10.011|1|0.0392|0.818|0|0.354|0.208|65.838|3
+373|"4cxMGhkinTocPSVVKWIw0d"|"Russ"|"Losin Control"|237506|"There's Really A Wolf"|14|"2017-05-05"|20|0.759|0.245|6|-6.545|1|0.138|0.515|0.000154|0.102|0.209|96.992|4
+374|"2pyjbGTpJCPjMYwCbdymiF"|"Ruel"|"Dazed & Confused"|189608|"Dazed & Confused"|1|"2018-04-27"|1|0.688|0.5|2|-7.411|1|0.138|0.102|0|0.355|0.418|127.906|3
+375|"2nC3QhMI9reBIOWutbU3Tj"|"Ashe"|"Moral of the Story"|201083|"Moral of the Story"|1|"2019-02-14"|1|0.572|0.406|10|-8.624|1|0.0427|0.587|4.48e-06|0.102|0.265|119.812|4
+376|"0VhgEqMTNZwYL1ARDLLNCX"|"James Arthur"|"Can I Be Him"|246880|"Back from the Edge"|4|"2016-10-28"|17|0.696|0.543|11|-6.164|1|0.0489|0.308|0|0.0939|0.479|107.969|4
+377|"43PuMrRfbyyuz4QpZ3oAwN"|"Bryson Tiller"|"Exchange"|194613|"T R A P S O U L"|3|"2015-10-02"|14|0.525|0.433|6|-10.598|1|0.185|0.107|0|0.135|0.276|160.108|4
+378|"13JyykwyYQ3T5QxxL34ukQ"|"blackbear"|"chateau"|212926|"digital druglord"|9|"2017-04-21"|10|0.667|0.635|11|-5.761|0|0.0518|0.0503|0|0.367|0.478|98.011|4
+379|"1buYMDRKWawlr7T7SnsJdu"|"Alec Benjamin"|"The Boy In The Bubble"|181243|"The Boy In The Bubble"|1|"2018-06-22"|1|0.818|0.58|11|-7.58|0|0.0818|0.217|0.00104|0.253|0.854|143.975|4
+380|"447LxyhefUlJsf3wnuazNM"|"Zendaya"|"Wonderful Life"|190506|"Wonderful Life (From Smallfoot: Original Motion Picture Soundtrack)"|1|"2018-08-22"|1|0.496|0.65|5|-7.754|1|0.0398|0.149|0.000281|0.0667|0.301|102.955|4
+381|"0elXIl26ZrovBULLTrEGK6"|"Jaymes Young"|"Habits of My Heart"|210639|"Habits of My Heart"|1|"2014-09-28"|5|0.392|0.498|9|-7.63|0|0.117|0.665|0.000118|0.34|0.59|72.048|4
+382|"4nK5YrxbMGZstTLbvj6Gxw"|"BENEE"|"Supalonely"|223480|"STELLA & STEVE"|2|"2019-11-15"|5|0.863|0.631|7|-4.689|1|0.0534|0.305|3.04e-05|0.123|0.817|128.977|4
+383|"2awExtNBABpwOFC78XViJd"|"Ruel"|"Not Thinkin' Bout You"|188387|"Ready"|4|"2018-06-15"|6|0.66|0.357|10|-8.55|0|0.0594|0.267|0|0.0857|0.518|119.835|4
+384|"4kdl5LATOjf8q4bvubBlBI"|"Dani and Lizzy"|"Dancing in the Sky"|214368|"Dancing in the Sky"|1|"2015-06-12"|1|0.306|0.31|11|-10.371|1|0.0336|0.603|2.72e-05|0.112|0.126|207.508|3
+385|"4PV0uE5pZSh44E3NqNNDEH"|"Madison Beer"|"Selfish"|223270|"Selfish"|1|"2020-02-14"|1|0.375|0.461|9|-6.202|1|0.0279|0.627|0|0.386|0.233|75.217|4
+386|"78ef1CXuOepdoPXKBpMFi2"|"Bazzi"|"Who Am I?"|171818|"Soul Searching"|11|"2019-08-09"|11|0.586|0.513|5|-6.347|1|0.0336|0.523|0|0.177|0.215|88.007|4
+387|"1GVF9369j7InydwGztCDIZ"|"Madison Beer"|"Good In Goodbye"|141949|"Good In Goodbye"|1|"2020-01-31"|1|0.658|0.698|11|-5.95|0|0.177|0.433|0|0.174|0.456|139.054|4
+388|"0L1IszgjzIZRBENyHJTQms"|"Madison Beer"|"Dear Society"|179576|"Dear Society"|1|"2019-05-17"|1|0.65|0.594|7|-6.374|0|0.0492|0.161|0|0.133|0.416|145.944|4
+389|"3WefHNGtjexZvi66ZEx9u4"|"Madison Beer"|"Hurts Like Hell (feat. Offset)"|207108|"Hurts Like Hell (feat. Offset)"|1|"2018-11-09"|1|0.704|0.56|1|-6.791|0|0.179|0.185|0|0.0948|0.609|75.003|4
+390|"5NjVCNaYDFM0gCT1hES4dr"|"Social House"|"Haunt You"|198266|"Haunt You"|1|"2019-06-14"|1|0.658|0.458|0|-8.738|1|0.0785|0.371|0|0.0958|0.29|91.914|4
+391|"0iwsQWgtjSq2kUXuZwTDAL"|"Madison Beer"|"Home with You"|190576|"As She Pleases"|5|"2018-02-02"|7|0.631|0.599|7|-6.137|0|0.0878|0.067|0|0.0952|0.727|170.122|4
+392|"21dpBHPTV7ythCHBI6Slcw"|"Ruth B."|"If By Chance"|303653|"Safe Haven"|8|"2017-05-05"|12|0.405|0.279|10|-8.099|1|0.0334|0.881|0|0.0933|0.256|119.85|4
+393|"0IUgswE9wJaY4QIQZEDTKe"|"Russ"|"CIVIL WAR - Bonus"|144506|"SHAKE THE SNOW GLOBE"|1|"2020-01-31"|14|0.923|0.597|7|-6.827|1|0.262|0.102|0|0.109|0.496|101.044|4
+394|"21ms2KdWugFjU4x7SyA4nB"|"Alex Aiono"|"Unloving You"|207064|"Unloving You"|1|"2019-06-14"|1|0.356|0.287|6|-7.449|1|0.0453|0.834|0|0.268|0.427|175.257|3
+395|"1EzrEOXmMH3G43AXT1y7pA"|"Jason Mraz"|"I'm Yours"|242946|"We Sing. We Dance. We Steal Things."|2|"2008-05-12"|12|0.703|0.444|11|-9.331|1|0.0417|0.559|0|0.0973|0.712|150.96|4
+396|"76ati4YtRJe4vkpcL5VFy5"|"Ne-Yo"|"Never Knew I Needed"|217013|"The Princess and the Frog (Original Motion Picture Soundtrack)"|1|"2009-11-23"|17|0.646|0.787|1|-4.907|1|0.0373|0.1|1.01e-05|0.133|0.784|141.946|4
+397|"3jZDWsoxRHzzp3DYV8qeXE"|"Teqkoi"|"You Broke My Heart Again"|103400|"You Broke My Heart Again"|1|"2018-10-13"|1|0.55|0.143|3|-15.685|1|0.241|0.956|0|0.195|0.224|74.918|4
+398|"7eJMfftS33KTjuF7lTsMCx"|"Powfu"|"death bed (coffee for your head)"|173333|"death bed (coffee for your head)"|1|"2020-02-08"|1|0.726|0.431|8|-8.765|0|0.135|0.731|0|0.696|0.348|144.026|4
+399|"0qvzXomUDJVaUboy2wMfiS"|"Niall Horan"|"This Town"|232852|"Flicker (Deluxe)"|2|"2017-10-20"|13|0.677|0.401|9|-8.467|1|0.0308|0.712|0|0.116|0.195|111.825|4
+400|"5xgLPaEWNbJB4uVc7LIgbe"|"mxmtoon"|"fever dream"|196480|"fever dream"|1|"2020-01-23"|1|0.566|0.693|4|-5.962|1|0.0281|0.126|3.7e-05|0.0888|0.191|101.909|4
+401|"14kYOiFVPb7E7NfFbqhdln"|"Ariana Grande"|"goodnight n go"|189506|"Sweetener"|13|"2018-08-17"|15|0.708|0.454|1|-7.07|1|0.0395|0.0217|0|0.073|0.24|110.963|4
+402|"527k23H0A4Q0UJN3vGs0Da"|"Don Toliver"|"After Party"|167915|"Heaven Or Hell"|4|"2020-03-13"|12|0.629|0.692|5|-8.045|1|0.0376|0.00981|0.331|0.603|0.453|162.948|4
+403|"644rGY6maSElnKVsAg1gJj"|"Summer Walker"|"Girls Need Love"|140760|"Last Day Of Summer"|3|"2018-10-19"|13|0.645|0.418|6|-10.065|0|0.29|0.558|0.0003|0.562|0.123|96.963|4
+404|"5Bge1Dsqjc14hhGguYML5w"|"Declan McKenna"|"Why Do You Feel So Down"|220706|"What Do You Think About the Car?"|9|"2017-07-21"|11|0.558|0.909|7|-5.851|1|0.0406|0.0576|0|0.102|0.452|114.56|4
+405|"2Yer0p7uB2lVBUAtANuuQp"|"Social House"|"Magic In The Hamptons (feat. Lil Yachty)"|164640|"Magic In The Hamptons (feat. Lil Yachty)"|1|"2018-06-08"|1|0.769|0.479|1|-5.339|1|0.0385|0.66|0|0.0914|0.803|96.051|4
+406|"6t90Z9XkdsHD8xMxro6KRP"|"Rihanna"|"Consideration"|161066|"ANTI (Deluxe)"|1|"2016-01-28"|16|0.883|0.584|7|-2.102|0|0.0465|0.0392|4.39e-06|0.0869|0.784|144.975|4
+406|"0ZP3E9L1I0C6rmD0CAKqDc"|"chloe moriondo"|"Silly Girl"|198807|"Rabbit Hearted."|6|"2018-07-31"|10|0.479|0.0436|0|-22.849|1|0.0639|0.944|9.42e-05|0.126|0.133|79.141|1
+407|"6GGdkwYk4NXuiIcQD16AZg"|"mxmtoon"|"feelings are fatal"|124853|"plum blossom"|3|"2018-12-07"|7|0.545|0.169|0|-16.249|1|0.132|0.908|0|0.0942|0.482|98.225|4
+408|"3zksbXteOCeSusJ5Xltr3t"|"Clairo"|"Bubble Gum"|175960|"Bubble Gum"|1|"2019-02-22"|1|0.509|0.0167|9|-24.639|1|0.115|0.979|2.72e-05|0.387|0.229|207.97|3
+409|"2I9zHCCeKJRKMgJ6UJFN9W"|"Sofia Mills"|"Coffee Breath"|163902|"Coffee Breath"|1|"2018-03-08"|1|0.866|0.211|11|-12.676|0|0.0404|0.974|0|0.0987|0.198|101.295|4
+410|"2R05HGHjfDXtz24bVoYHOu"|"chloe moriondo"|"Kindergarten"|145625|"Spirit Orb"|2|"2020-04-24"|4|0.692|0.285|7|-14.687|1|0.106|0.548|0|0.0978|0.278|119.949|4
+411|"4xqrdfXkTW4T0RauPLv3WA"|"Conan Gray"|"Heather"|198040|"Kid Krow"|10|"2020-03-20"|12|0.357|0.425|5|-7.301|1|0.0333|0.584|0|0.322|0.27|102.078|3
+412|"45h4w81P5iJJTSeR0jJUQ8"|"dodie"|"She"|213611|"Human"|5|"2019-01-18"|7|0.479|0.154|2|-15.051|1|0.0369|0.755|0.0261|0.11|0.232|92.457|4
+413|"5RI9caxzrNDsTt7XzgSLA9"|"dacelynn"|"Wldflwr"|168040|"PR!DE"|1|"2020-08-11"|3|0.601|0.445|7|-10.882|1|0.0324|0.6|0.000735|0.107|0.295|130.007|4
+414|"3iGz75NJkqHubYUMRELLyP"|"88rising"|"La Cienega"|192606|"Head In The Clouds"|1|"2018-07-20"|17|0.61|0.318|8|-9.95|1|0.148|0.506|0.000617|0.102|0.214|109.491|3
+415|"6zHP0OCcZYtxumAqmRuIXk"|"Sara Kays"|"Home for the Summer"|155271|"Home for the Summer"|1|"2020-06-25"|1|0.682|0.531|4|-9.865|1|0.0466|0.785|0.000266|0.102|0.407|126.981|4
+416|"11cqsCFJayk8dLyJqPvGvp"|"NIKI"|"Strange Land - Acoustic Version"|173419|"NIKI Acoustic Sessions: Head In The Clouds II"|3|"2019-08-11"|3|0.505|0.207|9|-14.205|0|0.0535|0.915|7.28e-05|0.126|0.185|74.839|4
+417|"4LWvvjoOhPngGIubUI2DuY"|"dacelynn"|"dumb brain hours"|208941|"dumb brain hours"|1|"2019-08-08"|1|0.756|0.535|0|-10.097|1|0.0986|0.608|8.99e-06|0.0945|0.314|85.032|4
+418|"75iZaRMctH8FamTOhokRVJ"|"Sasha Alex Sloan"|"Faking It"|167353|"Loser"|2|"2018-11-29"|6|0.641|0.37|1|-8.645|0|0.0565|0.32|0|0.206|0.242|81.043|4
+419|"7laJx5tDtvm3Mkj832oxSb"|"Cigarettes After Sex"|"Neon Moon"|225767|"Neon Moon"|1|"2018-12-17"|1|0.48|0.488|4|-11.103|1|0.0245|0.099|0.0879|0.102|0.275|90.349|4
+420|"3AVrVz5rK8Hrqo9YGiVGN5"|"Cigarettes After Sex"|"Apocalypse"|290146|"Cigarettes After Sex"|4|"2017-06-09"|10|0.369|0.467|5|-9.018|1|0.0274|0.0194|0.46|0.109|0.174|94.473|4
+421|"5IonbH68pmDKBwcKlyswmR"|"Cigarettes After Sex"|"John Wayne"|258013|"Cigarettes After Sex"|9|"2017-06-09"|10|0.429|0.457|3|-8.375|1|0.0294|0.35|0.859|0.099|0.183|124.033|4
+422|"34p2uL1CvmaHn3uLfOKt8d"|"Us The Duo"|"One Last Dance"|224847|"Public Record"|4|"2016-12-09"|5|0.466|0.161|7|-14.498|1|0.0492|0.979|0.000238|0.231|0.171|139.167|3
+423|"7zeWW2TAE1jJLeuqfzRYDN"|"mxmtoon"|"i feel like chet"|183242|"i feel like chet"|1|"2018-11-15"|1|0.532|0.161|8|-14.953|0|0.0658|0.912|0|0.113|0.332|134.905|4
+424|"6XcxkDV5WVMyT6nGmNvR95"|"mxmtoon"|"porcelain"|271914|"porcelain"|1|"2018-12-04"|1|0.569|0.108|9|-15.855|1|0.035|0.883|0|0.112|0.181|110.421|4
+425|"1Ve2OCcCtpXYaNDtHS1rgE"|"mxmtoon"|"please don't"|256602|"please don't"|1|"2017-08-30"|1|0.66|0.104|0|-16.838|1|0.0398|0.975|1.83e-06|0.0793|0.334|143.574|4
+426|"3ATpkhQnCnkauIjm7WL9Fe"|"mxmtoon"|"my way"|208618|"my way"|1|"2019-01-24"|1|0.559|0.121|0|-14.209|1|0.0538|0.929|0|0.102|0.431|113.325|5
+427|"2WwAnOrbU1vhRMgZC2oX8G"|"chloe moriondo"|"Waves"|133072|"Rabbit Hearted."|1|"2018-07-31"|10|0.488|0.207|9|-14.157|0|0.0447|0.914|0|0.108|0.159|81.451|4
+428|"5mkRGTbm3BwPzNQL9oBV9e"|"khai dreams"|"Lost in You"|101000|"Lost in You"|1|"2017-09-08"|1|0.771|0.607|5|-12.02|0|0.113|0.336|0|0.122|0.79|90.039|4
+429|"6tv9CzrMUHQFrm9VHHO1hv"|"NIKI"|"Around"|183546|"Zephyr"|8|"2018-05-23"|8|0.485|0.125|0|-16.486|1|0.0438|0.887|3.88e-06|0.108|0.153|130.234|4
+430|"6TCmU4U7Ooqep96bnYx5lH"|"Cavetown"|"Sweet Tooth"|246250|"Sleepyhead"|1|"2020-03-27"|11|0.57|0.31|0|-13.208|1|0.0316|0.255|2.03e-06|0.112|0.242|139.711|4
+431|"5vPO5ouEv8iedKWxzmSv7b"|"NIKI"|"Lose"|256001|"MOONCHILD"|3|"2020-09-10"|10|0.41|0.316|0|-8.13|1|0.029|0.846|0|0.124|0.22|133.288|4
+432|"0ULPrBFNhvdIfNlW04gxln"|"dvr"|"muscles"|160153|"tape_01"|2|"2020-06-22"|5|0.66|0.454|4|-10.957|0|0.191|0.0181|0.0164|0.397|0.685|129.937|4
+433|"7B3z0ySL9Rr0XvZEAjWZzM"|"Clairo"|"Sofia"|188386|"Immunity"|7|"2019-08-02"|11|0.744|0.619|0|-9.805|1|0.039|0.598|0.00372|0.231|0.641|112.997|4
+434|"6F5mZpEEjhsAW8UEqbIpz1"|"beabadoobee"|"Tired"|199514|"Patched Up"|2|"2018-12-07"|7|0.63|0.418|7|-7.111|0|0.0254|0.483|0.15|0.111|0.345|140.037|4
+435|"5piG7g3vYcZuJSlQLEz2Zo"|"mxmtoon"|"late nights - acoustic"|175933|"the masquerade"|10|"2019-09-17"|20|0.592|0.154|1|-11.005|0|0.0344|0.954|0|0.117|0.218|102.162|4
+436|"2NWVdwbd2hPIzC2lyf4y63"|"Ashe"|"Moral of the Story (feat. Niall Horan)"|198515|"Moral of the Story (feat. Niall Horan)"|1|"2020-06-17"|1|0.599|0.374|10|-8.896|1|0.0385|0.495|0|0.221|0.224|119.9|4
+437|"5GVPVxgdgTKJFxSxLVIw1A"|"Conan Gray"|"The Story"|245266|"Kid Krow"|12|"2020-03-20"|12|0.542|0.299|0|-10.379|1|0.0305|0.817|0|0.109|0.274|141.917|4
+438|"7sTtHHrD0zDpmzQzH3zegz"|"Camila Cabello"|"Consequences"|178466|"Camila"|6|"2018-01-12"|11|0.455|0.292|0|-6.792|1|0.0563|0.889|0|0.106|0.43|84.339|5
+439|"1EwRMgWXS9U8Oet39tlYwY"|"Ilene Woods"|"So This Is Love - From ""Cinderella"""|92600|"Disney Princess: The Ultimate Song Collection"|7|"2004-01-01"|14|0.232|0.145|4|-16.622|1|0.0373|0.898|0|0.143|0.2|88.363|1
+440|"1XTz8npaJxxzKW8JG4s5iC"|"Bill Lee"|"Edelweiss"|137000|"The Sound of Music (50th Anniversary Edition)"|10|"1964"|27|0.277|0.156|8|-17.54|1|0.0374|0.785|0.000412|0.134|0.365|92.373|3
+441|"14JzyD6FlBD5z0wV5P07YI"|"Billie Eilish"|"when the party's over"|199931|"when the party's over"|1|"2018-10-17"|1|0.498|0.104|1|-14.08|0|0.0621|0.979|7.86e-05|0.0895|0.205|124.001|3
+442|"1JCCdiru7fhstOIF4N7WJC"|"5 Seconds of Summer"|"Amnesia"|237247|"5 Seconds Of Summer"|12|"2014-06-27"|16|0.572|0.499|2|-5.237|1|0.0311|0.0283|0|0.213|0.108|101.593|4
+443|"7lSZpgUg8R79pC49uc6IHX"|"Sasha Alex Sloan"|"Version Of Me"|181971|"Loser"|4|"2018-11-29"|6|0.699|0.493|11|-10.386|1|0.0699|0.537|0|0.258|0.08|94.99|4
+444|"64sp7I8wf70B7OLOpih6XJ"|"Sasha Alex Sloan"|"Normal"|192200|"sad girl"|1|"2018-04-18"|6|0.749|0.419|5|-9.41|1|0.0719|0.528|7.85e-06|0.113|0.279|120.166|4
+445|"2olyfHW5Sn7LnIQlxjTZdU"|"Sasha Alex Sloan"|"The Only"|213959|"Loser"|1|"2018-11-29"|6|0.682|0.26|4|-11.008|0|0.0495|0.745|0|0.137|0.0502|138.034|4
+446|"1mVKWLlNKn7lgasPVhxQjD"|"Charlotte Lawrence"|"Everybody Loves You"|204648|"Everybody Loves You"|1|"2018-05-30"|1|0.486|0.231|2|-10.277|1|0.0494|0.754|0|0.37|0.327|122.755|4
+447|"79e2GU4RLPjAqnijfvsXYr"|"Conan Gray"|"Generation Why"|219680|"Sunset Season"|2|"2018-11-16"|5|0.561|0.684|9|-8.235|1|0.0669|0.347|2.93e-06|0.122|0.528|81.977|4
+448|"28sNP4vXS6EtFr2VKPhCTQ"|"ROLE MODEL"|"minimal"|163339|"minimal"|1|"2019-05-03"|1|0.575|0.679|1|-4.442|1|0.0432|0.547|0|0.34|0.204|169.886|3
+449|"2GmPIJzviXYtkTKYYUlloB"|"Julia Michaels"|"Body"|180293|"Inner Monologue Part 2"|5|"2019-06-28"|8|0.54|0.409|8|-6.658|1|0.0284|0.781|0|0.104|0.197|95.177|4
+450|"5t3Vk8bRKylx4fjj7qlbib"|"Billie Eilish"|"bitches broken hearts"|176471|"bitches broken hearts"|1|"2018-03-30"|1|0.778|0.422|0|-10.114|1|0.0482|0.921|0.00924|0.0958|0.187|120.033|4
+451|"77bIDfQElFrLQjp2ZdTaam"|"Amanda Seyfried"|"I Have A Dream - From 'Mamma Mia!' Original Motion Picture Soundtrack"|262373|"Mamma Mia! The Movie Soundtrack"|17|"2008-01-01"|18|0.289|0.423|0|-7.269|1|0.029|0.804|0|0.251|0.472|205.104|4
+452|"4lkiVrmAYyPCtW3AFRs14e"|"Madison Beer"|"Tyler Durden"|127827|"As She Pleases"|4|"2018-02-02"|7|0.672|0.258|0|-11.328|1|0.0349|0.831|0|0.51|0.745|119.865|4
+453|"2VlLbhGLVJgdOW7kKdWWFc"|"Billie Eilish"|"Six Feet Under"|189613|"Six Feet Under"|1|"2016-11-17"|1|0.576|0.307|11|-12.732|0|0.0428|0.807|0.000355|0.0792|0.157|67.513|4
+454|"7hDVYcQq6MxkdJGweuCtl9"|"Billie Eilish"|"ocean eyes"|200379|"dont smile at me"|7|"2017-12-22"|9|0.511|0.363|4|-7.65|0|0.041|0.816|0.0317|0.084|0.169|144.892|4
+455|"41zXlQxzTi6cGAjpOXyLYH"|"Billie Eilish"|"idontwannabeyouanymore"|203569|"dont smile at me"|2|"2017-12-22"|9|0.483|0.412|7|-8.461|1|0.0402|0.737|0|0.116|0.247|170.163|3
+456|"0tMSssfxAL2oV8Vri0mFHE"|"Billie Eilish"|"listen before i go"|242652|"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"|12|"2019-03-29"|14|0.319|0.0561|0|-23.023|1|0.045|0.935|0.00384|0.388|0.082|79.764|3
+457|"48PFfbnf0ZRcGCxO4zApPp"|"Eva Noblezada"|"Flowers"|211038|"Hadestown (Original Broadway Cast Recording)"|23|"2019-07-26"|40|0.49|0.138|4|-13.18|1|0.0344|0.829|0.000237|0.12|0.15|85.921|4
+458|"0oX4kLiXk2hqlhdXddedhC"|"5 Seconds of Summer"|"Lie To Me - Acoustic"|155476|"Lie To Me (Acoustic)"|1|"2019-02-01"|1|0.653|0.493|10|-6.392|1|0.0296|0.147|0|0.0852|0.853|154.892|4
+459|"1MhXdlCQPnO56T57MfmaRm"|"5 Seconds of Summer"|"Ghost Of You"|197411|"Youngblood (Deluxe)"|13|"2018-06-15"|16|0.458|0.561|10|-4.819|1|0.0269|0.0965|0|0.156|0.206|149.875|3
+460|"2D2lazsae9o1UoVPUAdxyT"|"Gracie Abrams"|"21"|185172|"21"|1|"2020-02-20"|1|0.756|0.673|2|-6.336|1|0.0899|0.516|0|0.109|0.402|125.055|4
+461|"7mLIL4OdNdwFcGNlTcWa0c"|"Cavetown"|"Talk to Me"|277327|"Dear."|4|"2018-06-29"|4|0.626|0.323|4|-9.607|1|0.0339|0.667|0|0.0605|0.234|130.086|4
+462|"6iGWH4PRPDwtN9NydaHK8b"|"Cavetown"|"Fool"|233785|"Lemon Boy"|4|"2018-01-01"|13|0.671|0.464|1|-9.277|1|0.149|0.0632|0.073|0.0711|0.131|79.509|4
+463|"3sa1wUB8FAkoH95MGPGBWI"|"Sir Chloe"|"Michelle"|214087|"Michelle"|1|"2019-04-11"|1|0.366|0.439|4|-5.238|1|0.0298|0.0781|1.92e-05|0.108|0.11|115.94|3
+464|"22vCOQZR7H1bIv3KVto1pq"|"Sophie Cates"|"drinking games"|200701|"yikes!"|2|"2019-10-02"|8|0.509|0.636|2|-5.811|1|0.0453|0.635|0.000127|0.613|0.302|94.135|4
+465|"6SSg2PwMIJiSzIynd3xnNG"|"Sophie Cates"|"can’t sleep in"|135240|"yikes!"|1|"2019-10-02"|8|0.393|0.465|5|-10.695|1|0.0419|0.386|0.0991|0.196|0.0395|105.038|4
+466|"5HXp1Ui2GXhO0z5fIqUCpe"|"Sophie Cates"|"disappear"|238573|"all my boyfriends"|3|"2020-09-23"|5|0.591|0.581|0|-5.84|1|0.0443|0.482|3.87e-05|0.139|0.158|132.975|4
+467|"64OkYAwAbG0gUuIjspFVv4"|"Sophie Cates"|"lost cause"|187213|"yikes!"|5|"2019-10-02"|8|0.504|0.509|0|-8.668|1|0.0308|0.474|0.00112|0.144|0.377|120.889|4
+468|"5AoWD7iqZDrTxkxBneWJOW"|"Phoebe Bridgers"|"Christmas Song"|221906|"If We Make It Through December"|3|"2020-11-24"|4|0.403|0.205|0|-13.854|1|0.0356|0.884|4.29e-05|0.11|0.281|116.613|3
+469|"6sALLrBPX30ptG1HWH6vmW"|"Phoebe Bridgers"|"Moon Song"|277676|"Punisher"|7|"2020-06-18"|11|0.38|0.24|1|-12.544|1|0.0514|0.871|0.00287|0.107|0.172|103.818|4
+470|"0IbrkEnIRbN9TGn0TKzObj"|"Phoebe Bridgers"|"It'll All Work Out (Bonus Track)"|166133|"Stranger in the Alps (Deluxe Edition)"|12|"2018-10-02"|13|0.231|0.228|5|-15.845|0|0.0337|0.923|0.0129|0.169|0.224|80.326|4
+471|"3cr3oAP4bQFNjZBV7ElKaB"|"Phoebe Bridgers"|"I Know The End"|344692|"Punisher"|11|"2020-06-18"|11|0.328|0.32|1|-10.282|1|0.035|0.324|0.019|0.234|0.259|111.453|4
+472|"5g97GAdru7XfeJyJhViIll"|"Phoebe Bridgers"|"Smoke Signals"|324773|"Stranger in the Alps"|1|"2017-09-22"|11|0.342|0.237|10|-14.601|1|0.0384|0.945|0.000267|0.112|0.186|117.824|5
+473|"60GNcfTVPbKYpdgyYDqUPq"|"Ricky Montgomery"|"Mr Loverman (feat. chloe moriondo)"|215482|"Mr Loverman (feat. chloe moriondo)"|1|"2021-03-05"|1|0.57|0.694|0|-5.607|1|0.0269|0.248|2.86e-05|0.158|0.493|130.021|3
+474|"2769RhOZs0ezRncRW1vryp"|"Ashe"|"Till Forever Falls Apart"|222860|"Till Forever Falls Apart"|1|"2021-03-02"|1|0.509|0.498|2|-6.94|1|0.0315|0.413|0|0.0674|0.283|99.729|4
+475|"53taBvemC88CMHP2I1xAFX"|"Lizzy McAlpine"|"Means Something"|144631|"Give Me A Minute"|8|"2020-08-13"|13|0.429|0.2|8|-14.629|1|0.0512|0.825|1.7e-06|0.367|0.357|95.319|4
+476|"3Xeyn4UqgRGnLVaBKOE7kP"|"Benny Sings"|"Here It Comes"|198315|"Here It Comes"|1|"2021-03-03"|1|0.821|0.148|9|-11.253|0|0.05|0.178|0.0916|0.105|0.579|83.999|4
+477|"35qRwSUu7Z5bvqTE7iGyxi"|"Orla Gartland"|"New Friends"|178000|"Freckle Season"|5|"2020-02-21"|5|0.676|0.154|7|-12.819|1|0.0474|0.936|1.83e-05|0.0948|0.353|95.109|4
+478|"57jK3RjPZDkjTFxAIUrJ7i"|"dacelynn"|"Heart Pressed Letter"|161980|"PR!DE"|3|"2020-08-11"|3|0.576|0.328|2|-12.261|1|0.036|0.9|0.000481|0.093|0.188|126.796|3
+479|"0zCm4JTVBuIWSSL8rMUChT"|"Mitski"|"Last Words of a Shooting Star"|164226|"Bury Me At Makeout Creek"|10|"2014-11-11"|10|0.393|0.167|2|-19.024|1|0.0361|0.473|0.00097|0.11|0.0961|129.955|3
+480|"4Phnrzy56Yt0VNooKCwr3p"|"Mitski"|"I Want You"|183792|"Retired from Sad, New Career in Business"|6|"2013-08-01"|11|0.286|0.292|3|-11.294|1|0.0362|0.514|0|0.0713|0.0635|131.58|3
+481|"1XXA4Lok0sIaeHdCPkkCxD"|"Mitski"|"Jobless Monday"|126746|"Bury Me At Makeout Creek"|6|"2014-11-11"|10|0.433|0.442|5|-11.217|1|0.03|0.00106|0.0136|0.123|0.203|100.019|4
+482|"6D6HVKe7Qu3imn4zzJD0W9"|"keshi"|"drunk"|227031|"always"|3|"2020-10-23"|6|0.691|0.389|4|-8.247|1|0.0367|0.765|0|0.0941|0.306|104.952|4
+483|"2PcRcEPe8HkDhYsA6OV6d4"|"keshi"|"xoxosos"|153480|"skeletons"|4|"2019-07-16"|4|0.619|0.401|5|-10.067|1|0.0372|0.557|7.49e-06|0.112|0.257|80.002|4
+484|"5SlU0Yhi51jobhEiGE4xDv"|"keshi"|"2 soon"|206511|"2 soon"|1|"2018-08-21"|1|0.517|0.663|6|-6.688|0|0.0375|0.146|0|0.322|0.146|174.032|4
+485|"3A2jJaOKYhmKEy9IyyEJF6"|"potsu"|"lovesick"|150966|"lovesick"|1|"2017-05-16"|1|0.804|0.577|10|-14.929|1|0.14|0.922|0.939|0.113|0.181|79.486|4
+486|"2XRCxFtPqSsnY94jZCFuYu"|"Hozier"|"From Eden"|283466|"Hozier"|6|"2014-10-07"|13|0.399|0.672|0|-5.506|1|0.05|0.584|2.45e-05|0.118|0.285|142.215|5
+487|"28ISI9ACJ3Z3tQ7rQehHlZ"|"SHY Martin"|"Break With Me"|155569|"Break With Me"|1|"2021-03-05"|1|0.612|0.203|5|-10.313|1|0.0345|0.737|0|0.124|0.172|138.084|4
+488|"2GSLoT7abyYGchSSDCpWEI"|"Tate McRae"|"Heather - Spotify Singles"|190652|"Spotify Singles"|2|"2020-11-11"|2|0.569|0.271|10|-10.969|1|0.0271|0.886|0|0.103|0.352|91.888|4
+489|"6Jl3ZOX6MUOlyoUc721bsX"|"Rex Orange County"|"A Song About Being Sad"|136000|"Bcos U Will Never B Free"|8|"2016-11-07"|10|0.567|0.263|5|-13.51|1|0.103|0.891|0|0.183|0.247|111.86|4
+490|"2fAeROYFSbWdvML6rbnCar"|"Alaina Castillo"|"just a boy"|185681|"just a boy"|1|"2020-03-27"|1|0.51|0.301|7|-5.344|1|0.0566|0.892|0|0.127|0.508|198.158|3
+491|"5a6pdCHlWS2ekOOQ70QnAr"|"Noah Cyrus"|"July"|156106|"July"|1|"2019-07-31"|1|0.708|0.186|9|-8.953|0|0.0422|0.868|0|0.0779|0.321|72.541|4
+492|"2MvvoeRt8NcOXWESkxWn3g"|"Lorde"|"Ribs"|258969|"Pure Heroine"|4|"2013-09-27"|10|0.511|0.472|4|-9.277|1|0.091|0.534|0.614|0.11|0.0399|127.978|4
+493|"6Kkt27YmFyIFrcX3QXFi2o"|"Lorde"|"Liability"|171727|"Melodrama"|5|"2017-06-16"|11|0.587|0.229|10|-11.254|0|0.128|0.92|0|0.1|0.379|75.67|4
+494|"0n1SCmuSFEqRQxXvlxCNBy"|"Olivia O'Brien"|"Better Than Feeling Lonely"|194000|"Better Than Feeling Lonely"|1|"2021-01-01"|1|0.54|0.542|5|-5.562|1|0.0568|0.477|0|0.0833|0.334|77.43|4
+495|"58Mh6zmqSo9IvysPAXnG0h"|"Sarcastic Sounds"|"change ur mind"|183451|"change ur mind"|1|"2021-01-29"|3|0.627|0.575|4|-7.38|1|0.232|0.78|0|0.336|0.494|78.546|4
+496|"4EWBhKf1fOFnyMtUzACXEc"|"Rex Orange County"|"Pluto Projector"|267520|"Pony"|7|"2019-10-25"|10|0.379|0.219|5|-11.196|1|0.0307|0.707|0.000691|0.118|0.188|79.786|4
+497|"4jaiounlhJY1Vd0Vt6lrpB"|"5 Seconds of Summer"|"Stay - Recorded at Spotify Studios NYC"|190927|"Spotify Singles"|2|"2018-08-01"|2|0.338|0.399|0|-10.11|1|0.0378|0.287|0|0.323|0.327|169.742|4
+498|"3AOjXzjmWwsKJUfbMKOYtW"|"Maisie Peters"|"Architecture"|202520|"Dressed Too Nice For A Jacket"|4|"2018-11-02"|6|0.484|0.291|5|-8.366|1|0.0274|0.77|6.66e-06|0.1|0.276|101.207|4
+499|"7MbT4I8qGntX4fMdqMQgke"|"Taylor Swift"|"peace"|234000|"folklore"|15|"2020-07-24"|16|0.647|0.272|5|-12.906|1|0.0916|0.918|1.73e-05|0.0918|0.339|150.044|4
+500|"5kRPPEWFJIMox5qIkQkiz5"|"Harry Styles"|"Sweet Creature"|224866|"Harry Styles"|5|"2017-05-12"|10|0.427|0.262|7|-8.541|1|0.0276|0.746|0|0.068|0.228|104.085|4
+501|"6ON9UuIq49xXY9GPmHIYRp"|"Taylor Swift"|"The Best Day (Taylor’s Version)"|245290|"Fearless (Taylor's Version)"|12|"2021-04-09"|26|0.642|0.576|1|-8.524|1|0.0282|0.488|0|0.159|0.469|125.0|4
+502|"7eResoqEJJAVTkQYSqvO3P"|"Taylor Swift"|"That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)"|189495|"Fearless (Taylor's Version)"|24|"2021-04-09"|26|0.588|0.608|5|-7.062|1|0.0365|0.225|0|0.092|0.508|90.201|4
+503|"2sBKLT7bFa38yVAYxYltUX"|"beabadoobee"|"Dance with Me"|234282|"Patched Up"|3|"2018-12-07"|7|0.36|0.209|4|-10.293|1|0.0355|0.967|0.00326|0.153|0.227|199.95|4
+504|"7gGBgh0bVxHPgZjA505bo9"|"FINNEAS"|"Break My Heart Again"|238012|"Blood Harmony (Deluxe)"|8|"2020-08-07"|9|0.402|0.151|4|-14.228|0|0.04|0.907|0|0.0941|0.489|144.069|4
+505|"60VaORSJ5x1D4ZPSc0g2En"|"BAEKHYUN"|"Bambi"|213053|"Bambi - The 3rd Mini Album"|2|"2021-03-30"|6|0.438|0.632|7|-4.447|0|0.0417|0.434|0|0.214|0.386|61.45|4
+506|"7fIFq5maHJBEPay9eyQTkp"|"Johnny Stimson"|"Flower"|173230|"Flower"|1|"2019-04-05"|1|0.488|0.361|0|-7.682|0|0.209|0.135|0|0.0989|0.5|196.813|3
+507|"5byMYiGxEFH2UzqNWOztGW"|"UMI"|"Introspection"|168906|"Introspection"|1|"2020-05-07"|1|0.613|0.428|0|-9.064|1|0.0514|0.245|0|0.254|0.352|105.09|4
+508|"2KEnu7ABoDpekTUae5rrU0"|"keshi"|"just friends"|123125|"just friends"|1|"2017-12-19"|1|0.713|0.244|6|-15.639|0|0.101|0.767|0.00435|0.101|0.199|119.993|4
+509|"5HsSsEeP3hU9QSfHZrzbtA"|"Finding Hope"|"3:00 AM"|201951|"Our Love"|2|"2017-10-27"|4|0.55|0.147|0|-18.675|0|0.0404|0.563|0.00102|0.286|0.0346|81.991|4
+510|"3wefloF3t1sFZx8YMFhqYB"|"Luke Chiang"|"Shouldn't Be"|210436|"Shouldn't Be"|1|"2019-05-01"|1|0.651|0.291|4|-10.009|1|0.0326|0.738|0|0.115|0.302|124.898|3
+511|"5byXSKd7QOHtVMOiptklBD"|"keshi"|"i swear i'll never leave again"|173716|"THE REAPER"|4|"2018-11-13"|4|0.569|0.319|8|-12.85|1|0.0277|0.853|0.000151|0.128|0.32|79.997|4
+512|"07tYyJZJyu7SYYG4EWKkGS"|"Jeff Bernat"|"This Time"|185991|"This Time"|1|"2021-01-15"|1|0.685|0.43|4|-9.586|1|0.0324|0.723|3.04e-06|0.135|0.482|107.042|4
+513|"0KyAGiNGUytG5JLxJu4F6l"|"Clairo"|"Pretty Girl"|178352|"Pretty Girl"|1|"2017-08-04"|1|0.93|0.611|0|-4.406|1|0.0415|0.593|0.00124|0.0592|0.695|112.127|4
+514|"77UXyXy6qie0sOtLdEIH4A"|"Joji"|"Demons"|176803|"In Tongues (Deluxe)"|3|"2018-02-14"|16|0.458|0.378|2|-11.354|0|0.15|0.416|0.0919|0.0966|0.037|168.232|3
+515|"6LxcPUqx6noURdA5qc4BAT"|"Phoebe Bridgers"|"Motion Sickness"|229760|"Stranger in the Alps"|2|"2017-09-22"|11|0.652|0.545|1|-9.021|1|0.0358|0.774|0.0428|0.0847|0.626|107.019|4
+516|"2aReOPqi6NjhJ8zxa0Mi2D"|"Cavetown"|"Sharpener"|237641|"Sharpener"|1|"2020-10-16"|1|0.671|0.405|5|-10.811|1|0.0342|0.676|0.00053|0.122|0.272|105.971|4
+517|"46VVqPB050Euv6hIxeV45l"|"ella jane"|"The City"|251646|"The City"|1|"2020-02-20"|1|0.696|0.241|0|-17.231|1|0.0355|0.804|0.00577|0.109|0.127|95.001|4
+518|"7wC5eZcFS1Q1BsQ35DU6H4"|"Billie Eilish"|"come out and play"|210375|"come out and play"|1|"2018-11-20"|1|0.64|0.321|0|-14.604|1|0.0931|0.693|0.0307|0.114|0.177|145.045|4
+519|"2ygvZOXrIeVL4xZmAWJT2C"|"Billie Eilish"|"my future"|208155|"my future"|1|"2020-07-30"|1|0.444|0.309|8|-10.956|1|0.062|0.795|0.132|0.352|0.0875|104.745|4
+520|"1WsEgieHsWWndAzLkmV105"|"Billie Eilish"|"hostage"|229425|"dont smile at me"|8|"2017-12-22"|9|0.427|0.123|9|-15.228|0|0.0497|0.868|3.12e-05|0.0732|0.0394|129.565|5
+521|"0KmgJyW4GDgonqsoyx0CZ3"|"Conan Gray"|"Astronomy"|243907|"Astronomy"|1|"2021-05-07"|1|0.471|0.335|4|-8.767|0|0.0273|0.593|2.11e-05|0.297|0.111|145.252|3
+522|"3S2txCWk5PrT81SrX5zEAk"|"chloe moriondo"|"Vapor"|284920|"Blood Bunny"|12|"2021-05-07"|13|0.461|0.445|5|-6.699|1|0.0262|0.192|0|0.107|0.231|79.998|4
+523|"3h3713Cg1QIQwmBDquK4wM"|"Orla Gartland"|"Why Am I Like This?"|212713|"Why Am I Like This? - EP"|1|"2019-05-24"|4|0.63|0.423|2|-7.705|1|0.0318|0.507|2.24e-06|0.219|0.319|90.019|4
+524|"4wcBRRpIfesgcyUtis7PEg"|"Olivia Rodrigo"|"1 step forward, 3 steps back"|163586|"SOUR"|4|"2021-05-21"|11|0.473|0.203|2|-12.627|1|0.102|0.941|0|0.126|0.419|168.884|4
+525|"5JCoSi02qi3jJeHdZXMmR8"|"Olivia Rodrigo"|"favorite crime"|152666|"SOUR"|10|"2021-05-21"|11|0.369|0.272|9|-10.497|1|0.0364|0.866|0|0.147|0.218|172.929|4
+526|"0OcoZJjaHsYmYZhzT3F3oL"|"mxmtoon"|"creep"|210600|"creep"|1|"2021-03-18"|1|0.699|0.461|11|-8.382|1|0.0313|0.664|0.00582|0.0872|0.0703|103.989|4
+527|"3p3uYUc79q8dAiVnduMCoc"|"Orla Gartland"|"Heavy"|244946|"Freckle Season"|3|"2020-02-21"|5|0.645|0.19|5|-12.02|1|0.0382|0.785|0.000435|0.102|0.112|139.981|4
+528|"0PuQItGL0eIngxLh2um4QE"|"ZAYN"|"Unfuckwitable"|164733|"Nobody Is Listening"|8|"2021-01-15"|11|0.369|0.432|1|-11.636|1|0.0453|0.297|7.65e-05|0.123|0.491|168.822|3
+529|"44ngiCPfS8FfdJOqN0eULl"|"ZAYN"|"Tightrope"|204746|"Nobody Is Listening"|10|"2021-01-15"|11|0.644|0.48|4|-8.347|1|0.0328|0.244|0.0173|0.0911|0.449|96.953|4
+530|"6bL1Rqcx1RXG6VsMmrYN8F"|"ZAYN"|"When Love's Around (feat. Syd)"|191933|"Nobody Is Listening"|5|"2021-01-15"|11|0.694|0.584|8|-9.406|0|0.149|0.312|0.00646|0.0717|0.343|173.987|4
+531|"5HZqB71sd25MXGzWnE14X4"|"Faith Zapata"|"1st place"|245154|"jupiter"|2|"2020-05-15"|5|0.62|0.619|1|-13.102|1|0.0308|0.128|0.0181|0.111|0.443|150.03|4
+532|"5Aw7owiidqvmVBJ5raqUni"|"Faith Zapata"|"Summer Is Over"|257020|"Spaced Out"|4|"2019-01-01"|7|0.513|0.0166|0|-26.828|1|0.0533|0.9|0|0.116|0.336|120.248|3
+533|"1shhCs4jt261mJ5JEIwB6Y"|"Jessica Mazin"|"The Peak of My Existence"|352340|"The Peak of My Existence"|1|"2021-01-21"|1|0.431|0.145|11|-19.296|1|0.04|0.862|2.6e-06|0.156|0.125|125.667|5
+534|"2Drm5lwdpGraHp6CMPQx4Z"|"WILLOW"|"Flowers"|157800|"3"|3|"2014-11-11"|3|0.74|0.53|7|-8.05|0|0.0903|0.606|0|0.137|0.683|87.011|4
+535|"63UrNVSV5WeUeiA7esrOXA"|"WILLOW"|"Israel"|215927|"The 1st"|5|"2017-10-31"|11|0.345|0.353|11|-6.981|0|0.0317|0.713|2.07e-05|0.175|0.0785|99.335|4
+536|"297UW2vKNreeUClKWq8Xkz"|"WILLOW"|"Gajendra"|186426|"R I S E"|2|"2020-11-20"|6|0.717|0.611|11|-5.931|0|0.0284|0.254|0.00298|0.17|0.132|95.032|4
+537|"3198LMj0bpnXj8Mb1GLo3u"|"Lyn Lapid"|"When She Loved Me"|187709|"When She Loved Me"|1|"2021-05-25"|1|0.604|0.0458|4|-19.031|1|0.0762|0.973|0|0.0963|0.617|76.235|3
+538|"6OiRh4kttAs1YWglvTcYkB"|"Peach Pit"|"Alrighty Aphrodite"|207813|"Being So Normal"|4|"2018-06-28"|9|0.534|0.724|6|-4.675|0|0.0495|0.00605|0.0929|0.108|0.503|81.846|4
+539|"6Ijmj8Z0L31hCp5pLZnT5U"|"Men I Trust"|"Numb"|219340|"Numb"|1|"2019-04-12"|1|0.783|0.303|4|-14.393|1|0.0527|0.811|0.945|0.109|0.65|138.816|4
+540|"3lG6OtGDsYAOALxEmubQQm"|"Lana Del Rey"|"Happiness is a butterfly"|272485|"Norman Fucking Rockwell!"|13|"2019-08-30"|14|0.467|0.119|2|-10.99|1|0.0401|0.969|1.4e-06|0.0973|0.156|70.499|4
+541|"57asCheDC0X1S9QnyTsmOQ"|"Mellow Fellow"|"Dancing"|282671|"Dancing"|1|"2017-07-18"|1|0.373|0.474|8|-7.856|0|0.031|0.736|9.26e-05|0.287|0.387|101.918|4
+542|"2360kP32TSUkneabH6cEkA"|"Claire Rosinkranz"|"Pretty Little Things"|164802|"6 Of A Billion"|2|"2021-07-09"|6|0.506|0.371|0|-9.648|1|0.0717|0.782|0|0.11|0.45|79.01|4
+543|"4DcifSti1LKnT8A5zFajFd"|"Claire Rosinkranz"|"Fall Apart"|179692|"6 Of A Billion"|4|"2021-07-09"|6|0.472|0.199|7|-12.397|1|0.0816|0.883|0|0.0866|0.0841|67.625|4
+544|"5HUOJAkVpnhpCUxONfXiKW"|"Claire Rosinkranz"|"LAX"|204127|"6 Of A Billion"|6|"2021-07-09"|6|0.545|0.434|1|-7.716|1|0.0702|0.679|0|0.251|0.387|127.125|4
+545|"3Tnd73B4R6Yvzo1nTxu0dz"|"ella jane"|"Thief"|206351|"Thief"|1|"2021-07-09"|1|0.582|0.248|2|-9.967|1|0.031|0.863|0|0.251|0.388|146.767|4
+546|"51Grh1RyUDcMBbpuyUIUHI"|"Liana Flores"|"rises the moon"|161929|"recently"|1|"2019-04-10"|5|0.483|0.129|5|-20.149|0|0.0349|0.947|0.145|0.106|0.203|137.35|3
+547|"6fFSDDBO5Gc9Y2i2CA8vZI"|"Alexander 23"|"Dirty AF1s"|137000|"Dirty AF1s"|1|"2019-03-14"|1|0.687|0.668|8|-5.99|1|0.385|0.756|0|0.113|0.352|87.175|4
+548|"0lX13P1uH2Hn6R9iavXWxJ"|"Fox Academy"|"Lavender Blood"|158785|"Luxury Beverage"|11|"2015-01-06"|15|0.358|0.161|1|-16.848|1|0.0368|0.987|0.0315|0.11|0.204|83.351|4
+549|"172rW45GEnGoJUuWfm1drt"|"Mitski"|"Your Best American Girl"|212183|"Puberty 2"|5|"2016-06-17"|11|0.36|0.257|7|-9.655|1|0.0315|0.0159|0.00512|0.226|0.13|76.972|4
+550|"3UChNf9rb9hJZvOcU9HCTb"|"Mitski"|"Liquid Smooth"|169773|"Lush"|1|"2012-01-31"|9|0.356|0.342|7|-9.469|0|0.0383|0.837|0|0.136|0.116|113.52|3
+551|"3iDMNG7MD7uCPMxBOa66ZI"|"Mitski"|"Goodbye, My Danish Sweetheart"|137024|"Retired from Sad, New Career in Business"|1|"2013-08-01"|11|0.652|0.435|1|-6.586|1|0.0384|0.813|0|0.106|0.473|120.006|4
+552|"3DiRnA7UDlUPrGDOF9Zb4u"|"ROLE MODEL"|"play the part"|192066|"play the part"|1|"2018-11-08"|1|0.743|0.486|3|-7.347|1|0.0374|0.44|4.28e-05|0.144|0.346|109.015|4
+553|"5bRuS5LK9OE8NhHsTipm3v"|"awfultune"|"Things That I Miss"|216037|"Peace and Quiet"|7|"2018-04-02"|8|0.529|0.176|8|-12.587|1|0.0556|0.938|0|0.318|0.239|78.242|4
+554|"57VAuR1WgKFzcpO3ujQx9A"|"Clairo"|"Harbor"|264011|"Sling"|7|"2021-07-16"|12|0.38|0.167|6|-15.294|1|0.0374|0.95|0.000369|0.0844|0.195|93.112|4
+555|"5Ga9HA1RoegXoq4TGolIi9"|"Babygirl"|"I Wish I Never Met You"|211744|"Lovers Fevers"|5|"2018-08-10"|5|0.82|0.494|1|-9.151|1|0.0309|0.281|0.0358|0.154|0.909|109.956|4
+556|"3jt8YFtxRJOg99gmJuQBiC"|"Doja Cat"|"Alone"|228866|"Planet Her (Deluxe)"|13|"2021-06-27"|19|0.691|0.656|8|-5.864|0|0.172|0.543|1.22e-05|0.095|0.746|169.973|4
+557|"4HOryCnbme0zBnF8LWij3f"|"Billie Eilish"|"Getting Older"|244221|"Happier Than Ever"|1|"2021-07-30"|16|0.599|0.128|10|-17.261|1|0.109|0.974|0.121|0.115|0.367|159.679|4
+558|"5XsAal7ZcWg1I5T4NcRjkv"|"Billie Eilish"|"Halley's Comet"|234761|"Happier Than Ever"|8|"2021-07-30"|16|0.403|0.159|1|-16.728|0|0.104|0.961|0.0121|0.34|0.0381|72.38|4
+559|"1PWeVeuvAirind2BIsHpkw"|"david hugo"|"Falling Hearts"|199849|"Blossom Hill"|10|"2021-07-09"|10|0.776|0.311|2|-12.905|1|0.205|0.898|9.75e-05|0.289|0.24|133.108|4
+560|"0juvhjhqBclichzepAQAHU"|"Claire Rosinkranz"|"Seriouslaaay"|222374|"BeVerly Hills BoYfRiEnd"|4|"2020-08-14"|4|0.627|0.4|7|-9.328|0|0.101|0.479|0|0.555|0.338|121.715|4
+561|"6E6n27YzMs6wbiYnERsj3k"|"Peach Tree Rascals"|"Plus"|272718|"Plus"|1|"2019-02-07"|1|0.567|0.287|1|-11.219|1|0.281|0.877|2.69e-06|0.0925|0.564|178.068|4
+562|"6PGPpQcsbVT9MNRX58jjOf"|"Claire Rosinkranz"|"Sugar Water"|167704|"Sugar Water"|1|"2019-10-10"|1|0.728|0.264|7|-12.246|1|0.0668|0.775|0|0.107|0.342|130.123|4
+563|"1Mhf6QIO0UuVr2ZvQPgymt"|"Cigarettes After Sex"|"Kiss It Off Me"|269933|"Cry"|2|"2019-10-25"|9|0.521|0.298|4|-12.471|1|0.0258|0.753|0.496|0.111|0.235|80.259|4
+564|"3VSYkAf6f46i5ZkXOHORq1"|"Cigarettes After Sex"|"Sweet"|291640|"Cigarettes After Sex"|6|"2017-06-09"|10|0.448|0.511|6|-9.084|1|0.0274|0.362|0.823|0.129|0.112|96.321|4
+565|"2y7JqO7Jc7ErdOmxpvifRF"|"Cigarettes After Sex"|"Crush"|266666|"Crush"|1|"2018-07-10"|2|0.401|0.505|5|-8.574|1|0.0252|0.0869|0.779|0.11|0.287|97.796|4
+566|"3aUOsR4iJ1y6GDDY3r1T7J"|"Ricky Montgomery"|"Talk to You - acoustic"|230209|"Talk to You (remixes)"|3|"2021-08-20"|5|0.731|0.534|2|-8.203|1|0.0343|0.299|0.000411|0.115|0.698|162.053|4
+567|"2eUmt1vpwc7pl0SImUEWfJ"|"Ricky Montgomery"|"Talk to You - slow"|243940|"Talk to You (remixes)"|4|"2021-08-20"|5|0.527|0.636|0|-7.278|1|0.0275|0.0637|0.00634|0.268|0.288|158.968|4
+568|"2W779g2UrRZtVdf3FcEOO1"|"Lyn Lapid"|"In My Mind"|162794|"In My Mind"|1|"2021-08-20"|1|0.668|0.392|2|-12.178|0|0.0585|0.789|0.00275|0.345|0.323|135.936|3
+569|"73q3pSigeXXZKFtAuIsF3N"|"Dylan Sinclair"|"Home"|201442|"Proverb"|3|"2020-09-25"|8|0.376|0.344|0|-12.004|1|0.0513|0.709|0.0404|0.104|0.06|84.545|5
+570|"2QdVcmVPIxW826rRJDf58l"|"Ruel"|"Face To Face"|203746|"Free Time"|5|"2019-09-13"|7|0.711|0.634|9|-4.351|1|0.0668|0.139|0|0.103|0.356|90.04|4
+571|"4sW92fjvu3GxkwDucZKWzG"|"Pomplamoose"|"Oh, Pretty Woman"|188863|"Oh, Pretty Woman"|1|"2020-06-03"|1|0.771|0.379|11|-8.978|0|0.0406|0.49|0.000537|0.0681|0.719|115.91|4
+572|"42Bz8LLNx5VDJM8x6D7xod"|"ella jane"|"the sellout"|196956|"the sellout"|1|"2021-08-19"|1|0.591|0.43|7|-11.546|1|0.0283|0.459|0|0.475|0.424|91.877|4
+573|"3YJJjQPAbDT7mGpX3WtQ9A"|"SZA"|"Good Days"|279204|"Good Days"|1|"2020-12-25"|1|0.436|0.655|1|-8.37|0|0.0583|0.499|8.1e-06|0.688|0.412|121.002|4
+574|"3hUxzQpSfdDqwM3ZTFQY0K"|"Taylor Swift"|"august"|261922|"folklore"|8|"2020-07-24"|16|0.532|0.623|5|-9.208|1|0.0331|0.538|7.28e-05|0.0925|0.403|89.937|4
+575|"5QKE7ODTNKUqo9ZAyhtZ5J"|"Faye Webster"|"Right Side of My Neck"|153320|"Atlanta Millionaires Club"|2|"2019-05-24"|10|0.72|0.515|1|-9.072|1|0.0262|0.00126|0.000255|0.331|0.322|117.051|4
+576|"5F9WcQalHpZAwKzWi6pBWg"|"Ricky Montgomery"|"Sorry for Me"|197513|"Sorry for Me"|1|"2021-10-15"|1|0.513|0.494|1|-7.407|1|0.0278|0.159|1.5e-05|0.102|0.316|145.147|4
+577|"02H1K5Cw9Ar89b35XwSEw6"|"Ricky Montgomery"|"My Heart Is Buried In Venice"|184866|"Montgomery Ricky"|7|"2016-04-08"|10|0.67|0.413|11|-8.117|1|0.0273|0.441|8.63e-05|0.0902|0.145|112.011|3
+578|"7Me3GKpQyEsHwS9xnOrUgM"|"Doja Cat"|"You Right"|186173|"Planet Her (Deluxe)"|8|"2021-06-27"|19|0.828|0.621|8|-6.414|1|0.0565|0.0164|0.00233|0.0845|0.436|128.986|4
+579|"5goZCkRmpk5tWTX3Af6XRL"|"Cavetown"|"Teenage Dirtbag (feat. chloe moriondo)"|199688|"Teenage Dirtbag (feat. chloe moriondo)"|1|"2021-10-22"|1|0.367|0.373|8|-9.296|1|0.0361|0.61|0|0.135|0.476|94.182|1
+580|"0HeiYo9WwMT8ujirrWzarf"|"keshi"|"SOMEBODY"|164662|"SOMEBODY"|1|"2021-10-22"|1|0.649|0.461|8|-8.401|1|0.0449|0.44|0|0.108|0.485|141.102|4
+581|"6tH1lxPcQConWuvlh85yFT"|"GAYLE"|"abcdefu (chill)"|176765|"abcdefu (chill)"|1|"2021-09-17"|3|0.554|0.429|1|-7.687|0|0.0334|0.0405|0|0.23|0.195|112.899|4
+582|"69UqtTHfUKAJweQwEStRzC"|"Cigarettes After Sex"|"Sunsetz"|214680|"Cigarettes After Sex"|3|"2017-06-09"|10|0.412|0.477|9|-9.381|0|0.029|0.0542|0.798|0.0975|0.141|75.302|4
+583|"6eDfe957aV4sqGnDhlSikJ"|"Rich Brian"|"Drive Safe"|240118|"The Sailor"|5|"2019-07-26"|12|0.635|0.312|7|-8.134|1|0.0265|0.635|0|0.138|0.414|98.017|4
+584|"7AE1oyRpPGoSwDs8b9XBO0"|"88rising"|"Split"|207013|"Split"|1|"2021-11-18"|1|0.691|0.509|8|-8.343|1|0.0352|0.431|0.00682|0.0885|0.473|113.961|3
+585|"6QF3r4zBRYgQTJCiF3tb9f"|"Delaney Bailey"|"For You"|140485|"This Is About You"|1|"2021-11-12"|4|0.335|0.17|7|-15.843|1|0.0453|0.809|0|0.309|0.348|175.982|3
+586|"5XFHQV7cxMNxLVl78M4LpB"|"Delaney Bailey"|"I Don't Need You To Survive"|140383|"This Is About You"|4|"2021-11-12"|4|0.382|0.14|3|-14.815|0|0.0448|0.931|3.2e-06|0.287|0.429|109.234|5
+587|"7pVDDf69OWLVpGqihFbV2x"|"Backhouse Mike"|"Okay"|280987|"Okay"|1|"2006-01-01"|1|0.484|0.581|10|-7.886|1|0.03|0.177|1.77e-06|0.169|0.29|93.04|4
+588|"5x4R7DNsMj5ZFSJR63GVjV"|"Ricky Montgomery"|"This December - slow"|213783|"This December (slow)"|1|"2021-12-01"|2|0.675|0.836|6|-5.205|1|0.0355|0.0201|1.26e-06|0.0667|0.827|118.987|4
+589|"4K3gM7kzX4POAfrs71HomN"|"Conan Gray"|"Lookalike"|220866|"Sunset Season"|5|"2018-11-16"|5|0.434|0.302|10|-10.117|1|0.0378|0.766|7.63e-06|0.149|0.173|121.645|4
+590|"2mAy8zQhZJICLFUEVGQzbE"|"Conan Gray"|"The Other Side"|172933|"The Other Side"|1|"2019-02-08"|1|0.602|0.471|5|-10.045|1|0.0406|0.515|3.29e-05|0.222|0.256|107.904|4
+591|"2nC3QhMI9reBIOWutbU3Tj"|"Ashe"|"Moral of the Story"|201083|"Moral of the Story"|1|"2019-02-14"|1|0.572|0.406|10|-8.624|1|0.0427|0.587|4.48e-06|0.102|0.265|119.812|4
+592|"48SdtsEKujibZPrd6UMfAr"|"Lana Del Rey"|"Diet Mountain Dew"|222920|"Born To Die"|5|"2011-01-01"|13|0.459|0.684|10|-5.971|0|0.0881|0.285|0|0.425|0.605|175.728|4
+593|"5URfZHMlUWTWxPvvSBWcPk"|"John Lennon"|"Beautiful Boy (Darling Boy) - Remastered 2010"|245693|"Double Fantasy"|7|"1980-11-17"|14|0.574|0.469|2|-11.53|1|0.0403|0.733|1.96e-06|0.856|0.435|111.378|4
+594|"429NtPmr12aypzFH3FkN9l"|"beabadoobee"|"Coffee"|126824|"Coffee"|1|"2017-11-04"|1|0.532|0.137|9|-18.208|1|0.0717|0.982|0.962|0.112|0.301|118.734|4
+595|"7LNm1oWd6PniO9wRYpNY5o"|"Delaney Bailey"|"j's lullaby (darlin' i'd wait for you)"|290132|"j's lullaby (darlin' i'd wait for you)"|1|"2022-01-07"|1|0.54|0.11|8|-19.885|1|0.0328|0.498|0.000614|0.0781|0.172|76.068|4
+596|"4A3zikD2GQq7x2LM4gtLEI"|"Aislinn Davis"|"Gwen"|223068|"Gwen"|1|"2022-01-04"|1|0.458|0.00531|3|-29.72|1|0.0558|0.94|0|0.182|0.326|92.827|4
+597|"7q5kKe4RyUFSGlxX0PKXaN"|"Sara-Danielle"|"scared"|256151|"scared"|1|"2020-10-30"|1|0.614|0.605|0|-11.04|0|0.0338|0.551|0.315|0.106|0.373|91.994|4
+598|"0lRrAowblrqtlInGwgC7oF"|"Nicotine's Famous Honey"|"The First Time"|203368|"The First Time"|1|"2017-04-18"|1|0.667|0.452|0|-10.035|1|0.027|0.357|0.000556|0.137|0.519|95.016|4
+599|"1Qu24vc8msUVLcMZWa4k1x"|"Omar Apollo"|"Want U Around (feat. Ruel)"|247720|"Apolonio"|3|"2020-10-16"|9|0.571|0.443|0|-6.76|1|0.0451|0.3|6.95e-06|0.101|0.621|143.923|3
+600|"1boXOL0ua7N2iCOUVI1p9F"|"Daniel Caesar"|"Japanese Denim"|270846|"Get You - Single"|2|"2016-10-21"|2|0.707|0.238|3|-8.818|1|0.0379|0.0905|2.42e-06|0.0842|0.345|124.156|3
+601|"0qQ9VcVPkWDTnff6HIhISU"|"Los Retros"|"Someone To Spend Time With"|173953|"Someone To Spend Time With"|1|"2019-02-12"|1|0.817|0.471|9|-13.301|1|0.0335|0.0529|0.224|0.106|0.962|89.551|4
+602|"3eX6q8ys28dIq4H83UUgPx"|"Samia"|"Show Up"|201053|"Show Up"|1|"2021-06-01"|1|0.538|0.431|0|-8.732|1|0.0288|0.201|1.53e-05|0.11|0.286|82.976|4
+603|"3GZD6HmiNUhxXYf8Gch723"|"Frank Ocean"|"Lost"|234093|"channel ORANGE"|11|"2012-07-10"|17|0.913|0.603|8|-4.892|1|0.226|0.0272|0.000503|0.167|0.497|123.061|4
+604|"4R2kfaDFhslZEMJqAFNpdd"|"Taylor Swift"|"cardigan"|239560|"folklore"|2|"2020-07-24"|16|0.613|0.581|0|-8.588|0|0.0424|0.537|0.000345|0.25|0.551|130.033|4
+605|"0lx2cLdOt3piJbcaXIV74f"|"Taylor Swift"|"willow"|214706|"evermore"|1|"2020-12-11"|15|0.392|0.574|7|-9.195|1|0.17|0.833|0.00179|0.145|0.529|81.112|4
+606|"0sY6ZUTh4yoctD8VIXz339"|"Taylor Swift"|"champagne problems"|244000|"evermore"|2|"2020-12-11"|15|0.462|0.24|0|-12.077|1|0.0377|0.92|0|0.113|0.32|171.319|4
+607|"7dW84mWkdWE5a6lFWxJCBG"|"Taylor Swift"|"‘tis the damn season"|229840|"evermore"|4|"2020-12-11"|15|0.575|0.434|5|-8.193|1|0.0312|0.735|6.59e-05|0.105|0.348|145.916|4
+608|"7mZ19pGoinaWwanIDq0JTY"|"keshi"|"TOUCH"|205346|"TOUCH"|1|"2022-02-04"|1|0.412|0.613|10|-9.803|1|0.125|0.528|1.96e-06|0.104|0.314|89.025|4
+609|"7IBI2S33PMaIM9pARvpIJY"|"Luna Li"|"Silver Into Rain"|201869|"Silver Into Rain"|1|"2022-02-01"|1|0.528|0.56|2|-6.3|1|0.0295|0.447|0.00904|0.0945|0.475|105.102|4
+610|"2lO8mP1QvI7RizGcBYQ7Mx"|"Clairo"|"How - demo"|127040|"diary 001"|6|"2018-05-25"|6|0.649|0.428|8|-4.584|0|0.0313|0.766|0.00294|0.0816|0.514|77.057|4
+611|"0T5iIrXA4p5GsubkhuBIKV"|"Stephen Sanchez"|"Until I Found You"|177720|"Until I Found You"|1|"2021-09-01"|1|0.539|0.508|10|-6.05|1|0.0288|0.727|0|0.174|0.227|101.358|3
+612|"7yR5ZDif2glYMnFP73uRMm"|"The Honeysticks"|"Out Like a Light"|256018|"Out Like a Light"|1|"2017-06-16"|1|0.522|0.458|11|-7.785|1|0.0275|0.17|0.00244|0.072|0.359|125.973|3
+613|"4LRPiXqCikLlN15c3yImP7"|"Harry Styles"|"As It Was"|167303|"As It Was"|1|"2022-03-31"|1|0.52|0.731|6|-5.338|0|0.0557|0.342|0.00101|0.311|0.662|173.93|4
+614|"55OlGT0r7dPTNuBlZXOjeA"|"5 Seconds of Summer"|"Take My Hand"|239865|"Take My Hand"|1|"2022-04-01"|2|0.554|0.485|0|-8.691|1|0.036|0.266|0|0.12|0.0952|126.02|4
+615|"5meVa5klVlJalupZTvv5XX"|"Gracie Abrams"|"21"|185172|"minor"|2|"2020-07-14"|7|0.759|0.665|2|-6.338|1|0.0861|0.494|0|0.109|0.391|125.056|4
+616|"6ps0RcnIrPoiMd9vfcA9KB"|"ROLE MODEL"|"neverletyougo"|178120|"neverletyougo"|1|"2022-03-25"|1|0.793|0.328|8|-10.412|1|0.273|0.318|0|0.136|0.409|147.039|4
+617|"66BnVsWUtsj14fTZdUDeVb"|"Blake Ruby"|"Dirty Laundry"|284918|"A Lesser Light to Rule the Night"|4|"2019-11-15"|7|0.503|0.376|11|-12.37|0|0.0286|0.214|0.00472|0.164|0.226|88.124|4
+618|"2B8A2Ww4nBypZqhRZVqJPV"|"Peach Pit"|"Brian's Movie"|233933|"You and Your Friends"|5|"2020-04-03"|12|0.752|0.49|7|-8.317|1|0.0326|0.0173|0|0.0555|0.45|108.037|4
+619|"2P4qoMmSqElFcI7GYaPLwf"|"Alann8h"|"My Mind Is a Maze"|146677|"Dumb Daze"|2|"2020-05-14"|6|0.85|0.223|1|-11.46|1|0.0705|0.671|3.23e-05|0.0914|0.468|95.008|4
+620|"28Obqqr7EtnSNul1TJiQcX"|"Delaney Bailey"|"Oh Love"|164666|"Oh Love"|1|"2022-04-29"|1|0.539|0.319|8|-14.928|1|0.0283|0.845|3.6e-05|0.112|0.563|148.103|4
+621|"57V4uc2b2diZ4RPHXWecb9"|"Hozier"|"Like Real People Do"|198026|"Hozier (Expanded Edition)"|10|"2014-09-19"|15|0.539|0.179|7|-14.33|1|0.0309|0.921|0.393|0.106|0.145|140.01|3
+622|"6S4NRqNCYpsxlxMtSFKxh2"|"Mr Little Jeans"|"Intentions"|208146|"Intentions"|1|"2022-04-22"|4|0.629|0.525|2|-6.86|1|0.0443|0.133|0.047|0.0782|0.25|168.002|4
+623|"4d1CG5ei1E2vGbvmgf5KKv"|"Taylor Swift"|"This Love (Taylor’s Version)"|250100|"This Love (Taylor’s Version)"|1|"2022-05-06"|2|0.47|0.494|4|-8.672|1|0.0349|0.302|0|0.0672|0.0524|144.039|4
+624|"5MaDeMdqsPsZTxNWdEZPVH"|"MAMAMOO"|"Starry Night"|211236|"Yellow Flower"|3|"2018-03-07"|7|0.58|0.773|9|-3.302|0|0.05|0.656|0|0.112|0.506|124.148|4
+625|"06uzvyD85DEt2fEjt7mY3g"|"MAMAMOO"|"Just Believe In Love"|168000|"TRAVEL -Japan Edition-"|10|"2021-02-03"|10|0.669|0.731|1|-3.85|1|0.0441|0.0395|0|0.134|0.788|118.075|4
+626|"0SJ7vFES0Lj6pnumh3DhCe"|"Agust D"|"People"|197000|"D-2"|7|"2020-05-22"|10|0.76|0.682|1|-6.441|1|0.0371|0.0616|0|0.118|0.372|120.008|4
+627|"4as4XEOR03oGm1STUKl6pa"|"IU"|"BBIBBI"|194426|"BBIBBI"|1|"2018-10-10"|1|0.839|0.617|7|-4.692|1|0.331|0.241|0|0.3|0.821|143.894|4
+628|"5GKwq4sO5ZHKuWaDmdwMQc"|"Red Velvet"|"Bad Boy"|210817|"The Perfect Red Velvet - The 2nd Album Repackage"|1|"2018-01-29"|12|0.714|0.736|2|-3.801|1|0.0457|0.191|0|0.0553|0.814|149.985|4
+629|"3jsYQw78lrxJA2ysnmOIf9"|"BOL4"|"Some"|181373|"Red Diary Page.1"|1|"2017-09-28"|5|0.659|0.799|1|-2.849|0|0.0629|0.417|0|0.0562|0.782|103.991|4
+630|"2qwyjoSsSr3M7HTt611Q5O"|"MAMAMOO"|"Wind flower"|236816|"BLUE;S"|3|"2018-11-29"|6|0.735|0.795|0|-2.918|1|0.0518|0.656|0|0.0665|0.825|113.988|4
+631|"3p6hnejEQYXkiTO1lAzVc0"|"BTS"|"Euphoria"|228615|"Love Yourself 結 'Answer'"|1|"2018-08-24"|26|0.637|0.799|2|-4.519|1|0.0338|0.394|0|0.0921|0.562|104.995|4
+632|"6z1kLsntE7FuzKZHZWrXYN"|"DEAN"|"instagram"|255728|"instagram"|1|"2017-12-26"|1|0.463|0.566|8|-6.195|1|0.145|0.196|0|0.284|0.219|93.921|4
+633|"5cQB9fbuQCz4muQUFkv3rR"|"BTS"|"Serendipity (Full Length Edition)"|276707|"Love Yourself 結 'Answer'"|3|"2018-08-24"|26|0.347|0.578|8|-7.525|1|0.0626|0.445|0|0.231|0.226|86.73|5
+634|"1ZPpGPko8oULTmi34rozMh"|"BTS"|"Trivia 轉 : Seesaw"|246334|"Love Yourself 結 'Answer'"|11|"2018-08-24"|26|0.707|0.791|5|-4.481|0|0.035|0.181|0|0.102|0.678|106.985|4
+635|"7DKYA93lgKbhxzqE2ojtCS"|"RM"|"everythingoes"|222493|"mono."|6|"2018-10-22"|7|0.467|0.722|5|-5.819|1|0.0303|0.143|2.91e-06|0.128|0.14|92.014|4
+636|"3y7ByLZ05tluscOTRgEJ9Y"|"IU"|"Palette (feat. G-DRAGON)"|217412|"Palette"|2|"2017-04-21"|10|0.804|0.68|0|-3.81|1|0.2|0.458|0|0.102|0.62|102.013|4
+637|"645YBsxhFPSOKxGep3uHLv"|"BTS"|"Love Maze"|221529|"Love Yourself 轉 'Tear'"|6|"2018-05-18"|11|0.636|0.876|9|-4.652|1|0.0617|0.0487|0|0.0728|0.759|149.932|4
+638|"2LowwiemmGMzzNSH1PJprK"|"V"|"It's Definitely You"|230693|"HWARANG, Pt. 2 (Music from the Original TV Series)"|1|"2016-12-20"|2|0.737|0.731|10|-3.193|0|0.0706|0.241|0|0.087|0.761|94.999|4
+639|"22ryCgQttpV7oCrn7llGRu"|"BTS"|"Magic Shop"|275695|"Love Yourself 轉 'Tear'"|7|"2018-05-18"|11|0.541|0.661|1|-5.838|1|0.0889|0.103|0|0.0779|0.285|149.926|4
+640|"73ipE4lfZ53pvBbJPXkiEK"|"RM"|"seoul (prod. HONNE)"|275954|"mono."|2|"2018-10-22"|7|0.587|0.664|0|-8.63|1|0.0645|0.344|2.47e-05|0.324|0.453|99.8|4
+641|"1TUkEXQrskATO9SoB4QMUN"|"BAEKHYUN"|"Amusement Park"|256693|"Amusement Park"|1|"2020-12-21"|1|0.635|0.562|5|-5.374|1|0.0333|0.85|0|0.173|0.299|84.925|4
+642|"4eVkn18rN4GguUWOsR6Use"|"BTS"|"Answer : Love Myself"|251279|"Love Yourself 結 'Answer'"|16|"2018-08-24"|26|0.569|0.793|1|-3.749|1|0.0405|0.189|0|0.111|0.45|108.048|4
+643|"249gnXrbfmV8NG6jTEMSwD"|"BTS"|"Life Goes On"|207481|"BE"|1|"2020-11-20"|8|0.566|0.716|1|-5.733|1|0.0424|0.00691|0|0.37|0.45|81.068|4
+644|"1ZoQVu9XBssJBdeKMgF2eV"|"Halsey"|"SUGA's Interlude"|138204|"Manic"|13|"2020-01-17"|16|0.55|0.732|0|-6.88|1|0.105|0.0864|0|0.0425|0.246|153.836|4
+645|"0pYacDCZuRhcrwGUA5nTBe"|"IU"|"eight(Prod.&Feat. SUGA of BTS)"|167573|"eight"|1|"2020-05-06"|1|0.676|0.869|1|-1.573|1|0.0423|0.115|0|0.132|0.594|120.029|4
+646|"2pn8dNVSpYnAtlKFC8Q0DJ"|"ROSÉ"|"On The Ground"|168085|"R"|1|"2021-03-12"|2|0.311|0.607|1|-6.578|1|0.11|0.0174|0|0.131|0.286|188.7|4
+647|"44WLOqH7QayQOQdeUHeKUK"|"BTS"|"We are Bulletproof : the Eternal"|261542|"MAP OF THE SOUL : 7"|18|"2020-02-21"|20|0.526|0.575|9|-5.215|0|0.0309|0.225|0|0.108|0.19|84.047|4
+648|"5hnbE5BF2e8BCk9OMR1UVC"|"BTS"|"Mikrokosmos"|224225|"MAP OF THE SOUL : PERSONA"|3|"2019-04-12"|7|0.58|0.858|8|-5.212|1|0.114|0.125|0|0.0502|0.475|174.039|3
+649|"4WMCn6s4BZZPfQT3DJbB47"|"Nana Ou-Yang"|"The Best For You"|238822|"NANA I"|1|"2020-06-09"|3|0.461|0.338|9|-9.458|1|0.0805|0.632|2.57e-05|0.0803|0.0997|184.143|3
+650|"3CYH422oy1cZNoo0GTG1TK"|"Red Velvet"|"Psycho"|210560|"‘The ReVe Festival’ Finale"|1|"2019-12-23"|16|0.664|0.666|8|-2.203|1|0.0446|0.193|0|0.0854|0.405|139.987|4
+651|"48XfojJC87VKLlUotYV0Gm"|"BTS"|"The Truth Untold"|242292|"Love Yourself 轉 'Tear'"|3|"2018-05-18"|11|0.57|0.422|1|-7.561|0|0.0422|0.372|0|0.127|0.169|113.007|4
+652|"0n2moJpAEWHwaPYYjkzMDl"|"BTS"|"Blue & Grey"|254950|"BE"|3|"2020-11-20"|8|0.547|0.605|8|-6.755|1|0.0415|0.42|0|0.125|0.364|121.953|4
+653|"4BSluGpjdLQihMmKgHXMxp"|"LeeHi"|"HOLO"|178520|"HOLO"|1|"2020-07-23"|1|0.406|0.474|6|-6.349|1|0.0295|0.768|0|0.106|0.206|179.914|3
+654|"4Dr2hJ3EnVh2Aaot6fRwDO"|"IU"|"Blueming"|217053|"Love poem"|3|"2019-11-18"|6|0.819|0.674|0|-3.145|1|0.0587|0.0849|0|0.0667|0.682|106.032|4
+655|"1IX47gefluXmKX4PrTBCRM"|"TWICE"|"What is Love"|208240|"Summer Nights"|4|"2018-07-09"|9|0.574|0.909|8|-1.572|1|0.0655|0.0988|0|0.264|0.565|169.964|4
+656|"52PCrf2tqml44bWLNT58hF"|"ATEEZ"|"MIST"|199026|"TREASURE EP.FIN: All To Action"|4|"2019-10-08"|11|0.565|0.831|8|-2.758|1|0.0374|0.0818|0|0.13|0.361|127.992|4
+657|"5jJceu1XzlE3bPQhQTZ2Ul"|"MAMAMOO"|"Diamond"|160173|"TRAVEL"|4|"2020-11-03"|5|0.679|0.582|2|-5.113|0|0.168|0.27|0.00795|0.104|0.465|159.882|4
+658|"2Ghu1DdMwxS3VAyB7i38Wo"|"D.O."|"That's okay"|221373|"That's okay"|1|"2019-07-01"|2|0.679|0.442|7|-8.928|1|0.0637|0.723|0|0.231|0.628|129.671|4
+659|"4LfmJgyInGg96Kaue1ceGZ"|"MAMAMOO"|"Chuck"|196533|"TRAVEL"|3|"2020-11-03"|5|0.842|0.661|10|-3.392|0|0.129|0.292|1.22e-06|0.125|0.812|109.985|4
+660|"3KAfLV5JH4K0uMYBG5T1oK"|"MAMAMOO"|"Good Night"|248613|"TRAVEL"|5|"2020-11-03"|5|0.565|0.58|7|-5.597|0|0.062|0.623|0|0.265|0.363|91.969|4
+661|"2mf9FitEJnH6mcUU6y0Hkw"|"GOT7"|"Encore"|212869|"Encore"|1|"2021-02-20"|1|0.492|0.756|2|-4.482|1|0.0406|0.0434|0|0.887|0.262|173.82|4
+662|"0YltOLvdxFrB6mexkc2ruh"|"MAMAMOO"|"Travel"|211533|"TRAVEL"|1|"2020-11-03"|5|0.711|0.897|4|-2.825|1|0.0598|0.368|0|0.354|0.704|124.97|4
+663|"2CxgY4VvTNA0bG2nVtmgPg"|"(G)I-DLE"|"DAHLIA"|190026|"I burn"|6|"2021-01-11"|6|0.755|0.821|1|-3.688|0|0.0416|0.122|2.04e-06|0.127|0.448|101.997|4
+664|"3ndCsZfq8OVwwkz9mmZvUz"|"BTS"|"Stay"|204800|"BE"|7|"2020-11-20"|8|0.582|0.693|6|-5.048|1|0.0465|0.114|0|0.13|0.341|125.904|4
+665|"7L8hkKW4hnemNfuOfEZcle"|"BTS"|"Epiphany"|240361|"Love Yourself 結 'Answer'"|13|"2018-08-24"|26|0.509|0.558|2|-6.369|0|0.0276|0.29|0|0.131|0.327|135.879|4
+666|"3tP6QKbXvtrxiDI7QwKyUf"|"BLACKPINK"|"STAY"|230322|"SQUARE TWO"|2|"2016-11-01"|3|0.63|0.432|1|-6.721|1|0.0357|0.551|5.84e-06|0.0962|0.343|87.959|4
+667|"4YvtgtEH5E1pahZu9uzKRy"|"IU"|"Into the I-LAND"|217322|"I-LAND Part.1 Signal Song"|1|"2020-06-19"|1|0.521|0.926|0|-3.719|1|0.137|0.139|0|0.124|0.31|121.883|4
+668|"6ceLbOqD2zrnUollgXkKMn"|"BTS"|"Dynamite - Bedroom Remix"|207926|"Dynamite (NightTime Version)"|6|"2020-09-18"|6|0.756|0.745|1|-3.263|0|0.0341|0.0631|0|0.221|0.726|109.063|4
+669|"1j5oDtBWVtNoVHMi2n6Fkz"|"Jung Seung Hwan"|"Day & Night"|260600|"START-UP (Original Television Soundtrack) Pt. 2"|1|"2020-10-18"|2|0.509|0.269|3|-8.765|1|0.0277|0.897|0.00212|0.174|0.29|131.954|4
+670|"6oS5qBlnci7unQjdLiok41"|"MAMAMOO"|"Destiny"|247600|"reality in BLACK"|1|"2019-11-14"|11|0.562|0.793|9|-4.647|1|0.133|0.473|0|0.239|0.235|131.917|4
+671|"1iIhGHzzrzqQfuNkFI2qAn"|"ZICO"|"Any song"|227226|"Any song"|1|"2020-01-13"|1|0.874|0.787|10|-2.416|0|0.129|0.118|0|0.11|0.896|108.007|4
+672|"7HjcrlnxZ7mSZ8zfJC5fPc"|"TOMORROW X TOGETHER"|"Eternally"|217374|"The Dream Chapter: ETERNITY"|6|"2020-05-18"|6|0.382|0.85|6|-4.736|1|0.423|0.0255|0|0.0912|0.414|185.924|3
+673|"4OoO0q9DrsT0pSHvA435KF"|"KUN"|"情人"|195348|"情人"|1|"2020-05-24"|1|0.618|0.578|10|-7.521|0|0.0815|0.249|0|0.101|0.438|86.06|4
+674|"69WpV0U7OMNFGyq8I63dcC"|"ENHYPEN"|"Given-Taken"|183090|"BORDER : DAY ONE"|2|"2020-11-30"|6|0.631|0.649|8|-4.939|0|0.0377|0.17|0|0.321|0.459|108.07|4
+675|"6puhb4jtdrrYLz5uwRm5pg"|"TOMORROW X TOGETHER"|"Magic Island"|192920|"The Dream Chapter: MAGIC"|6|"2019-10-21"|8|0.736|0.424|11|-10.932|1|0.0431|0.516|0|0.115|0.765|105.005|4
+676|"0kq2SMYMcYk6dl2Z6k03yN"|"Eric Nam"|"I Don't Miss You"|172634|"I Don't Miss You"|1|"2018-11-08"|1|0.849|0.565|7|-5.559|0|0.0684|0.402|0|0.151|0.796|108.054|4
+677|"3NfgdU9mbIVhcJF3XvC0c9"|"OH MY GIRL"|"Dolphin"|176773|"NONSTOP"|2|"2020-04-27"|5|0.858|0.68|4|-4.531|1|0.0795|0.171|0|0.173|0.621|113.993|4
+678|"7oQh96s9YemWG3A4zkIbrU"|"SUNMI"|"pporappippam 보라빛 밤"|206616|"pporappippam 보라빛 밤"|1|"2020-06-29"|1|0.714|0.828|1|-4.68|0|0.0428|0.0513|0.0652|0.0347|0.318|120.014|4
+679|"4RewTiGEGoO7FWNZUmp1f4"|"IU"|"Celebrity"|195546|"Celebrity"|1|"2021-01-27"|1|0.73|0.784|9|-2.62|1|0.0691|0.191|0|0.0956|0.673|99.995|4
+680|"4eOcd47wPU3ixxYw0spREl"|"ENHYPEN"|"Let Me In (20 CUBE)"|189858|"BORDER : DAY ONE"|3|"2020-11-30"|6|0.483|0.795|8|-4.338|0|0.181|0.00258|0|0.0912|0.685|171.853|4
+681|"5dpQn0AXTRnJV0Ik1FcU47"|"AKMU"|"HAPPENING"|224015|"HAPPENING"|1|"2020-11-16"|1|0.647|0.548|9|-8.446|1|0.0271|0.0909|5.51e-05|0.108|0.272|127.981|4
+682|"14pjnaIqkpReO5D0tHofAS"|"PENTAGON"|"Daisy"|189000|"WE:TH"|1|"2020-10-12"|5|0.563|0.869|5|-2.235|1|0.0532|0.0362|0|0.138|0.48|85.016|4
+683|"6sI8Q7TTJeA9exw6hxEqq3"|"MAX"|"Blueberry Eyes (feat. SUGA of BTS)"|172244|"Colour Vision"|6|"2020-09-18"|12|0.746|0.611|0|-7.034|0|0.101|0.454|0.000922|0.133|0.411|149.967|4
+684|"2PudJHuPDFyXomHjmwTxqG"|"JAMIE"|"Apollo 11 (feat. Jay Park)"|200480|"Apollo 11 (feat. Jay Park)"|1|"2020-11-11"|1|0.635|0.728|11|-2.84|1|0.0792|0.625|0|0.124|0.531|145.828|4
+685|"3LcFQsZw01tRvjCNLgSmTv"|"ENHYPEN"|"10 Months"|194220|"BORDER : DAY ONE"|4|"2020-11-30"|6|0.876|0.73|6|-4.276|0|0.0492|0.0345|1.11e-06|0.11|0.709|110.006|4
+686|"0NJQUkvJT9PY8TMIRPq1oA"|"TOMORROW X TOGETHER"|"Your Light"|217893|"Your Light (From The Original TV Show ""Live On"")"|1|"2020-11-24"|3|0.749|0.931|1|-2.671|0|0.0484|0.0935|0|0.0542|0.848|110.993|4
+687|"67C8NRYbI2XwiYilezmxZQ"|"DAY6"|"Not Mine"|195684|"The Book of Us : Entropy"|10|"2019-10-22"|11|0.603|0.595|1|-2.727|0|0.0349|0.0998|0|0.0573|0.645|85.01|4
+688|"0RB0E9wj4DjaFDOYPEMeps"|"CL"|"+5 STAR+"|200560|"+HWA+"|2|"2020-10-29"|2|0.754|0.565|1|-5.147|0|0.0539|0.0831|1.43e-06|0.131|0.264|118.027|4
+689|"4qMt92hgQlJMyJjdI0Nw2h"|"KARD"|"GUNSHOT"|181480|"KARD 1st Single ‘Way With Words’"|2|"2020-08-26"|3|0.582|0.77|1|-3.52|1|0.0406|0.00253|0|0.198|0.348|135.008|4
+690|"44f1TNdoQUgf3PUYraCTsH"|"G-DRAGON"|"BLACK"|203772|"COUP D'ETAT (Korean Version)"|4|"2013-09-05"|12|0.494|0.651|4|-7.971|0|0.378|0.314|0|0.249|0.471|89.587|4
+691|"5IFCL8jUbhv1nP3cPuda7n"|"TOMORROW X TOGETHER"|"Fairy of Shampoo"|267099|"The Dream Chapter: ETERNITY"|3|"2020-05-18"|6|0.544|0.796|1|-5.754|1|0.0604|0.313|0.00673|0.42|0.473|105.145|4
+692|"2tYA2hPbaJqshY73q15wJz"|"TOMORROW X TOGETHER"|"Maze in the Mirror"|226083|"The Dream Chapter: ETERNITY"|4|"2020-05-18"|6|0.379|0.505|10|-4.979|1|0.0302|0.209|0|0.117|0.458|152.764|4
+693|"4X95Ecd1elHxTccGOko02c"|"YooA"|"Bon voyage"|219586|"Bon Voyage"|1|"2020-09-07"|5|0.703|0.889|2|-3.537|1|0.0509|0.307|3.84e-05|0.117|0.273|119.793|4
+694|"3TZ7NHkMT82AhwuYsd00Hz"|"BTS"|"Your eyes tell"|245146|"MAP OF THE SOUL : 7 ~ THE JOURNEY ~"|12|"2020-07-14"|13|0.449|0.491|9|-6.433|0|0.029|0.279|0|0.0654|0.258|139.923|4
+695|"2qG81jL9UIP54uS8gYyP4k"|"Lauv"|"Who (feat. BTS)"|180413|"~how i'm feeling~"|13|"2020-03-06"|21|0.632|0.339|11|-7.983|0|0.0337|0.546|0|0.104|0.0969|141.642|3
+696|"6SG8lh7fWQ2bahP5WBYePn"|"HEIZE"|"We don't talk together (Prod. by SUGA)"|199215|"We don’t talk together"|1|"2019-07-07"|1|0.629|0.736|7|-4.672|1|0.0401|0.039|0|0.333|0.308|97.883|4
+697|"2xtP8RNbo2BEMzLX7tK7aq"|"TWICE"|"CRY FOR ME"|204167|"CRY FOR ME"|1|"2020-12-18"|1|0.702|0.692|10|-5.405|1|0.0539|0.0542|0|0.0877|0.419|144.896|4
+698|"38SKB7UfhL6Sd6Joxex5yK"|"BLACKPINK"|"Don't Know What To Do"|201081|"KILL THIS LOVE"|2|"2019-04-05"|5|0.628|0.64|6|-4.164|0|0.0491|0.0992|0|0.138|0.409|129.815|4
+699|"5B7K0zs5gkaueWXzgd0vk7"|"suggi"|"astroboy."|240000|"cheer up!"|7|"2019-07-09"|16|0.707|0.503|0|-11.281|1|0.0358|0.441|9.92e-05|0.16|0.556|148.021|4
+700|"6KyafpXji3NKMmlmSokT9Y"|"Loco"|"Don’t"|231654|"The Hyena on the Keyboard Pt. 4"|1|"2018-04-21"|2|0.85|0.488|1|-7.052|1|0.0689|0.552|0|0.127|0.531|92.023|4
+701|"0NaccQM71LPaoSS8EZ0KhW"|"JEON SOMI"|"Outta My Head"|188161|"BIRTHDAY"|1|"2019-06-13"|2|0.717|0.487|3|-6.93|1|0.0533|0.386|0|0.373|0.581|130.048|4
+702|"13KR2yNRDrbKwR3dOKCDl4"|"STAYC"|"SO BAD"|212264|"Star To A Young Culture"|1|"2020-11-12"|2|0.557|0.906|7|-3.109|0|0.103|0.19|0|0.0616|0.616|168.978|4
+703|"39EXZNMxb4RBHlRjnRaOKp"|"V"|"Sweet Night"|214258|"ITAEWON CLASS (Original Television Soundtrack) Pt. 12"|1|"2020-03-13"|2|0.462|0.339|3|-7.943|1|0.025|0.495|8.15e-06|0.0893|0.149|92.106|4
+704|"3ryjLm3oupIjJFGc39naNi"|"BTS"|"dimple"|196776|"Love Yourself 承 'Her'"|4|"2017-09-18"|9|0.612|0.844|5|-4.694|0|0.0756|0.142|0|0.287|0.653|134.868|4
+705|"6veFyjNycn6EaNCKhkPXUY"|"BLACKPINK"|"Forever Young"|239100|"SQUARE UP"|2|"2018-06-15"|4|0.605|0.949|4|-2.907|1|0.0886|0.0414|0|0.0746|0.506|110.01|4
+706|"6KUE0HSSudAp9AOycaF6SH"|"BTS"|"Make It Right"|226321|"MAP OF THE SOUL : PERSONA"|4|"2019-04-12"|7|0.638|0.703|7|-7.874|1|0.444|0.0104|0|0.132|0.261|105.766|4
+707|"46CBJtc2XYcOzv6PI4OWGR"|"LEE SUHYUN"|"ALIEN"|181853|"ALIEN"|1|"2020-10-16"|1|0.792|0.696|9|-4.87|1|0.0545|0.0818|0.00181|0.447|0.75|127.992|4
+708|"2dHoVW9AxJVSRebPRyV2aA"|"ROSÉ"|"Gone"|207163|"R"|2|"2021-03-12"|2|0.647|0.377|6|-6.003|1|0.0375|0.594|0|0.0768|0.653|79.936|4
+709|"0rSMzlAKNapoat4NdZYmi3"|"TWICE"|"BETTER"|223666|"BETTER"|1|"2020-11-11"|1|0.768|0.698|6|-4.712|0|0.046|0.00123|0.00031|0.353|0.584|124.99|4
+710|"1NXZyqdvqt6pXe9XPaOfp1"|"ITZY"|"Trust Me (MIDZY)"|221638|"Trust Me (MIDZY)"|1|"2021-03-20"|2|0.607|0.525|2|-5.853|1|0.0432|0.225|0|0.0986|0.369|159.838|3
+711|"5xrtzzzikpG3BLbo4q1Yul"|"IU"|"LILAC"|214253|"IU 5th Album 'LILAC'"|1|"2021-03-25"|10|0.738|0.89|2|-2.275|0|0.0748|0.0895|1.89e-06|0.213|0.75|114.942|4
+712|"15c7KZTrsCUxCQcOdUVELc"|"BOL4"|"Galaxy 우주를 줄게"|213853|"Full Album RED PLANET"|1|"2016-08-29"|10|0.483|0.814|0|-2.407|1|0.143|0.683|0|0.0918|0.696|82.814|4
+713|"3KCreWc88InXH3XuL54C5a"|"TWICE"|"HELL IN HEAVEN"|179320|"Eyes Wide Open"|2|"2020-10-26"|13|0.8|0.81|4|-3.82|0|0.0604|0.182|1.06e-06|0.107|0.694|105.042|4
+714|"34WYAVk1WHSyMxY9tHRPyA"|"TWICE"|"DEPEND ON YOU"|198866|"Eyes Wide Open"|11|"2020-10-26"|13|0.676|0.597|5|-6.249|1|0.0387|0.0953|0|0.455|0.522|100.156|4
+715|"3UZ46DvXvB2R7sBUZornlv"|"Seori"|"Running Through The Night"|217533|"?depacse ohw"|3|"2020-05-12"|6|0.644|0.532|0|-6.541|1|0.0562|0.455|0|0.266|0.64|92.039|4
+716|"1LiNP5q2thWScdvCRkJ584"|"TWICE"|"UP NO MORE"|214240|"Eyes Wide Open"|3|"2020-10-26"|13|0.709|0.88|2|-2.734|1|0.0585|0.0298|4.46e-06|0.103|0.713|119.948|4
+717|"1e8PJyZMP4Kx2lGbb7t4ng"|"ITZY"|"TENNIS (0:0)"|219453|"GUESS WHO"|6|"2021-04-30"|6|0.848|0.66|0|-4.131|1|0.0546|0.135|0|0.175|0.737|142.034|4
+718|"7F9HWeJf4BTUzpj3B0CQKT"|"DAY6"|"Love me or Leave me"|222765|"The Book of Us : The Demon"|4|"2020-05-11"|8|0.618|0.899|6|-3.364|0|0.0328|0.00085|0|0.124|0.58|126.012|4
+719|"39kzWAiVPpycdMpr745oPj"|"BLACKPINK"|"You Never Know"|231201|"THE ALBUM"|8|"2020-10-02"|8|0.477|0.435|5|-6.497|1|0.0523|0.237|0|0.12|0.322|144.144|4
+720|"7HzvvhTmfzvD1dV4F7MIcm"|"TWICE"|"SHADOW"|168893|"MORE & MORE"|5|"2020-06-01"|7|0.696|0.751|11|-4.966|0|0.161|0.138|0|0.282|0.478|110.8|4
+721|"1nPMDcLKWTtGQH98waRTIk"|"NCT U"|"Faded In My Last Song"|215826|"NCT RESONANCE Pt. 1 - The 2nd Album"|10|"2020-10-12"|13|0.755|0.828|10|-3.11|0|0.0482|0.15|4.41e-06|0.112|0.683|135.002|4
+722|"77wO21RS6qs1SjMtM83y60"|"MAMAMOO"|"Destiny Part.2"|184880|"WAW"|4|"2021-06-02"|4|0.439|0.681|2|-4.732|1|0.0899|0.75|0|0.114|0.222|131.79|4
+723|"44tTqUi3xi7E28QLzHVdUA"|"TOMORROW X TOGETHER"|"Anti-Romantic"|215188|"The Chaos Chapter: FREEZE"|1|"2021-05-31"|8|0.641|0.489|0|-8.668|0|0.11|0.0509|0|0.071|0.206|142.977|4
+724|"3U5ti2dwp5FA70lZPrhv9l"|"Blue.D"|"NOBODY"|201183|"NOBODY"|1|"2019-12-02"|1|0.686|0.426|5|-7.134|0|0.0437|0.566|0|0.299|0.491|88.626|4
+725|"3YdqewCLgGsFhruA3EhILy"|"TWICE"|"First Time"|182946|"Taste of Love"|2|"2021-06-11"|6|0.812|0.754|8|-2.972|0|0.218|0.0535|0|0.0495|0.771|107.03|4
+726|"2fluM1mE0tKQ6rvM77Vr11"|"TWICE"|"Scandal"|163333|"Taste of Love"|3|"2021-06-11"|6|0.898|0.873|2|-2.977|0|0.0535|0.0397|0.00043|0.0846|0.662|119.015|4
+727|"2UjOwhXh0FP3V20buDcnWe"|"CHEEZE"|"Alone"|231514|"Alone"|1|"2014-07-11"|2|0.526|0.322|7|-9.859|1|0.0622|0.945|0.000523|0.215|0.469|84.849|4
+728|"23VWZ6sTNXZaa3zXkwJm7g"|"TWICE"|"Strawberry Moon"|203173|"Kura Kura"|2|"2021-05-12"|4|0.687|0.865|1|-3.185|0|0.0419|0.191|0|0.0845|0.601|107.013|4
+729|"2Sge3diCXX5ffrzoTHVaj4"|"Stray Kids"|"The View"|201746|"NOEASY"|5|"2021-08-23"|14|0.763|0.812|1|-4.134|1|0.0972|0.058|0|0.137|0.626|109.999|4
+730|"5eiCYAQ7K7pob2Ev9nfBXO"|"DAY6 (Even of Day)"|"Where the sea sleeps"|257752|"The Book of Us : Gluon - Nothing Can Tear Us Apart"|4|"2020-08-31"|7|0.611|0.576|8|-3.778|1|0.0295|0.328|0|0.17|0.382|150.03|3
+731|"0ffweDHrg4bZqdG4IfGYuo"|"BTS"|"Pied Piper"|245620|"Love Yourself 承 'Her'"|5|"2017-09-18"|9|0.583|0.712|2|-4.942|0|0.0326|0.2|0|0.268|0.776|94.051|4
+732|"1FqLWBedYhhH6CYQIMFxzz"|"Stray Kids"|"Surfin’ (Lee Know, Changbin, Felix)"|191333|"NOEASY"|11|"2021-08-23"|14|0.766|0.756|0|-4.644|1|0.0689|0.0545|0|0.231|0.537|104.973|4
+733|"3W9xYk4icAY3LbmUTPE7TU"|"Stray Kids"|"Mixtape : OH"|212480|"NOEASY"|14|"2021-08-23"|14|0.745|0.684|11|-4.398|0|0.0698|0.201|0|0.149|0.629|87.98|4
+734|"1exnDFdC34GyBcaLt9ZJfX"|"CHUNG HA"|"Gotta Go"|221813|"Gotta Go"|1|"2019-01-02"|1|0.531|0.83|3|-2.526|0|0.0446|0.0741|0|0.0993|0.419|101.903|4
+735|"1JsBcVdlKZJmDPJWu4wJPC"|"The Rose"|"RED"|176466|"RED"|2|"2019-08-13"|3|0.623|0.743|8|-2.26|1|0.0353|0.224|0|0.0914|0.52|128.07|4
+736|"139JUU8fJkQoeHl9nABk9C"|"TWICE"|"CRUEL"|211426|"Formula of Love: O+T=<3"|4|"2021-11-12"|16|0.84|0.827|9|-2.958|1|0.061|0.0112|0|0.151|0.82|124.989|4
+737|"6YBcbXDYIITuyCEN2YwGRy"|"TWICE"|"Doughnut"|263680|"Doughnut"|1|"2021-12-03"|1|0.693|0.586|5|-6.098|0|0.0315|0.233|0|0.145|0.459|82.039|4
+738|"6KhAXXgDtEEahVzATvFNcn"|"BTS"|"Moon"|208589|"MAP OF THE SOUL : 7"|16|"2020-02-21"|20|0.704|0.646|6|-6.658|1|0.0596|0.0104|0|0.191|0.64|141.87|4
+739|"5elW2CKSoqjYoJ32AGDxf1"|"ENHYPEN"|"Polaroid Love"|184601|"DIMENSION : ANSWER"|10|"2022-01-10"|11|0.738|0.67|7|-3.766|0|0.0439|0.458|0|0.361|0.651|138.055|4
+740|"128rj96Z6tTEU3h3awSMdB"|"TWICE"|"OXYGEN"|225400|"MORE & MORE"|2|"2020-06-01"|7|0.775|0.87|0|-4.198|0|0.0576|0.0564|2.82e-06|0.273|0.501|129.956|4
